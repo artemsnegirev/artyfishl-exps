@@ -156,11 +156,11 @@ def plot(df):
         g = g.sort_values("dim")
         kw = dict(marker="o", color=colors[model], label=labels[model], lw=2)
         axes[0].plot(g.dim, g.ndcg10, **kw)
-        axes[1].plot(g.dim, g.ndcg10_pct, **kw)
+        axes[1].plot(g.dim, g.recall100, **kw)
     ticks = [d for d in sorted(df.dim.unique()) if d not in (384, 768)]  # avoid label overlap
     for ax, title, ylabel in (
         (axes[0], "nDCG@10", "nDCG@10"),
-        (axes[1], "nDCG@10, % от полной размерности", "%"),
+        (axes[1], "Recall@100", "Recall@100"),
     ):
         ax.set_xscale("log", base=2)
         ax.set_xticks(ticks)
@@ -169,7 +169,6 @@ def plot(df):
         ax.set_ylabel(ylabel)
         ax.set_title(title)
         ax.grid(alpha=0.3)
-    axes[1].axhline(100, color="gray", lw=0.8, ls="--")
     axes[0].legend()
     fig.suptitle("RuBQ Retrieval (ruMTEB): обрезка эмбеддингов")
     fig.tight_layout()
