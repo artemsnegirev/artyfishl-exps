@@ -12,6 +12,7 @@ BG, GRID, TEXT, MUTED = "#0d1129", "#262b47", "#f3e6d3", "#8b8fb0"
 QWEN, FRIDA = "#f6e3c8", "#ff6b35"
 
 df = pd.read_csv(ROOT / "results.csv")
+df[["ndcg10", "recall100"]] *= 100  # show metrics as 0-100
 q = df[df.model == "Qwen3-Embedding-0.6B"].sort_values("dim")
 f = df[df.model == "FRIDA"].sort_values("dim")
 
@@ -28,9 +29,8 @@ ticks = [32, 64, 128, 256, 512, 1024, 1536]
 ax.set_xticks(ticks)
 ax.set_xticklabels([str(t) for t in ticks])
 ax.minorticks_off()
-ax.set_ylim(0.28, 0.76)
-ax.set_yticks([0.3, 0.4, 0.5, 0.6, 0.7])
-ax.set_yticklabels(["0.30", "0.40", "0.50", "0.60", "0.70"])
+ax.set_ylim(28, 76)
+ax.set_yticks([30, 40, 50, 60, 70])
 ax.grid(axis="y", color=GRID, lw=1)
 ax.tick_params(colors=TEXT, labelsize=15, length=0, pad=12)
 for s in ax.spines.values():
@@ -39,16 +39,16 @@ ax.set_xlabel("сколько первых компонент оставили",
 
 # annotations
 v = lambda d, m: float(d.loc[d.dim == m, "ndcg10"].iloc[0])
-ax.annotate(f"{v(q, 32):.2f}", (32, v(q, 32)), xytext=(36, v(q, 32) - 0.035), color=QWEN, fontsize=17, fontweight="bold")
-ax.annotate(f"{v(f, 32):.2f}", (32, v(f, 32)), xytext=(36, v(f, 32) - 0.035), color=FRIDA, fontsize=17, fontweight="bold")
+ax.annotate(f"{v(q, 32):.1f}", (32, v(q, 32)), xytext=(36, v(q, 32) - 3.5), color=QWEN, fontsize=17, fontweight="bold")
+ax.annotate(f"{v(f, 32):.1f}", (32, v(f, 32)), xytext=(36, v(f, 32) - 3.5), color=FRIDA, fontsize=17, fontweight="bold")
 ax.annotate(
-    f"256: FRIDA {v(f, 256):.3f}, Qwen3 {v(q, 256):.3f}",
-    xy=(256, v(q, 256)), xytext=(256, 0.565), ha="center", color=TEXT, fontsize=15,
+    f"256: FRIDA {v(f, 256):.1f}, Qwen3 {v(q, 256):.1f}",
+    xy=(256, v(q, 256)), xytext=(256, 56.5), ha="center", color=TEXT, fontsize=15,
     arrowprops=dict(arrowstyle="-", color=MUTED, lw=1.2),
 )
 
 leg = ax.legend(loc="lower right", frameon=False, fontsize=15, labelcolor=TEXT, handlelength=2.2)
 fig.text(0.06, 0.955, "Сколько nDCG@10 остается после обрезки эмбеддинга", color=TEXT, fontsize=22, fontweight="bold")
-fig.text(0.06, 0.915, "RuBQ Retrieval, 56 826 документов, абсолютные значения", color=MUTED, fontsize=15)
+fig.text(0.06, 0.915, "RuBQ Retrieval, 56 826 документов, nDCG@10 × 100", color=MUTED, fontsize=15)
 fig.subplots_adjust(left=0.1, right=0.96, top=0.87, bottom=0.12)
 fig.savefig(ROOT / "post_card.png", facecolor=BG)

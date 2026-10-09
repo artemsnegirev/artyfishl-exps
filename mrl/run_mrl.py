@@ -122,7 +122,7 @@ def write_md(df):
         "# MRL / truncation: RuBQ Retrieval (ruMTEB)",
         "",
         "Эмбеддинги в полной размерности обрезаются до первых k компонент и заново L2-нормируются.",
-        "В скобках — % от полной размерности модели.",
+        "Метрики × 100. В скобках — % от полной размерности модели.",
         "",
         "| dim | FRIDA nDCG@10 | Qwen3-0.6B nDCG@10 | FRIDA R@100 | Qwen3-0.6B R@100 |",
         "|---:|---:|---:|---:|---:|",
@@ -133,7 +133,7 @@ def write_md(df):
         if (model, d) not in idx.index:
             return "—"
         r = idx.loc[(model, d)]
-        return f"{r[m]:.3f} ({r[m + '_pct']:.0f}%)"
+        return f"{100 * r[m]:.1f} ({r[m + '_pct']:.0f}%)"
 
     for d in dims:
         lines.append(
@@ -155,8 +155,8 @@ def plot(df):
     for model, g in df.groupby("model"):
         g = g.sort_values("dim")
         kw = dict(marker="o", color=colors[model], label=labels[model], lw=2)
-        axes[0].plot(g.dim, g.ndcg10, **kw)
-        axes[1].plot(g.dim, g.recall100, **kw)
+        axes[0].plot(g.dim, 100 * g.ndcg10, **kw)
+        axes[1].plot(g.dim, 100 * g.recall100, **kw)
     ticks = [d for d in sorted(df.dim.unique()) if d not in (384, 768)]  # avoid label overlap
     for ax, title, ylabel in (
         (axes[0], "nDCG@10", "nDCG@10"),
