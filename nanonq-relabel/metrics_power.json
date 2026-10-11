@@ -1,0 +1,66 @@
+{
+ "old_10models_depth100": {
+  "hit@10": {
+   "sig": 7,
+   "pairs": 45,
+   "median_t": 1.63
+  },
+  "MRR@10": {
+   "sig": 23,
+   "pairs": 45,
+   "median_t": 2.13
+  },
+  "P@10": {
+   "sig": 7,
+   "pairs": 45,
+   "median_t": 1.27
+  },
+  "nDCG@10": {
+   "sig": 23,
+   "pairs": 45,
+   "median_t": 2.16
+  },
+  "nDCG@100": {
+   "sig": 23,
+   "pairs": 45,
+   "median_t": 2.0
+  },
+  "R@100": {
+   "sig": 8,
+   "pairs": 45,
+   "median_t": 0.57
+  },
+  "AP@100": {
+   "sig": 21,
+   "pairs": 45,
+   "median_t": 2.01
+  },
+  "MRR@100": {
+   "sig": 24,
+   "pairs": 45,
+   "median_t": 2.1
+  }
+ },
+ "both_5models_top10": {
+  "hit@10": {
+   "sig": 1,
+   "pairs": 10,
+   "median_t": 1.43
+  },
+  "MRR@10": {
+   "sig": 4,
+   "pairs": 10,
+   "median_t": 1.63
+  },
+  "P@10": {
+   "sig": 4,
+   "pairs": 10,
+   "median_t": 0.91
+  },
+  "nDCG@10": {
+   "sig": 4,
+   "pairs": 10,
+   "median_t": 1.59
+  }
+ }
+}

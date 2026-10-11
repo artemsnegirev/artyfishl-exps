@@ -1,0 +1,311 @@
+{"qid":"test2721","did":"doc1056790","label":0,"reason":"Different show (game adaptation), not Ordeal by Innocence"}
+{"qid":"test2721","did":"doc1081224","label":0,"reason":"Episode counts for unrelated series"}
+{"qid":"test2721","did":"doc1185939","label":0,"reason":"Unnamed Fox show episode count, unrelated"}
+{"qid":"test2721","did":"doc1188058","label":0,"reason":"Channel 4/Netflix show, not Ordeal by Innocence"}
+{"qid":"test2721","did":"doc1245931","label":0,"reason":"Different anthology series episodes"}
+{"qid":"test2721","did":"doc1272096","label":0,"reason":"Suite Life character description, off-topic"}
+{"qid":"test2721","did":"doc1421127","label":0,"reason":"Different BBC series episode count"}
+{"qid":"test2721","did":"doc143496","label":0,"reason":"Doctor Who episode format, unrelated"}
+{"qid":"test2721","did":"doc1471942","label":0,"reason":"Beauty and the Beast song, off-topic"}
+{"qid":"test2721","did":"doc1500831","label":0,"reason":"Generic US TV season length"}
+{"qid":"test2721","did":"doc1548640","label":0,"reason":"About the novel, no episode count"}
+{"qid":"test2721","did":"doc1563745","label":0,"reason":"Unnamed ITV serial episodes, not identified as Ordeal"}
+{"qid":"test2721","did":"doc1563751","label":0,"reason":"Unnamed 1985 ITV serial, not identified as Ordeal"}
+{"qid":"test2721","did":"doc1563752","label":0,"reason":"Unnamed 1987 ITV serial, not identified as Ordeal"}
+{"qid":"test2721","did":"doc1619495","label":0,"reason":"Religious text, off-topic"}
+{"qid":"test2721","did":"doc1786034","label":0,"reason":"Circles of latitude, off-topic"}
+{"qid":"test2721","did":"doc180922","label":0,"reason":"Different Fox series episode count"}
+{"qid":"test2721","did":"doc190988","label":0,"reason":"Unnamed other series episode counts"}
+{"qid":"test2721","did":"doc191614","label":0,"reason":"Series of Unfortunate Events episodes"}
+{"qid":"test2721","did":"doc1962174","label":0,"reason":"Higurashi anime episode count"}
+{"qid":"test2721","did":"doc2000671","label":0,"reason":"Unnamed series DVD, unrelated"}
+{"qid":"test2721","did":"doc2179555","label":0,"reason":"Sherlock Holmes adaptation episodes, unrelated"}
+{"qid":"test2721","did":"doc2184940","label":0,"reason":"Ghost in the Shell Innocence film, unrelated"}
+{"qid":"test2721","did":"doc2517860","label":0,"reason":"Animated series episodes, unrelated"}
+{"qid":"test2721","did":"doc2563030","label":0,"reason":"Popper falsificationism, off-topic"}
+{"qid":"test2721","did":"doc381154","label":0,"reason":"Series of Unfortunate Events seasons"}
+{"qid":"test2721","did":"doc487000","label":0,"reason":"Law & Order CI episodes"}
+{"qid":"test2721","did":"doc50167","label":0,"reason":"Goliath/Trial series, unrelated"}
+{"qid":"test2721","did":"doc567112","label":0,"reason":"Conviction series episodes, unrelated"}
+{"qid":"test2721","did":"doc60190","label":0,"reason":"Unnamed Noggin show episodes"}
+{"qid":"test2721","did":"doc775913","label":0,"reason":"TV3 soap episodes, unrelated"}
+{"qid":"test2721","did":"doc841633","label":0,"reason":"Saving Hope episodes, unrelated"}
+{"qid":"test2721","did":"doc93287","label":1,"reason":"Ordeal by Innocence is a three part BBC drama"}
+{"qid":"test3108","did":"doc106332","label":1,"reason":"Belle originally voiced by Paige O'Hara"}
+{"qid":"test3108","did":"doc106338","label":0,"reason":"Character development, no voice actress"}
+{"qid":"test3108","did":"doc106357","label":0,"reason":"Broadway Belle actresses, not the voice"}
+{"qid":"test3108","did":"doc106362","label":0,"reason":"Theme park and dance portrayals, not voice"}
+{"qid":"test3108","did":"doc106372","label":1,"reason":"O'Hara nominated for voice acting reprising Belle"}
+{"qid":"test3108","did":"doc1246069","label":0,"reason":"Once Upon a Time Belle backstory"}
+{"qid":"test3108","did":"doc1246072","label":0,"reason":"Once Upon a Time plot, no voice actor"}
+{"qid":"test3108","did":"doc1445498","label":0,"reason":"Gaston's voice actor, not Belle's"}
+{"qid":"test3108","did":"doc1445499","label":0,"reason":"Gaston character creation, no Belle voice"}
+{"qid":"test3108","did":"doc1471934","label":1,"reason":"Paige O'Hara recorded as Belle via voice over"}
+{"qid":"test3108","did":"doc1629806","label":0,"reason":"Remake song; Watson plays Belle, not voice"}
+{"qid":"test3108","did":"doc24299","label":0,"reason":"Beast's voice actor only"}
+{"qid":"test3108","did":"doc283995","label":0,"reason":"Mrs. Potts description, no Belle voice"}
+{"qid":"test3108","did":"doc2846","label":0,"reason":"Live-action casting, not who voices Belle"}
+{"qid":"test3108","did":"doc285755","label":0,"reason":"Live-action remake casting, not voice actor"}
+{"qid":"test3108","did":"doc337523","label":0,"reason":"Musical plot summary, no actor"}
+{"qid":"test3108","did":"doc388464","label":1,"reason":"Belle voiced by Paige O'Hara, now Julie Nathanson"}
+{"qid":"test3108","did":"doc392476","label":0,"reason":"Beast's voice actor only"}
+{"qid":"test3108","did":"doc427621","label":1,"reason":"O'Hara replaced by Julie Nathanson as voice of Belle"}
+{"qid":"test3108","did":"doc446484","label":0,"reason":"Evermore song, no Belle voice actor"}
+{"qid":"test3108","did":"doc60315","label":0,"reason":"Once Upon a Time episode plot"}
+{"qid":"test3108","did":"doc703702","label":0,"reason":"Character development, no voice actress"}
+{"qid":"test3108","did":"doc703705","label":1,"reason":"O'Hara imbued Belle's voice, recorded the role"}
+{"qid":"test3108","did":"doc703706","label":1,"reason":"O'Hara voices Belle; replaced by Nathanson"}
+{"qid":"test3108","did":"doc703711","label":0,"reason":"Performance model Stoner; O'Hara's voice role not stated"}
+{"qid":"test3108","did":"doc703714","label":0,"reason":"Plot summary, no voice actor"}
+{"qid":"test3108","did":"doc703715","label":0,"reason":"Sequel plots, no voice actor"}
+{"qid":"test3108","did":"doc703721","label":0,"reason":"Broadway actresses, not the voice"}
+{"qid":"test3108","did":"doc703728","label":0,"reason":"Critical reception, no voice actor"}
+{"qid":"test3108","did":"doc703736","label":1,"reason":"O'Hara nominated for voice acting as Belle"}
+{"qid":"test3108","did":"doc874101","label":0,"reason":"Human Again song, Belle's voice not named"}
+{"qid":"test598","did":"doc1455444","label":0,"reason":"Sims 3 body customization, no date"}
+{"qid":"test598","did":"doc1455469","label":0,"reason":"Sims 3 copy protection"}
+{"qid":"test598","did":"doc1455508","label":0,"reason":"Sims 3 sales"}
+{"qid":"test598","did":"doc1527545","label":0,"reason":"Guys and Dolls casting, off-topic"}
+{"qid":"test598","did":"doc1626453","label":0,"reason":"Unrelated 1997 educational game"}
+{"qid":"test598","did":"doc1738086","label":0,"reason":"Toddlers & Tiaras TV show"}
+{"qid":"test598","did":"doc1832253","label":0,"reason":"Unrelated film release"}
+{"qid":"test598","did":"doc1836919","label":0,"reason":"Bloons TD 4 release"}
+{"qid":"test598","did":"doc187765","label":0,"reason":"Minecraft PlayStation release dates"}
+{"qid":"test598","did":"doc21339","label":0,"reason":"Sims 4 Create A Sim, no toddler date"}
+{"qid":"test598","did":"doc21340","label":1,"reason":"Toddlers added in January 2017 patch"}
+{"qid":"test598","did":"doc21350","label":0,"reason":"Sims 4 connectivity and music"}
+{"qid":"test598","did":"doc21363","label":0,"reason":"Speculation about toddlers, no date"}
+{"qid":"test598","did":"doc21372","label":1,"reason":"Toddler life stage added January 12, 2017"}
+{"qid":"test598","did":"doc21378","label":0,"reason":"Metacritic score only"}
+{"qid":"test598","did":"doc22983","label":0,"reason":"Unrelated mobile game launch"}
+{"qid":"test598","did":"doc2336226","label":0,"reason":"Hasbro game night, off-topic"}
+{"qid":"test598","did":"doc242474","label":0,"reason":"Fallout 4 expansion release"}
+{"qid":"test598","did":"doc2442198","label":0,"reason":"Sims 4 business career trivia"}
+{"qid":"test598","did":"doc297999","label":0,"reason":"No Man's Sky release"}
+{"qid":"test598","did":"doc308175","label":0,"reason":"Unidentified 2004 release date"}
+{"qid":"test598","did":"doc338801","label":0,"reason":"Sims 2 aging mechanics"}
+{"qid":"test598","did":"doc338810","label":0,"reason":"Sims 2 life stages"}
+{"qid":"test598","did":"doc338818","label":0,"reason":"Sims 2 reception"}
+{"qid":"test598","did":"doc457119","label":0,"reason":"Unidentified season 4 air dates"}
+{"qid":"test598","did":"doc598055","label":0,"reason":"Unidentified episode air date"}
+{"qid":"test598","did":"doc641498","label":0,"reason":"Unidentified episode air date"}
+{"qid":"test598","did":"doc811414","label":0,"reason":"Anime US licensing history"}
+{"qid":"test598","did":"doc864016","label":0,"reason":"Unidentified game release 2010"}
+{"qid":"test598","did":"doc889101","label":0,"reason":"Unidentified game release dates"}
+{"qid":"test1501","did":"doc1005393","label":0,"reason":"Film shot in Bahamas, unrelated"}
+{"qid":"test1501","did":"doc1127543","label":0,"reason":"Whittier filming locations, unrelated"}
+{"qid":"test1501","did":"doc1298637","label":0,"reason":"Outlander filming locations"}
+{"qid":"test1501","did":"doc1311119","label":0,"reason":"Unrelated production filming"}
+{"qid":"test1501","did":"doc1384430","label":0,"reason":"Unrelated show episode locations"}
+{"qid":"test1501","did":"doc1590438","label":0,"reason":"Rhode Island filming, unrelated"}
+{"qid":"test1501","did":"doc1703998","label":0,"reason":"Laginas buy Oak Island Tours, no show filming"}
+{"qid":"test1501","did":"doc1704007","label":0,"reason":"Oak Island stone history"}
+{"qid":"test1501","did":"doc172947","label":0,"reason":"Island reality show in Panama, unrelated"}
+{"qid":"test1501","did":"doc181195","label":0,"reason":"Chesapeake Shores filming"}
+{"qid":"test1501","did":"doc2027228","label":0,"reason":"Teen Beach Movie filming"}
+{"qid":"test1501","did":"doc2224204","label":0,"reason":"Unrelated Sonoma filming"}
+{"qid":"test1501","did":"doc2306629","label":0,"reason":"Once Upon a Time episode"}
+{"qid":"test1501","did":"doc261941","label":0,"reason":"Unrelated film in BC and New Orleans"}
+{"qid":"test1501","did":"doc2660672","label":0,"reason":"Ravenswood premise"}
+{"qid":"test1501","did":"doc314041","label":0,"reason":"Sky King filming in California"}
+{"qid":"test1501","did":"doc371079","label":0,"reason":"Dawson's Creek locations"}
+{"qid":"test1501","did":"doc450131","label":0,"reason":"Gullah Gullah Island taping"}
+{"qid":"test1501","did":"doc53464","label":0,"reason":"Premiere info, filming location not stated"}
+{"qid":"test1501","did":"doc53465","label":1,"reason":"Show follows Laginas' treasure search on Oak Island"}
+{"qid":"test1501","did":"doc610779","label":0,"reason":"Oak Island settlement history"}
+{"qid":"test1501","did":"doc611282","label":0,"reason":"North Carolina Oak Island town, wrong place"}
+{"qid":"test1501","did":"doc611283","label":0,"reason":"NC Oak Island metro area"}
+{"qid":"test1501","did":"doc611287","label":0,"reason":"NC Oak Island geography"}
+{"qid":"test1501","did":"doc851514","label":0,"reason":"Pirates of Caribbean filming"}
+{"qid":"test1501","did":"doc87191","label":0,"reason":"Death in Paradise filming"}
+{"qid":"test1501","did":"doc89435","label":0,"reason":"Ozark filming locations, unrelated"}
+{"qid":"test1501","did":"doc9798","label":0,"reason":"Stranger Things filming in Georgia"}
+{"qid":"test2079","did":"doc1214168","label":0,"reason":"Wanna Be Startin' Somethin', different song"}
+{"qid":"test2079","did":"doc1248717","label":0,"reason":"This Is It film content"}
+{"qid":"test2079","did":"doc1629806","label":0,"reason":"Beauty and the Beast song, off-topic"}
+{"qid":"test2079","did":"doc1781006","label":0,"reason":"Drake/Bedrock song, off-topic"}
+{"qid":"test2079","did":"doc180079","label":0,"reason":"Man in the Mirror, different song"}
+{"qid":"test2079","did":"doc1824656","label":0,"reason":"Broadway song, off-topic"}
+{"qid":"test2079","did":"doc183950","label":0,"reason":"Is It Scary credits"}
+{"qid":"test2079","did":"doc1852908","label":0,"reason":"General MJ influence"}
+{"qid":"test2079","did":"doc18814","label":0,"reason":"Jacksons miniseries cast"}
+{"qid":"test2079","did":"doc2010388","label":0,"reason":"MJ Walk of Fame stars"}
+{"qid":"test2079","did":"doc2174234","label":0,"reason":"Unrelated song list"}
+{"qid":"test2079","did":"doc2217863","label":0,"reason":"Don't Stop 'Til You Get Enough"}
+{"qid":"test2079","did":"doc2353712","label":0,"reason":"This Is It setlist"}
+{"qid":"test2079","did":"doc2574040","label":0,"reason":"Beatles song, off-topic"}
+{"qid":"test2079","did":"doc2603021","label":0,"reason":"The Office episode references"}
+{"qid":"test2079","did":"doc352368","label":0,"reason":"Hold My Hand duet with Akon"}
+{"qid":"test2079","did":"doc399642","label":0,"reason":"Joe Tex song, unrelated"}
+{"qid":"test2079","did":"doc400631","label":0,"reason":"Off the Wall album"}
+{"qid":"test2079","did":"doc506854","label":0,"reason":"Memorial tribute performance"}
+{"qid":"test2079","did":"doc617309","label":0,"reason":"Unidentified live performances"}
+{"qid":"test2079","did":"doc673167","label":0,"reason":"Unidentified song from Moonwalk"}
+{"qid":"test2079","did":"doc702902","label":0,"reason":"Rockin' Robin"}
+{"qid":"test2079","did":"doc72413","label":1,"reason":"Somebody's Watching Me by Rockwell featuring Michael Jackson"}
+{"qid":"test2079","did":"doc72416","label":0,"reason":"Mentions MJ backing vocals but not main singer"}
+{"qid":"test2079","did":"doc732015","label":0,"reason":"MJ collaborations with Mercury, Jagger"}
+{"qid":"test2079","did":"doc732018","label":0,"reason":"Thriller era commercial success"}
+{"qid":"test2079","did":"doc86071","label":0,"reason":"We Are the World video"}
+{"qid":"test1009","did":"doc106332","label":0,"reason":"About Belle, no Heather"}
+{"qid":"test1009","did":"doc106357","label":0,"reason":"Broadway Belle, no Heather"}
+{"qid":"test1009","did":"doc106372","label":0,"reason":"Belle legacy, no Heather"}
+{"qid":"test1009","did":"doc1332302","label":0,"reason":"2014 French film cast, no Heather"}
+{"qid":"test1009","did":"doc1445498","label":0,"reason":"Gaston, no Heather"}
+{"qid":"test1009","did":"doc1445499","label":0,"reason":"Gaston creation, no Heather"}
+{"qid":"test1009","did":"doc211896","label":0,"reason":"Title song recording, no Heather"}
+{"qid":"test1009","did":"doc2456577","label":0,"reason":"Heathers series cast, not Beauty and the Beast"}
+{"qid":"test1009","did":"doc2832","label":0,"reason":"2017 film cast, no Heather"}
+{"qid":"test1009","did":"doc2833","label":0,"reason":"2017 film production, no Heather"}
+{"qid":"test1009","did":"doc284003","label":0,"reason":"Featherduster character, no Heather"}
+{"qid":"test1009","did":"doc2846","label":0,"reason":"2017 film casting, no Heather"}
+{"qid":"test1009","did":"doc285723","label":0,"reason":"Animated film production history"}
+{"qid":"test1009","did":"doc285755","label":0,"reason":"Remake casting, no Heather"}
+{"qid":"test1009","did":"doc2877","label":0,"reason":"Remake reviews"}
+{"qid":"test1009","did":"doc298160","label":0,"reason":"1987 CBS series, no Heather"}
+{"qid":"test1009","did":"doc35719","label":1,"reason":"Nicole Gale Anderson played Heather Chandler on CW Beauty & the Beast"}
+{"qid":"test1009","did":"doc427621","label":0,"reason":"Belle voice actress, no Heather"}
+{"qid":"test1009","did":"doc436998","label":0,"reason":"Season 2 casting, no Heather"}
+{"qid":"test1009","did":"doc446480","label":0,"reason":"Remake songs"}
+{"qid":"test1009","did":"doc652521","label":0,"reason":"Remake deleted song casting"}
+{"qid":"test1009","did":"doc703719","label":0,"reason":"Watson as Belle"}
+{"qid":"test1009","did":"doc703721","label":0,"reason":"Broadway Belle actresses"}
+{"qid":"test1009","did":"doc703736","label":0,"reason":"Belle legacy, no Heather"}
+{"qid":"test1009","did":"doc760435","label":0,"reason":"Heathers musical reading"}
+{"qid":"test1009","did":"doc973089","label":0,"reason":"Lists Anderson in cast but not her role"}
+{"qid":"test2032","did":"doc1338792","label":0,"reason":"Stringent response, no location"}
+{"qid":"test2032","did":"doc1487858","label":0,"reason":"Cysteine regulon regulation"}
+{"qid":"test2032","did":"doc1540259","label":0,"reason":"RNA polymerases, no location"}
+{"qid":"test2032","did":"doc1841144","label":0,"reason":"trp operon repression"}
+{"qid":"test2032","did":"doc1841146","label":0,"reason":"No nucleus noted but location not stated"}
+{"qid":"test2032","did":"doc1921625","label":0,"reason":"Z-DNA and transcription mutagenesis"}
+{"qid":"test2032","did":"doc211230","label":0,"reason":"Archaeal transcription"}
+{"qid":"test2032","did":"doc2288928","label":0,"reason":"Alkaline phosphatase in periplasm"}
+{"qid":"test2032","did":"doc2498492","label":0,"reason":"Gram-variable staining"}
+{"qid":"test2032","did":"doc2607396","label":0,"reason":"Listeria description"}
+{"qid":"test2032","did":"doc313354","label":0,"reason":"RNA polymerase subunits"}
+{"qid":"test2032","did":"doc313364","label":0,"reason":"Transcription termination mechanisms"}
+{"qid":"test2032","did":"doc313365","label":0,"reason":"Eukaryotic termination"}
+{"qid":"test2032","did":"doc331138","label":0,"reason":"Gram-negative membranes, no transcription location"}
+{"qid":"test2032","did":"doc412168","label":0,"reason":"Gram staining"}
+{"qid":"test2032","did":"doc42101","label":0,"reason":"lac operon regulation"}
+{"qid":"test2032","did":"doc435075","label":0,"reason":"Gram-negative definition"}
+{"qid":"test2032","did":"doc435076","label":0,"reason":"Gram-negative examples and medicine"}
+{"qid":"test2032","did":"doc435079","label":0,"reason":"Gram-negative taxonomy"}
+{"qid":"test2032","did":"doc435081","label":0,"reason":"Monoderm/diderm evolution"}
+{"qid":"test2032","did":"doc465988","label":0,"reason":"Eukaryotic transcription in nucleus"}
+{"qid":"test2032","did":"doc70904","label":0,"reason":"Quorum sensing AHL"}
+{"qid":"test2032","did":"doc768322","label":1,"reason":"Bacterial transcription occurs in the cytoplasm"}
+{"qid":"test2032","did":"doc782782","label":0,"reason":"Antibiotic grouping"}
+{"qid":"test2032","did":"doc865796","label":0,"reason":"Transcription definition, no bacterial location"}
+{"qid":"test826","did":"doc101561","label":1,"reason":"Three-Fifths Compromise in Article I, Section 2, Clause 3"}
+{"qid":"test826","did":"doc1052760","label":0,"reason":"Hartford Convention, no constitutional location"}
+{"qid":"test826","did":"doc1456780","label":0,"reason":"Connecticut Compromise vote"}
+{"qid":"test826","did":"doc1486663","label":0,"reason":"Sherman proposed it; no article location"}
+{"qid":"test826","did":"doc151694","label":0,"reason":"Fourteenth Amendment drafting"}
+{"qid":"test826","did":"doc1728840","label":0,"reason":"Convention summary, no article location"}
+{"qid":"test826","did":"doc1774","label":0,"reason":"Capital location compromise"}
+{"qid":"test826","did":"doc1798668","label":0,"reason":"Editorial note, no location"}
+{"qid":"test826","did":"doc1938693","label":0,"reason":"Technocracy, off-topic"}
+{"qid":"test826","did":"doc2107778","label":0,"reason":"Articles of Confederation drafting"}
+{"qid":"test826","did":"doc231271","label":0,"reason":"District clause and Compromise of 1790"}
+{"qid":"test826","did":"doc2332126","label":0,"reason":"Dilmun history, off-topic"}
+{"qid":"test826","did":"doc278641","label":0,"reason":"Missouri Compromise"}
+{"qid":"test826","did":"doc29757","label":1,"reason":"Found in Article 1, Section 2, Clause 3"}
+{"qid":"test826","did":"doc29759","label":0,"reason":"Ratio origin in 1783 amendment, not constitutional location"}
+{"qid":"test826","did":"doc38721","label":0,"reason":"Electoral College and slavery"}
+{"qid":"test826","did":"doc49200","label":0,"reason":"Wilson proposed compromise; no location"}
+{"qid":"test826","did":"doc50625","label":0,"reason":"Senate election clauses"}
+{"qid":"test826","did":"doc520684","label":0,"reason":"Committee report, no constitutional article"}
+{"qid":"test826","did":"doc597628","label":0,"reason":"Fragment, no content"}
+{"qid":"test826","did":"doc613870","label":0,"reason":"Compromise of 1850"}
+{"qid":"test826","did":"doc625773","label":0,"reason":"Connecticut Compromise nickname"}
+{"qid":"test826","did":"doc641530","label":1,"reason":"Three-Fifths Compromise in Article I, Section 2"}
+{"qid":"test826","did":"doc761733","label":0,"reason":"Origination Clause"}
+{"qid":"test826","did":"doc792177","label":0,"reason":"Fifteenth Amendment fragment"}
+{"qid":"test306","did":"doc1030288","label":0,"reason":"2000 high-speed rail referendum, not historical results"}
+{"qid":"test306","did":"doc1030289","label":0,"reason":"Rail amendment repeal"}
+{"qid":"test306","did":"doc11639","label":1,"reason":"Flagler railroad led towns to grow, farmland cultivated"}
+{"qid":"test306","did":"doc1185579","label":0,"reason":"Planned Amtrak stations"}
+{"qid":"test306","did":"doc1373335","label":0,"reason":"National rail decline, not Florida"}
+{"qid":"test306","did":"doc1837771","label":0,"reason":"Latin American railways"}
+{"qid":"test306","did":"doc206040","label":0,"reason":"Texas railroads and lumber"}
+{"qid":"test306","did":"doc2366137","label":0,"reason":"Everglades restoration plan"}
+{"qid":"test306","did":"doc2369112","label":0,"reason":"Bahia Honda bridge history, no broad results"}
+{"qid":"test306","did":"doc2429823","label":0,"reason":"PortMiami rail project"}
+{"qid":"test306","did":"doc2449643","label":0,"reason":"Civil War damage to railroads"}
+{"qid":"test306","did":"doc2499695","label":0,"reason":"High-speed rail cancellation"}
+{"qid":"test306","did":"doc2527260","label":0,"reason":"Trains through Jacksonville, not results of development"}
+{"qid":"test306","did":"doc263654","label":0,"reason":"British colonial Florida"}
+{"qid":"test306","did":"doc402145","label":0,"reason":"Disston enabled railroads; railroad results not stated"}
+{"qid":"test306","did":"doc515771","label":1,"reason":"Overseas Railway ended Keys' water-only access"}
+{"qid":"test306","did":"doc660236","label":1,"reason":"Railroads opened areas to development, spurring 1920s land boom"}
+{"qid":"test306","did":"doc660265","label":0,"reason":"Hurricane risk from coastal development"}
+{"qid":"test306","did":"doc660271","label":0,"reason":"Flagler hotels along route, not stated as results"}
+{"qid":"test306","did":"doc898833","label":1,"reason":"Railroad linked Panhandle and ended its isolation"}
+{"qid":"test306","did":"doc934719","label":0,"reason":"Texas railroads"}
+{"qid":"test306","did":"doc94371","label":1,"reason":"Railroad improved Fort Myers access, passenger and freight service"}
+{"qid":"test306","did":"doc990514","label":1,"reason":"Overseas Railroad linked Key West to mainland"}
+{"qid":"test2577","did":"doc1121529","label":0,"reason":"Assyrian conquest of Egypt in 664 BCE"}
+{"qid":"test2577","did":"doc1167678","label":1,"reason":"Assyrians conquered Kingdom of Israel in 722 BCE"}
+{"qid":"test2577","did":"doc1234227","label":1,"reason":"Sargon II conquered Kingdom of Israel in 722 BCE"}
+{"qid":"test2577","did":"doc1366756","label":0,"reason":"Shalmaneser died besieging Samaria; conquest not stated"}
+{"qid":"test2577","did":"doc1366757","label":0,"reason":"Babylonian revolt, not 722 conquest"}
+{"qid":"test2577","did":"doc1366760","label":0,"reason":"Later Babylonian revolt"}
+{"qid":"test2577","did":"doc1382094","label":0,"reason":"Neo-Sumerian Assyria"}
+{"qid":"test2577","did":"doc1435310","label":0,"reason":"Earlier archaeological events"}
+{"qid":"test2577","did":"doc1715056","label":1,"reason":"Kingdom of Israel destroyed in 722 BC by Assyrian wars"}
+{"qid":"test2577","did":"doc1812659","label":0,"reason":"List of conquests, no 722 date"}
+{"qid":"test2577","did":"doc2165905","label":0,"reason":"Sargon's Iranian campaigns, not 722 conquest"}
+{"qid":"test2577","did":"doc2165906","label":0,"reason":"Chaldean revolt events"}
+{"qid":"test2577","did":"doc338852","label":0,"reason":"Ashurnasirpal conquering Cyprus"}
+{"qid":"test2577","did":"doc387897","label":0,"reason":"Assyrian attack on Egypt later"}
+{"qid":"test2577","did":"doc405920","label":0,"reason":"Samaria conquest inscription, no date"}
+{"qid":"test2577","did":"doc555360","label":0,"reason":"Babylon siege by Ashurbanipal"}
+{"qid":"test2577","did":"doc559423","label":0,"reason":"Assyrian rule in Syria, no 722"}
+{"qid":"test2577","did":"doc559430","label":0,"reason":"Adiabene, Roman era"}
+{"qid":"test2577","did":"doc672961","label":1,"reason":"Kingdom of Israel conquered by Assyria in 722 BCE"}
+{"qid":"test2577","did":"doc682295","label":0,"reason":"Judah 7th century"}
+{"qid":"test2577","did":"doc88439","label":0,"reason":"Assyrian captivity, no 722 date"}
+{"qid":"test2577","did":"doc88443","label":1,"reason":"Samaria, Israel's capital, taken in 722 BCE"}
+{"qid":"test997","did":"doc1093057","label":0,"reason":"Quarter-square multiplication example"}
+{"qid":"test997","did":"doc1314852","label":0,"reason":"Prime definition"}
+{"qid":"test997","did":"doc1314944","label":0,"reason":"Prime list fragment"}
+{"qid":"test997","did":"doc1314979","label":0,"reason":"Lucky primes"}
+{"qid":"test997","did":"doc1603040","label":0,"reason":"Table note, no 36 factorization"}
+{"qid":"test997","did":"doc1694648","label":0,"reason":"Number 33"}
+{"qid":"test997","did":"doc1778592","label":0,"reason":"Twin primes"}
+{"qid":"test997","did":"doc1856377","label":0,"reason":"Sexagesimal primes"}
+{"qid":"test997","did":"doc2296331","label":0,"reason":"Semiprimes list"}
+{"qid":"test997","did":"doc2361775","label":0,"reason":"Divisibility by 36, no prime factorization"}
+{"qid":"test997","did":"doc35173","label":0,"reason":"Gives distinct primes 2 and 3 but not full factorization"}
+{"qid":"test997","did":"doc552697","label":0,"reason":"Factorization of 1200, not 36"}
+{"qid":"test997","did":"doc552698","label":0,"reason":"Uniqueness note, 12 example"}
+{"qid":"test997","did":"doc552702","label":0,"reason":"Euclid's lemma"}
+{"qid":"test997","did":"doc552720","label":0,"reason":"Proof fragment"}
+{"qid":"test997","did":"doc671985","label":0,"reason":"Generic factoring instruction"}
+{"qid":"test997","did":"doc720132","label":0,"reason":"Mersenne primes"}
+{"qid":"test997","did":"doc807066","label":0,"reason":"Lorenz cipher wheels"}
+{"qid":"test997","did":"doc858917","label":0,"reason":"Garbled number, no content"}
+{"qid":"test997","did":"doc866436","label":0,"reason":"Prime factor terminology, unspecified example"}
+{"qid":"test997","did":"doc866437","label":0,"reason":"Fundamental theorem, no 36"}
+{"qid":"test997","did":"doc877823","label":0,"reason":"Prime definition"}
+{"qid":"test1805","did":"doc1038212","label":0,"reason":"Pakistan founders"}
+{"qid":"test1805","did":"doc1664486","label":0,"reason":"Islamia University Bahawalpur"}
+{"qid":"test1805","did":"doc1749973","label":0,"reason":"Institute of Engineers Dhaka"}
+{"qid":"test1805","did":"doc1879889","label":0,"reason":"HEJ chemistry institute"}
+{"qid":"test1805","did":"doc1934037","label":0,"reason":"NDA foundation stone by Nehru"}
+{"qid":"test1805","did":"doc1942575","label":0,"reason":"Minar-e-Pakistan construction"}
+{"qid":"test1805","did":"doc1982515","label":0,"reason":"Jamia Millia founding"}
+{"qid":"test1805","did":"doc2033252","label":0,"reason":"Khooni Darwaza Delhi"}
+{"qid":"test1805","did":"doc2112811","label":0,"reason":"Namal College"}
+{"qid":"test1805","did":"doc2292349","label":0,"reason":"Indian school foundation stone"}
+{"qid":"test1805","did":"doc2345266","label":0,"reason":"Other college, Lord Lytton"}
+{"qid":"test1805","did":"doc2594422","label":0,"reason":"Calcutta institute"}
+{"qid":"test1805","did":"doc345111","label":0,"reason":"Calcutta Islamia College, not Peshawar"}
+{"qid":"test1805","did":"doc357235","label":0,"reason":"Pakistan education policy"}
+{"qid":"test1805","did":"doc474276","label":0,"reason":"Oriental Institute Woking"}
+{"qid":"test1805","did":"doc502099","label":0,"reason":"Mosque repairs"}
+{"qid":"test1805","did":"doc63538","label":0,"reason":"Founders named, not foundation stone layer"}
+{"qid":"test1805","did":"doc63542","label":0,"reason":"Land purchase and donations"}
+{"qid":"test1805","did":"doc63543","label":1,"reason":"Haji Sahib of Turangzai laid the foundation stone"}

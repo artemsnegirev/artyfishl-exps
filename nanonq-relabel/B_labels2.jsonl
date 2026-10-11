@@ -1,0 +1,325 @@
+{"qid": "test2360", "did": "doc1008940", "label": 0, "reason": "Different film, Eastchester 1981; not Wimpy Kid"}
+{"qid": "test2360", "did": "doc1083962", "label": 0, "reason": "Different film, Australia"}
+{"qid": "test2360", "did": "doc1199221", "label": 0, "reason": "Book/film release dates only, no location"}
+{"qid": "test2360", "did": "doc125349", "label": 0, "reason": "Different film, New York shoot"}
+{"qid": "test2360", "did": "doc1311119", "label": 0, "reason": "Different film"}
+{"qid": "test2360", "did": "doc1335341", "label": 0, "reason": "Different film, East Harlem"}
+{"qid": "test2360", "did": "doc1390300", "label": 0, "reason": "Release info only, no filming location"}
+{"qid": "test2360", "did": "doc1390312", "label": 0, "reason": "Book list, no filming location"}
+{"qid": "test2360", "did": "doc1590438", "label": 0, "reason": "Different film, Rhode Island"}
+{"qid": "test2360", "did": "doc1948854", "label": 0, "reason": "Different film, Cincinnati"}
+{"qid": "test2360", "did": "doc1999887", "label": 0, "reason": "Vancouver film from 1992, not Wimpy Kid"}
+{"qid": "test2360", "did": "doc2115402", "label": 0, "reason": "Cast info, no filming location"}
+{"qid": "test2360", "did": "doc2224204", "label": 0, "reason": "Different film location"}
+{"qid": "test2360", "did": "doc2465921", "label": 0, "reason": "Different film"}
+{"qid": "test2360", "did": "doc2582472", "label": 0, "reason": "Dumb and Dumber prequel"}
+{"qid": "test2360", "did": "doc2680676", "label": 0, "reason": "Different film, Donegal"}
+{"qid": "test2360", "did": "doc281595", "label": 0, "reason": "Bill and Ted film"}
+{"qid": "test2360", "did": "doc282412", "label": 0, "reason": "Home video release only"}
+{"qid": "test2360", "did": "doc284394", "label": 0, "reason": "Different TV series"}
+{"qid": "test2360", "did": "doc37884", "label": 0, "reason": "Character description, no location"}
+{"qid": "test2360", "did": "doc37890", "label": 0, "reason": "Character description, no location"}
+{"qid": "test2360", "did": "doc509898", "label": 0, "reason": "Different film, Los Angeles 1986"}
+{"qid": "test2360", "did": "doc57946", "label": 1, "reason": "Says Rodrick Rules filmed in Vancouver, first film context"}
+{"qid": "test2360", "did": "doc57948", "label": 0, "reason": "Film plans, no filming location"}
+{"qid": "test2360", "did": "doc600774", "label": 0, "reason": "Different film, Queensland"}
+{"qid": "test2360", "did": "doc64791", "label": 0, "reason": "The Goonies"}
+{"qid": "test2360", "did": "doc693223", "label": 0, "reason": "Different film"}
+{"qid": "test2360", "did": "doc703485", "label": 0, "reason": "Different film, Vancouver area 2015"}
+{"qid": "test2360", "did": "doc721746", "label": 0, "reason": "Book info only"}
+{"qid": "test2360", "did": "doc81655", "label": 0, "reason": "Film credits, no filming location"}
+{"qid": "test2360", "did": "doc890257", "label": 0, "reason": "Different film, 2005"}
+{"qid": "test2360", "did": "doc890684", "label": 0, "reason": "Different film, Kentucky"}
+{"qid": "test2360", "did": "doc988735", "label": 0, "reason": "Different film, 1986-87"}
+{"qid": "test1037", "did": "doc1074194", "label": 0, "reason": "Buffy character Angel"}
+{"qid": "test1037", "did": "doc1104361", "label": 0, "reason": "Cathedral rose window, irrelevant"}
+{"qid": "test1037", "did": "doc1186883", "label": 0, "reason": "Good Omens plot"}
+{"qid": "test1037", "did": "doc1902615", "label": 0, "reason": "Cassiel angel of the North, not the sculpture"}
+{"qid": "test1037", "did": "doc2009369", "label": 0, "reason": "Biblical illustration, irrelevant"}
+{"qid": "test1037", "did": "doc2041368", "label": 0, "reason": "Mentions sculpture only as comparison, no reason"}
+{"qid": "test1037", "did": "doc2127006", "label": 0, "reason": "Unrelated angel sculpture at station"}
+{"qid": "test1037", "did": "doc2134008", "label": 0, "reason": "Good Witch of the North, not the sculpture"}
+{"qid": "test1037", "did": "doc2141867", "label": 0, "reason": "Biblical angel of presence"}
+{"qid": "test1037", "did": "doc2225375", "label": 0, "reason": "Fragment, irrelevant"}
+{"qid": "test1037", "did": "doc2274222", "label": 0, "reason": "Different angel statue in Vancouver"}
+{"qid": "test1037", "did": "doc2298808", "label": 0, "reason": "Friends episode trivia"}
+{"qid": "test1037", "did": "doc2314426", "label": 0, "reason": "Album cover artwork"}
+{"qid": "test1037", "did": "doc23412", "label": 0, "reason": "North star symbolism"}
+{"qid": "test1037", "did": "doc2483632", "label": 0, "reason": "Heading only"}
+{"qid": "test1037", "did": "doc2504604", "label": 0, "reason": "Minnesota Wild logo"}
+{"qid": "test1037", "did": "doc330463", "label": 0, "reason": "Pilgrimage pond folklore"}
+{"qid": "test1037", "did": "doc36393", "label": 1, "reason": "Gormley gives three-fold significance of the angel statue"}
+{"qid": "test1037", "did": "doc36402", "label": 0, "reason": "Lego model caption only"}
+{"qid": "test1037", "did": "doc434733", "label": 0, "reason": "Woody Hayes Michigan anecdote"}
+{"qid": "test1037", "did": "doc454592", "label": 0, "reason": "Altarpiece lighting"}
+{"qid": "test1037", "did": "doc490514", "label": 0, "reason": "Jewish angel and circumcision"}
+{"qid": "test1037", "did": "doc573905", "label": 0, "reason": "Heading only"}
+{"qid": "test1037", "did": "doc58892", "label": 0, "reason": "North Pole mythology, not sculpture"}
+{"qid": "test1037", "did": "doc594646", "label": 0, "reason": "Statue facing, but Philadelphia Penn statue"}
+{"qid": "test1037", "did": "doc60215", "label": 0, "reason": "Angel of Darkness TV plot"}
+{"qid": "test1037", "did": "doc648335", "label": 0, "reason": "Angels assigned to countries, not the sculpture"}
+{"qid": "test1037", "did": "doc648344", "label": 0, "reason": "Guardian angel function generally"}
+{"qid": "test1037", "did": "doc648364", "label": 0, "reason": "Guardian angels generally"}
+{"qid": "test1037", "did": "doc737252", "label": 0, "reason": "Caption only"}
+{"qid": "test1037", "did": "doc854779", "label": 0, "reason": "Angel of the Waters statue, Central Park"}
+{"qid": "test1037", "did": "doc866490", "label": 0, "reason": "Prime numbers, irrelevant"}
+{"qid": "test123", "did": "doc1035806", "label": 0, "reason": "Emission spectra, irrelevant"}
+{"qid": "test123", "did": "doc1134636", "label": 0, "reason": "Stray quote character"}
+{"qid": "test123", "did": "doc1260420", "label": 0, "reason": "RON vs other ballot options; no Mon comparison"}
+{"qid": "test123", "did": "doc1260422", "label": 0, "reason": "RON multi-member counting, no Mon comparison"}
+{"qid": "test123", "did": "doc1537788", "label": 0, "reason": "Parks and Rec episode"}
+{"qid": "test123", "did": "doc1564136", "label": 0, "reason": "Slang fragment"}
+{"qid": "test123", "did": "doc1568962", "label": 0, "reason": "Mon crest only"}
+{"qid": "test123", "did": "doc1587500", "label": 0, "reason": "Monet colors"}
+{"qid": "test123", "did": "doc1612682", "label": 0, "reason": "Vortimer/Vortigern names"}
+{"qid": "test123", "did": "doc1826212", "label": 0, "reason": "Ron means rum in Spanish, no Mon contrast"}
+{"qid": "test123", "did": "doc1837585", "label": 0, "reason": "Halloween character Ron"}
+{"qid": "test123", "did": "doc1881192", "label": 0, "reason": "Stray quote character"}
+{"qid": "test123", "did": "doc2015875", "label": 0, "reason": "French rank address, mon only"}
+{"qid": "test123", "did": "doc2245725", "label": 0, "reason": "Stray quote character"}
+{"qid": "test123", "did": "doc2295957", "label": 0, "reason": "R\u00e1n mentioned as Ron, no contrast"}
+{"qid": "test123", "did": "doc2365901", "label": 0, "reason": "Fragment, irrelevant"}
+{"qid": "test123", "did": "doc2431178", "label": 0, "reason": "Wiki talk comment, no content"}
+{"qid": "test123", "did": "doc2494655", "label": 0, "reason": "Mon people history, no comparison"}
+{"qid": "test123", "did": "doc298160", "label": 0, "reason": "TV series Beauty and the Beast"}
+{"qid": "test123", "did": "doc404242", "label": 0, "reason": "Monastic address forms"}
+{"qid": "test123", "did": "doc455756", "label": 0, "reason": "Ron's mother in Parks and Rec"}
+{"qid": "test123", "did": "doc4611", "label": 1, "reason": "Explains MON vs RON octane ratings differences"}
+{"qid": "test123", "did": "doc55093", "label": 0, "reason": "Stray quote character"}
+{"qid": "test123", "did": "doc589376", "label": 0, "reason": "Stray quote character"}
+{"qid": "test123", "did": "doc689060", "label": 0, "reason": "Mon as Japanese emblem"}
+{"qid": "test123", "did": "doc751714", "label": 0, "reason": "Harry Potter Ron plot"}
+{"qid": "test123", "did": "doc751726", "label": 0, "reason": "Harry Potter Ron biography"}
+{"qid": "test123", "did": "doc753576", "label": 0, "reason": "Radon element"}
+{"qid": "test123", "did": "doc824694", "label": 0, "reason": "Greek numbering adjectives"}
+{"qid": "test428", "did": "doc1096264", "label": 0, "reason": "Oath of allegiance, not the quote"}
+{"qid": "test428", "did": "doc1185297", "label": 0, "reason": "Baseball remorse quote"}
+{"qid": "test428", "did": "doc1253247", "label": 0, "reason": "Theatre reviews"}
+{"qid": "test428", "did": "doc1273973", "label": 0, "reason": "Rap lyrics"}
+{"qid": "test428", "did": "doc1508870", "label": 0, "reason": "Malcolm X quote on rights, not this quote"}
+{"qid": "test428", "did": "doc15890", "label": 1, "reason": "Hall wrote the phrase, misattributed to Voltaire"}
+{"qid": "test428", "did": "doc1736704", "label": 0, "reason": "Police caution"}
+{"qid": "test428", "did": "doc1736708", "label": 0, "reason": "Police caution"}
+{"qid": "test428", "did": "doc1935873", "label": 0, "reason": "Declaration pledge, not the quote"}
+{"qid": "test428", "did": "doc2042102", "label": 0, "reason": "Anime character quote"}
+{"qid": "test428", "did": "doc2054559", "label": 0, "reason": "Dylan speech"}
+{"qid": "test428", "did": "doc2067559", "label": 0, "reason": "Blade Runner monologue"}
+{"qid": "test428", "did": "doc2085567", "label": 0, "reason": "Killer's threat speech"}
+{"qid": "test428", "did": "doc2119808", "label": 0, "reason": "Prayer"}
+{"qid": "test428", "did": "doc2636762", "label": 0, "reason": "Motto This I'll defend, different"}
+{"qid": "test428", "did": "doc264212", "label": 0, "reason": "Prayer fragment"}
+{"qid": "test428", "did": "doc2665803", "label": 0, "reason": "Memorial inscription"}
+{"qid": "test428", "did": "doc333675", "label": 0, "reason": "Civil War song lyrics"}
+{"qid": "test428", "did": "doc336518", "label": 0, "reason": "Milton liberty quote, different"}
+{"qid": "test428", "did": "doc393485", "label": 0, "reason": "Police caution"}
+{"qid": "test428", "did": "doc397701", "label": 0, "reason": "Quote about blood and freedom, different"}
+{"qid": "test428", "did": "doc518266", "label": 0, "reason": "Constitutional freedom of expression clause"}
+{"qid": "test428", "did": "doc527472", "label": 0, "reason": "Song lyrics"}
+{"qid": "test428", "did": "doc627432", "label": 0, "reason": "Coast Guard creed"}
+{"qid": "test428", "did": "doc645602", "label": 0, "reason": "TV character death discussion"}
+{"qid": "test428", "did": "doc688403", "label": 0, "reason": "Poem fragment"}
+{"qid": "test428", "did": "doc688882", "label": 0, "reason": "Polish verb forms"}
+{"qid": "test428", "did": "doc733127", "label": 0, "reason": "Publishing pledge, not the quote"}
+{"qid": "test428", "did": "doc878338", "label": 0, "reason": "Courtroom line, unrelated"}
+{"qid": "test2974", "did": "doc102077", "label": 0, "reason": "Kubo plot and cast, no release date"}
+{"qid": "test2974", "did": "doc102096", "label": 0, "reason": "Award nominations only"}
+{"qid": "test2974", "did": "doc102097", "label": 1, "reason": "Kubo home media release date November 22, 2016"}
+{"qid": "test2974", "did": "doc1265623", "label": 0, "reason": "Unnamed film scheduled 2017, not Kubo"}
+{"qid": "test2974", "did": "doc1391659", "label": 0, "reason": "Avicenna scientific method"}
+{"qid": "test2974", "did": "doc1401088", "label": 0, "reason": "printf compiler warnings"}
+{"qid": "test2974", "did": "doc1475979", "label": 0, "reason": "Different film, Sundance 2018"}
+{"qid": "test2974", "did": "doc1732443", "label": 0, "reason": "Another film's release schedule (A Silent Voice)"}
+{"qid": "test2974", "did": "doc1803620", "label": 0, "reason": "Beatles Revolver reception"}
+{"qid": "test2974", "did": "doc192542", "label": 0, "reason": "Different film, June 2018"}
+{"qid": "test2974", "did": "doc2107377", "label": 0, "reason": "Fictional character description"}
+{"qid": "test2974", "did": "doc2392865", "label": 0, "reason": "Different film, 2017-2018"}
+{"qid": "test2974", "did": "doc2438080", "label": 0, "reason": "Different film, Germany 2018"}
+{"qid": "test2974", "did": "doc273662", "label": 0, "reason": "Sequel date for unnamed film"}
+{"qid": "test2974", "did": "doc308346", "label": 0, "reason": "Different film, 2017"}
+{"qid": "test2974", "did": "doc313306", "label": 0, "reason": "Different film, Netflix 2018"}
+{"qid": "test2974", "did": "doc337483", "label": 0, "reason": "Different film, 2016 Tokyo"}
+{"qid": "test2974", "did": "doc366445", "label": 0, "reason": "Jurassic Park shooting"}
+{"qid": "test2974", "did": "doc460917", "label": 0, "reason": "Unnamed film June 2018"}
+{"qid": "test2974", "did": "doc510177", "label": 0, "reason": "Unnamed film in Russia"}
+{"qid": "test2974", "did": "doc546646", "label": 0, "reason": "Different film, 2017"}
+{"qid": "test2974", "did": "doc596855", "label": 0, "reason": "Different film on Netflix"}
+{"qid": "test2974", "did": "doc70909", "label": 0, "reason": "Salmonella biology"}
+{"qid": "test2974", "did": "doc74858", "label": 0, "reason": "Sequel of unnamed film"}
+{"qid": "test2974", "did": "doc855356", "label": 0, "reason": "Unnamed film September 2018"}
+{"qid": "test2974", "did": "doc872070", "label": 0, "reason": "Air Force One plot"}
+{"qid": "test2974", "did": "doc890730", "label": 0, "reason": "Different film, Netflix 2018"}
+{"qid": "test2233", "did": "doc1208808", "label": 0, "reason": "Euro 2016 not Champions League"}
+{"qid": "test2233", "did": "doc1328113", "label": 0, "reason": "2006 final, not 2016"}
+{"qid": "test2233", "did": "doc1340806", "label": 0, "reason": "2009 final"}
+{"qid": "test2233", "did": "doc1369505", "label": 0, "reason": "2017 Club World Cup final"}
+{"qid": "test2233", "did": "doc1369510", "label": 0, "reason": "Club World Cup, not 2016 CL final"}
+{"qid": "test2233", "did": "doc1480727", "label": 0, "reason": "Man City defending champions, other season"}
+{"qid": "test2233", "did": "doc1953211", "label": 0, "reason": "2017 final preview"}
+{"qid": "test2233", "did": "doc1994393", "label": 0, "reason": "Euro 2016 winner Portugal"}
+{"qid": "test2233", "did": "doc2025330", "label": 0, "reason": "Monaco semis, not 2016 final"}
+{"qid": "test2233", "did": "doc208540", "label": 0, "reason": "Club World Cup format"}
+{"qid": "test2233", "did": "doc208541", "label": 0, "reason": "Club World Cup final, not Champions League"}
+{"qid": "test2233", "did": "doc2095396", "label": 0, "reason": "Man United history, no 2016 CL result"}
+{"qid": "test2233", "did": "doc2162623", "label": 0, "reason": "Monaco 2004 final"}
+{"qid": "test2233", "did": "doc268699", "label": 0, "reason": "Arsenal never won CL"}
+{"qid": "test2233", "did": "doc349744", "label": 1, "reason": "Real Madrid beat Atletico on penalties in 28 May 2016 final"}
+{"qid": "test2233", "did": "doc349747", "label": 0, "reason": "2017 final"}
+{"qid": "test2233", "did": "doc484979", "label": 0, "reason": "2018 final venue"}
+{"qid": "test2233", "did": "doc54270", "label": 0, "reason": "Man United history, no 2016 winner"}
+{"qid": "test2233", "did": "doc579128", "label": 0, "reason": "Europa League 2017"}
+{"qid": "test2233", "did": "doc579135", "label": 0, "reason": "Europa League ambassador"}
+{"qid": "test2233", "did": "doc681775", "label": 0, "reason": "League Cup final"}
+{"qid": "test2233", "did": "doc77634", "label": 1, "reason": "Real Madrid won 2016 final on penalties"}
+{"qid": "test2233", "did": "doc77640", "label": 0, "reason": "Pre-final context, no result"}
+{"qid": "test2233", "did": "doc825186", "label": 0, "reason": "2010 final"}
+{"qid": "test2233", "did": "doc825187", "label": 0, "reason": "2010 final details"}
+{"qid": "test2233", "did": "doc925929", "label": 0, "reason": "English clubs finals 2005-2012"}
+{"qid": "test2539", "did": "doc1007189", "label": 0, "reason": "New Jersey delegation, not Pennsylvania"}
+{"qid": "test2539", "did": "doc1007190", "label": 0, "reason": "New Jersey delegation"}
+{"qid": "test2539", "did": "doc101561", "label": 0, "reason": "Three-fifths compromise"}
+{"qid": "test2539", "did": "doc1033766", "label": 0, "reason": "Historical House meetings, no PA count"}
+{"qid": "test2539", "did": "doc1088161", "label": 0, "reason": "PA constitutions, no seat count"}
+{"qid": "test2539", "did": "doc1394755", "label": 0, "reason": "Unnamed state delegation counts"}
+{"qid": "test2539", "did": "doc1394758", "label": 0, "reason": "Unnamed state delegation counts"}
+{"qid": "test2539", "did": "doc1394760", "label": 0, "reason": "Unnamed state delegation counts"}
+{"qid": "test2539", "did": "doc1635999", "label": 0, "reason": "US House 435 districts, not PA specific"}
+{"qid": "test2539", "did": "doc1827142", "label": 0, "reason": "Flag bill, no count"}
+{"qid": "test2539", "did": "doc1840635", "label": 0, "reason": "Delaware House has 41"}
+{"qid": "test2539", "did": "doc2337863", "label": 0, "reason": "Corry representation, no count"}
+{"qid": "test2539", "did": "doc2486654", "label": 0, "reason": "Wyoming House 60"}
+{"qid": "test2539", "did": "doc2509153", "label": 0, "reason": "Constitutional Convention history"}
+{"qid": "test2539", "did": "doc2529675", "label": 1, "reason": "Pennsylvania House has 203 members"}
+{"qid": "test2539", "did": "doc25697", "label": 0, "reason": "US House composition, no PA number"}
+{"qid": "test2539", "did": "doc324530", "label": 0, "reason": "US House 435 members, no PA number"}
+{"qid": "test2539", "did": "doc430825", "label": 0, "reason": "List of PA US representatives, no number"}
+{"qid": "test2539", "did": "doc530778", "label": 0, "reason": "US House 435, no PA number"}
+{"qid": "test2539", "did": "doc579817", "label": 0, "reason": "PA-18 district only"}
+{"qid": "test2539", "did": "doc626260", "label": 0, "reason": "Senate election 2018"}
+{"qid": "test2539", "did": "doc783808", "label": 0, "reason": "Other country parliament 63"}
+{"qid": "test2539", "did": "doc868589", "label": 0, "reason": "US House apportionment, no PA number"}
+{"qid": "test2539", "did": "doc87294", "label": 1, "reason": "PA House of Representatives has 203 members"}
+{"qid": "test2539", "did": "doc952880", "label": 0, "reason": "Japan Diet, not Pennsylvania"}
+{"qid": "test2651", "did": "doc107878", "label": 0, "reason": "Chris Masterson actor, unrelated"}
+{"qid": "test2651", "did": "doc1079922", "label": 0, "reason": "Guest appearance list, no actor for Bat"}
+{"qid": "test2651", "did": "doc1101731", "label": 0, "reason": "Daniel Boone actor bio"}
+{"qid": "test2651", "did": "doc1169637", "label": 0, "reason": "Actor bio, no Bat Masterson role"}
+{"qid": "test2651", "did": "doc1267318", "label": 0, "reason": "Film mentions Bat Masterson character, no TV actor"}
+{"qid": "test2651", "did": "doc1269703", "label": 0, "reason": "Cast list, no Bat Masterson"}
+{"qid": "test2651", "did": "doc1527545", "label": 0, "reason": "Sky Masterson casting"}
+{"qid": "test2651", "did": "doc155438", "label": 0, "reason": "Batman animated cast"}
+{"qid": "test2651", "did": "doc1588867", "label": 0, "reason": "Greatest American Hero cast"}
+{"qid": "test2651", "did": "doc1740481", "label": 0, "reason": "Actress Masterson, not Bat"}
+{"qid": "test2651", "did": "doc1846029", "label": 0, "reason": "Wyatt Earp plot, no actor"}
+{"qid": "test2651", "did": "doc2033842", "label": 0, "reason": "Baseball bat film plot"}
+{"qid": "test2651", "did": "doc2236863", "label": 0, "reason": "Real Bat Masterson history, no actor"}
+{"qid": "test2651", "did": "doc2236865", "label": 0, "reason": "Historical Masterson shooting"}
+{"qid": "test2651", "did": "doc2247113", "label": 0, "reason": "Dick Tracy series"}
+{"qid": "test2651", "did": "doc2620645", "label": 0, "reason": "Hitchhiker's audiobook"}
+{"qid": "test2651", "did": "doc306215", "label": 0, "reason": "Batman animated series voices"}
+{"qid": "test2651", "did": "doc487275", "label": 0, "reason": "Guest cast, no Bat Masterson"}
+{"qid": "test2651", "did": "doc787615", "label": 0, "reason": "Batman Begins cast"}
+{"qid": "test2651", "did": "doc82127", "label": 1, "reason": "Mason Alan Dinehart played young Bat Masterson in Wyatt Earp series"}
+{"qid": "test2651", "did": "doc82130", "label": 1, "reason": "Dinehart played youthful Bat Masterson in Earp series"}
+{"qid": "test2651", "did": "doc90807", "label": 1, "reason": "Gene Barry played Bat Masterson, NBC 1958-61"}
+{"qid": "test2651", "did": "doc90808", "label": 1, "reason": "Describes Barry's Masterson portrayal in the show"}
+{"qid": "test2651", "did": "doc90819", "label": 1, "reason": "Barry played Masterson in a later TV movie"}
+{"qid": "test2247", "did": "doc1220082", "label": 1, "reason": "Origins obscure"}
+{"qid": "test2247", "did": "doc1430993", "label": 0, "reason": "Mentions rhyme uses tree, no origin"}
+{"qid": "test2247", "did": "doc1431001", "label": 0, "reason": "Painting caption"}
+{"qid": "test2247", "did": "doc1504263", "label": 1, "reason": "Prison mulberry tree theory of origin, uncorroborated"}
+{"qid": "test2247", "did": "doc1519779", "label": 0, "reason": "Cool Hand Luke sample"}
+{"qid": "test2247", "did": "doc1619342", "label": 0, "reason": "Blur song"}
+{"qid": "test2247", "did": "doc1629552", "label": 0, "reason": "Different song"}
+{"qid": "test2247", "did": "doc1643694", "label": 0, "reason": "Name etymology"}
+{"qid": "test2247", "did": "doc2079848", "label": 0, "reason": "Australian bush music"}
+{"qid": "test2247", "did": "doc2182044", "label": 0, "reason": "Unnamed rhyme, subject unclear"}
+{"qid": "test2247", "did": "doc2378961", "label": 0, "reason": "Yorkshire dialect song, different"}
+{"qid": "test2247", "did": "doc417733", "label": 0, "reason": "Unnamed rhyme in Tommy Thumb book"}
+{"qid": "test2247", "did": "doc531580", "label": 0, "reason": "Band song-writing anecdote"}
+{"qid": "test2247", "did": "doc5734", "label": 0, "reason": "Pop Goes the Weasel lyrics"}
+{"qid": "test2247", "did": "doc674553", "label": 0, "reason": "Football chant melody origin"}
+{"qid": "test2247", "did": "doc691881", "label": 0, "reason": "Crooked man rhyme legends, different rhyme"}
+{"qid": "test2247", "did": "doc7165", "label": 0, "reason": "Friends episode production"}
+{"qid": "test2247", "did": "doc77971", "label": 1, "reason": "First recorded by Halliwell, bramble bush earlier version"}
+{"qid": "test2247", "did": "doc77973", "label": 0, "reason": "Only says traditional with parallels, no real origin"}
+{"qid": "test2247", "did": "doc77976", "label": 1, "reason": "Silk industry interpretation of rhyme origin"}
+{"qid": "test2247", "did": "doc857632", "label": 0, "reason": "Different song Farmyard"}
+{"qid": "test2247", "did": "doc936401", "label": 0, "reason": "Different ballad origins"}
+{"qid": "test2247", "did": "doc969155", "label": 0, "reason": "Jacobite rhyme, different"}
+{"qid": "test194", "did": "doc1377683", "label": 0, "reason": "Fragment, no content"}
+{"qid": "test194", "did": "doc1384591", "label": 0, "reason": "C main return value"}
+{"qid": "test194", "did": "doc1599042", "label": 0, "reason": "Colon in conditional operator"}
+{"qid": "test194", "did": "doc1694554", "label": 0, "reason": "Fragment about semicolon and comma"}
+{"qid": "test194", "did": "doc2168530", "label": 0, "reason": "Math fragment"}
+{"qid": "test194", "did": "doc27102", "label": 0, "reason": "Compound assignment operators"}
+{"qid": "test194", "did": "doc305556", "label": 0, "reason": "While loop equivalence"}
+{"qid": "test194", "did": "doc316997", "label": 0, "reason": "PHP statements terminated by semicolon, not C"}
+{"qid": "test194", "did": "doc485206", "label": 0, "reason": "Comment delimiters"}
+{"qid": "test194", "did": "doc591048", "label": 0, "reason": "Return statement style"}
+{"qid": "test194", "did": "doc683357", "label": 0, "reason": "Function declaration readability"}
+{"qid": "test194", "did": "doc692559", "label": 1, "reason": "Expression statement is followed by semicolon in C"}
+{"qid": "test194", "did": "doc692580", "label": 0, "reason": "main implicit return"}
+{"qid": "test194", "did": "doc697071", "label": 0, "reason": "Implicit function declaration"}
+{"qid": "test194", "did": "doc7091", "label": 0, "reason": "Prose semicolon use"}
+{"qid": "test194", "did": "doc7099", "label": 0, "reason": "French semicolon use"}
+{"qid": "test194", "did": "doc7106", "label": 1, "reason": "Semicolons terminate statements in C family"}
+{"qid": "test194", "did": "doc7112", "label": 0, "reason": "Separator vs terminator, only blank statement mention"}
+{"qid": "test194", "did": "doc7116", "label": 0, "reason": "Semicolon in email fields"}
+{"qid": "test194", "did": "doc7119", "label": 0, "reason": "HTML entity semicolon"}
+{"qid": "test194", "did": "doc7120", "label": 0, "reason": "CSV semicolon separator"}
+{"qid": "test194", "did": "doc934401", "label": 0, "reason": "Early C return types"}
+{"qid": "test31", "did": "doc1186883", "label": 0, "reason": "Good Omens plot"}
+{"qid": "test31", "did": "doc1207422", "label": 0, "reason": "Eddie Wilson film plot"}
+{"qid": "test31", "did": "doc15095", "label": 0, "reason": "Chinese heaven entrance Golden Door, no figure met"}
+{"qid": "test31", "did": "doc187232", "label": 0, "reason": "Caption only"}
+{"qid": "test31", "did": "doc1914599", "label": 0, "reason": "Angel duties list, no gates of heaven"}
+{"qid": "test31", "did": "doc2009369", "label": 0, "reason": "Angel guards paradise gates, Eden"}
+{"qid": "test31", "did": "doc207871", "label": 0, "reason": "Dante meets saints in heaven generally"}
+{"qid": "test31", "did": "doc2111919", "label": 0, "reason": "Film engraving analysis"}
+{"qid": "test31", "did": "doc220990", "label": 0, "reason": "Hymn allegory, no figure"}
+{"qid": "test31", "did": "doc229804", "label": 0, "reason": "Peter given keys, no meeting at gates stated"}
+{"qid": "test31", "did": "doc2420483", "label": 0, "reason": "Gates of hell, not heaven"}
+{"qid": "test31", "did": "doc2659217", "label": 0, "reason": "Jehovah's Witnesses 144000"}
+{"qid": "test31", "did": "doc269387", "label": 0, "reason": "Five People novel, not gates of heaven"}
+{"qid": "test31", "did": "doc404160", "label": 0, "reason": "Christ opening gates of Hades"}
+{"qid": "test31", "did": "doc428406", "label": 0, "reason": "Paul caught to Paradise"}
+{"qid": "test31", "did": "doc453118", "label": 0, "reason": "Peter given keys, gates not stated"}
+{"qid": "test31", "did": "doc750407", "label": 0, "reason": "Wicket Gate gatekeeper, not heaven's gate"}
+{"qid": "test31", "did": "doc750414", "label": 0, "reason": "Pilgrim's Progress Faithful"}
+{"qid": "test31", "did": "doc750416", "label": 0, "reason": "Pilgrim's Progress Delectable Mountains"}
+{"qid": "test31", "did": "doc752256", "label": 0, "reason": "Supernatural plot"}
+{"qid": "test31", "did": "doc890682", "label": 0, "reason": "Film plot, Gates clan"}
+{"qid": "test31", "did": "doc897", "label": 1, "reason": "Saint Peter guards the gates of heaven in popular imagery"}
+{"qid": "test1607", "did": "doc1102442", "label": 1, "reason": "National Assembly has 342 members"}
+{"qid": "test1607", "did": "doc1601611", "label": 0, "reason": "India parliament numbers"}
+{"qid": "test1607", "did": "doc1685439", "label": 0, "reason": "Independent seats only"}
+{"qid": "test1607", "did": "doc2091584", "label": 0, "reason": "Senate of Pakistan"}
+{"qid": "test1607", "did": "doc2091589", "label": 0, "reason": "Historic 237 members, outdated and not current total"}
+{"qid": "test1607", "did": "doc2091597", "label": 0, "reason": "Assembly events 2004"}
+{"qid": "test1607", "did": "doc213075", "label": 0, "reason": "Provincial constituencies"}
+{"qid": "test1607", "did": "doc2313854", "label": 0, "reason": "Punjab provincial assembly"}
+{"qid": "test1607", "did": "doc2313864", "label": 0, "reason": "Punjab provincial assembly"}
+{"qid": "test1607", "did": "doc2378781", "label": 0, "reason": "Bye-election counts only"}
+{"qid": "test1607", "did": "doc2439294", "label": 0, "reason": "NWFP provincial assembly history"}
+{"qid": "test1607", "did": "doc2509989", "label": 0, "reason": "KP provincial assembly"}
+{"qid": "test1607", "did": "doc2509996", "label": 0, "reason": "KP provincial assembly history"}
+{"qid": "test1607", "did": "doc56897", "label": 1, "reason": "National Assembly consists of 332 members"}
+{"qid": "test1607", "did": "doc56902", "label": 1, "reason": "National Assembly consists of 332 members"}
+{"qid": "test1607", "did": "doc56903", "label": 0, "reason": "Article 62 requirements"}
+{"qid": "test1607", "did": "doc56909", "label": 0, "reason": "Session rules"}
+{"qid": "test1607", "did": "doc56921", "label": 1, "reason": "Total of 332 seats in National Assembly"}
+{"qid": "test1607", "did": "doc873481", "label": 0, "reason": "Fragment defining MNA"}
+{"qid": "test1618", "did": "doc1142095", "label": 0, "reason": "3D reissue only"}
+{"qid": "test1618", "did": "doc1163498", "label": 0, "reason": "Pixar history, indirect"}
+{"qid": "test1618", "did": "doc1622317", "label": 0, "reason": "Graveyard Book, Selick mention only"}
+{"qid": "test1618", "did": "doc1665946", "label": 1, "reason": "Disney produced Nightmare Before Christmas with Burton"}
+{"qid": "test1618", "did": "doc2116209", "label": 0, "reason": "Haunted Mansion Holiday theming"}
+{"qid": "test1618", "did": "doc2173529", "label": 0, "reason": "Different Disney film"}
+{"qid": "test1618", "did": "doc3001", "label": 0, "reason": "Haunted Mansion overlay origin"}
+{"qid": "test1618", "did": "doc57226", "label": 1, "reason": "Disney developed it and released via Touchstone"}
+{"qid": "test1618", "did": "doc57232", "label": 0, "reason": "Poem written at Disney, project stalled, release unstated"}
+{"qid": "test1618", "did": "doc57242", "label": 0, "reason": "Reissue only, original studio unclear"}
+{"qid": "test1618", "did": "doc57247", "label": 0, "reason": "Marketing interpretation"}
+{"qid": "test1618", "did": "doc57248", "label": 0, "reason": "Box office and executive quote"}
+{"qid": "test1618", "did": "doc63804", "label": 0, "reason": "Video game DLC"}
+{"qid": "test1618", "did": "doc751998", "label": 0, "reason": "Marketing interpretation"}

@@ -15,3 +15,4 @@ uv pip install --python .venv --index-strategy unsafe-best-match -r requirements
 | Папка | Что | Запуск |
 |---|---|---|
 | [mrl/](mrl/) | Обрезка эмбеддингов (MRL): FRIDA vs Qwen3-Embedding-0.6B на RuBQ Retrieval (ruMTEB). nDCG@10 и recall@100 от размерности 32…1536 | `.venv/Scripts/python mrl/run_mrl.py` |
+| [nanonq-relabel/](nanonq-relabel/) | Когда можно сказать «A лучше B»: доразметка топ-10 NanoNQ двумя LLM-судьями (Opus, Sonnet), интервалы и значимость пар до и после | `.venv/Scripts/python nanonq-relabel/analyze.py` |

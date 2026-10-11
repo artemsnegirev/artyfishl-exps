@@ -1,0 +1,325 @@
+{"qid":"test2360","did":"doc1008940","label":0,"reason":"Filming of a 1981 movie, not Diary of a Wimpy Kid"}
+{"qid":"test2360","did":"doc1083962","label":0,"reason":"Australian film filming locations, unrelated film"}
+{"qid":"test2360","did":"doc1199221","label":0,"reason":"Dog Days book info, no filming location"}
+{"qid":"test2360","did":"doc125349","label":0,"reason":"Different film's New York filming, not Wimpy Kid"}
+{"qid":"test2360","did":"doc1311119","label":0,"reason":"Unrelated Disney film locations"}
+{"qid":"test2360","did":"doc1335341","label":0,"reason":"East Harlem filming of unrelated film"}
+{"qid":"test2360","did":"doc1390300","label":0,"reason":"Rodrick Rules book info, no filming location"}
+{"qid":"test2360","did":"doc1390312","label":0,"reason":"Book release dates only"}
+{"qid":"test2360","did":"doc1590438","label":0,"reason":"Rhode Island filming of unrelated film"}
+{"qid":"test2360","did":"doc1948854","label":0,"reason":"Cincinnati filming of unrelated film"}
+{"qid":"test2360","did":"doc1999887","label":0,"reason":"1992 movie filmed in Vancouver, not Wimpy Kid"}
+{"qid":"test2360","did":"doc2115402","label":0,"reason":"Actor's roles in Wimpy Kid films, no location"}
+{"qid":"test2360","did":"doc2224204","label":0,"reason":"Monte Rio filming of unrelated film"}
+{"qid":"test2360","did":"doc2465921","label":0,"reason":"Unrelated film shot in California/North Carolina"}
+{"qid":"test2360","did":"doc2582472","label":0,"reason":"Dumb and Dumber prequel filmed in Atlanta"}
+{"qid":"test2360","did":"doc2680676","label":0,"reason":"Donegal filming of unrelated film"}
+{"qid":"test2360","did":"doc281595","label":0,"reason":"Bill and Ted filming locations"}
+{"qid":"test2360","did":"doc282412","label":0,"reason":"Long Haul home release, no filming location"}
+{"qid":"test2360","did":"doc284394","label":0,"reason":"Full House sitcom taping location"}
+{"qid":"test2360","did":"doc37884","label":0,"reason":"Character Holly in films, no filming location"}
+{"qid":"test2360","did":"doc37890","label":0,"reason":"Character Patty in films, no filming location"}
+{"qid":"test2360","did":"doc509898","label":0,"reason":"1986 LA-shot film, unrelated"}
+{"qid":"test2360","did":"doc57946","label":1,"reason":"Rodrick Rules also filmed in Vancouver, implying Vancouver"}
+{"qid":"test2360","did":"doc57948","label":0,"reason":"Future film plans, no filming location"}
+{"qid":"test2360","did":"doc600774","label":0,"reason":"Scooby-Doo filmed in Queensland, unrelated"}
+{"qid":"test2360","did":"doc64791","label":0,"reason":"Goonies filming locations"}
+{"qid":"test2360","did":"doc693223","label":0,"reason":"Unrelated LA filming"}
+{"qid":"test2360","did":"doc703485","label":0,"reason":"Unrelated film shot in Vancouver area 2015"}
+{"qid":"test2360","did":"doc721746","label":0,"reason":"Long Haul book info only"}
+{"qid":"test2360","did":"doc81655","label":0,"reason":"Dog Days film overview, no filming location"}
+{"qid":"test2360","did":"doc890257","label":0,"reason":"Unrelated 2005 film locations"}
+{"qid":"test2360","did":"doc890684","label":0,"reason":"Kentucky filming of unrelated film"}
+{"qid":"test2360","did":"doc988735","label":0,"reason":"Unrelated 1986 film locations"}
+{"qid":"test1037","did":"doc1074194","label":0,"reason":"Buffy character Angel, unrelated"}
+{"qid":"test1037","did":"doc1104361","label":0,"reason":"Caption about a rose window"}
+{"qid":"test1037","did":"doc1186883","label":0,"reason":"Good Omens plot, unrelated"}
+{"qid":"test1037","did":"doc1902615","label":0,"reason":"Cassiel as angel of the North, not the sculpture"}
+{"qid":"test1037","did":"doc2009369","label":0,"reason":"Manuscript illustration of angel, unrelated"}
+{"qid":"test1037","did":"doc2041368","label":0,"reason":"Welsh landmark competition, no reason for Angel"}
+{"qid":"test1037","did":"doc2127006","label":0,"reason":"Station sculpture of angel, unrelated"}
+{"qid":"test1037","did":"doc2134008","label":0,"reason":"Good Witch of the North, unrelated"}
+{"qid":"test1037","did":"doc2141867","label":0,"reason":"Biblical angel of the presence, unrelated"}
+{"qid":"test1037","did":"doc2225375","label":0,"reason":"Fragment with no content"}
+{"qid":"test1037","did":"doc2274222","label":0,"reason":"Vancouver Bronze Angel memorial, not Angel of the North"}
+{"qid":"test1037","did":"doc2298808","label":0,"reason":"Friends episode trivia, unrelated"}
+{"qid":"test1037","did":"doc2314426","label":0,"reason":"Iron Maiden album cover, unrelated"}
+{"qid":"test1037","did":"doc23412","label":0,"reason":"North star symbolism, unrelated"}
+{"qid":"test1037","did":"doc2483632","label":0,"reason":"Title fragment only"}
+{"qid":"test1037","did":"doc2504604","label":0,"reason":"Sports logo north star, unrelated"}
+{"qid":"test1037","did":"doc330463","label":0,"reason":"Pond pilgrimage legend, unrelated"}
+{"qid":"test1037","did":"doc36393","label":1,"reason":"Gormley explains angel marks coal mining site and other meanings"}
+{"qid":"test1037","did":"doc36402","label":0,"reason":"Lego model caption, no reason"}
+{"qid":"test1037","did":"doc434733","label":0,"reason":"Woody Hayes anecdote, unrelated"}
+{"qid":"test1037","did":"doc454592","label":0,"reason":"Altarpiece lighting, unrelated"}
+{"qid":"test1037","did":"doc490514","label":0,"reason":"Religious text on angel in Eden, unrelated"}
+{"qid":"test1037","did":"doc573905","label":0,"reason":"Fragment with no content"}
+{"qid":"test1037","did":"doc58892","label":0,"reason":"Hyperborea mythology, unrelated"}
+{"qid":"test1037","did":"doc594646","label":0,"reason":"Philadelphia statue orientation, unrelated"}
+{"qid":"test1037","did":"doc60215","label":0,"reason":"TV plot about Angel of Darkness"}
+{"qid":"test1037","did":"doc648335","label":0,"reason":"Biblical angels, unrelated"}
+{"qid":"test1037","did":"doc648344","label":0,"reason":"Guardian angel theology, unrelated"}
+{"qid":"test1037","did":"doc648364","label":0,"reason":"Guardian angel theology, unrelated"}
+{"qid":"test1037","did":"doc737252","label":0,"reason":"Caption fragment, unrelated"}
+{"qid":"test1037","did":"doc854779","label":0,"reason":"Bethesda Fountain angel, not Angel of the North"}
+{"qid":"test1037","did":"doc866490","label":0,"reason":"Primality tests, unrelated"}
+{"qid":"test123","did":"doc1035806","label":0,"reason":"Emission spectrum, unrelated"}
+{"qid":"test123","did":"doc1134636","label":0,"reason":"Empty passage"}
+{"qid":"test123","did":"doc1260420","label":0,"reason":"RON voting option, no mention of mon"}
+{"qid":"test123","did":"doc1260422","label":0,"reason":"RON election counting, no mon comparison"}
+{"qid":"test123","did":"doc1537788","label":0,"reason":"Parks and Rec plot, unrelated"}
+{"qid":"test123","did":"doc1564136","label":0,"reason":"Slang fragment, no answer"}
+{"qid":"test123","did":"doc1568962","label":0,"reason":"Caption about crest, no comparison"}
+{"qid":"test123","did":"doc1587500","label":0,"reason":"Monet painting colors, unrelated"}
+{"qid":"test123","did":"doc1612682","label":0,"reason":"Vortimer name etymology, unrelated"}
+{"qid":"test123","did":"doc1826212","label":0,"reason":"Spanish word ron for rum, no mon comparison"}
+{"qid":"test123","did":"doc1837585","label":0,"reason":"Halloween sheriff character, unrelated"}
+{"qid":"test123","did":"doc1881192","label":0,"reason":"Empty passage"}
+{"qid":"test123","did":"doc2015875","label":0,"reason":"French naval address mon, no ron comparison"}
+{"qid":"test123","did":"doc2245725","label":0,"reason":"Empty passage"}
+{"qid":"test123","did":"doc2295957","label":0,"reason":"Norse Rán rendered Ron, unrelated"}
+{"qid":"test123","did":"doc2365901","label":0,"reason":"Fragment with no content"}
+{"qid":"test123","did":"doc2431178","label":0,"reason":"Talk page question, no answer"}
+{"qid":"test123","did":"doc2494655","label":0,"reason":"Mon people of Burma, no ron comparison"}
+{"qid":"test123","did":"doc298160","label":0,"reason":"TV series with Ron names, unrelated"}
+{"qid":"test123","did":"doc404242","label":0,"reason":"Monastic forms of address, unrelated"}
+{"qid":"test123","did":"doc455756","label":0,"reason":"Parks and Rec character, unrelated"}
+{"qid":"test123","did":"doc4611","label":1,"reason":"Explains MON vs RON octane test differences"}
+{"qid":"test123","did":"doc55093","label":0,"reason":"Empty passage"}
+{"qid":"test123","did":"doc589376","label":0,"reason":"Empty passage"}
+{"qid":"test123","did":"doc689060","label":0,"reason":"Japanese mon emblem, no ron comparison"}
+{"qid":"test123","did":"doc751714","label":0,"reason":"Harry Potter Ron plot, unrelated"}
+{"qid":"test123","did":"doc751726","label":0,"reason":"Ron Weasley biography, unrelated"}
+{"qid":"test123","did":"doc753576","label":0,"reason":"Radon element, unrelated"}
+{"qid":"test123","did":"doc824694","label":0,"reason":"Greek numbering prefixes, unrelated"}
+{"qid":"test428","did":"doc1096264","label":0,"reason":"Oath of allegiance, unrelated"}
+{"qid":"test428","did":"doc1185297","label":0,"reason":"Unrelated quote about regretted words"}
+{"qid":"test428","did":"doc1253247","label":0,"reason":"Theatre reviews, unrelated"}
+{"qid":"test428","did":"doc1273973","label":0,"reason":"Rap lyrics, unrelated"}
+{"qid":"test428","did":"doc1508870","label":0,"reason":"Malcolm X quote on rights, not this phrase"}
+{"qid":"test428","did":"doc15890","label":1,"reason":"Hall wrote the phrase, often misattributed to Voltaire"}
+{"qid":"test428","did":"doc1736704","label":0,"reason":"Police caution, unrelated"}
+{"qid":"test428","did":"doc1736708","label":0,"reason":"Police caution, unrelated"}
+{"qid":"test428","did":"doc1935873","label":0,"reason":"Pledge fragment, unrelated"}
+{"qid":"test428","did":"doc2042102","label":0,"reason":"Unrelated quote"}
+{"qid":"test428","did":"doc2054559","label":0,"reason":"Dylan speech quote, unrelated"}
+{"qid":"test428","did":"doc2067559","label":0,"reason":"Blade Runner monologue, unrelated"}
+{"qid":"test428","did":"doc2085567","label":0,"reason":"KKK threat quote, unrelated"}
+{"qid":"test428","did":"doc2119808","label":0,"reason":"Prayer fragment, unrelated"}
+{"qid":"test428","did":"doc2636762","label":0,"reason":"Motto This I'll Defend, not the quote"}
+{"qid":"test428","did":"doc264212","label":0,"reason":"Prayer fragment, unrelated"}
+{"qid":"test428","did":"doc2665803","label":0,"reason":"Memorial inscription, unrelated"}
+{"qid":"test428","did":"doc333675","label":0,"reason":"Civil War song lyrics, unrelated"}
+{"qid":"test428","did":"doc336518","label":0,"reason":"Milton liberty quote, not the phrase"}
+{"qid":"test428","did":"doc393485","label":0,"reason":"Police caution, unrelated"}
+{"qid":"test428","did":"doc397701","label":0,"reason":"Bose slogan, unrelated"}
+{"qid":"test428","did":"doc518266","label":0,"reason":"Freedom of expression article fragment, not the quote"}
+{"qid":"test428","did":"doc527472","label":0,"reason":"Song description, unrelated"}
+{"qid":"test428","did":"doc627432","label":0,"reason":"Coast Guard creed, unrelated"}
+{"qid":"test428","did":"doc645602","label":0,"reason":"The 100 character death, unrelated"}
+{"qid":"test428","did":"doc688403","label":0,"reason":"Poem line, unrelated"}
+{"qid":"test428","did":"doc688882","label":0,"reason":"Polish verb form, unrelated"}
+{"qid":"test428","did":"doc733127","label":0,"reason":"Publishing policy quote, not the phrase"}
+{"qid":"test428","did":"doc878338","label":0,"reason":"Unrelated courtroom quote"}
+{"qid":"test2974","did":"doc102077","label":1,"reason":"States it is a 2016 film, giving release year"}
+{"qid":"test2974","did":"doc102096","label":0,"reason":"Oscar nominations, no release date"}
+{"qid":"test2974","did":"doc102097","label":1,"reason":"Gives home media release date November 22, 2016"}
+{"qid":"test2974","did":"doc1265623","label":0,"reason":"Unnamed film's 2017 release date"}
+{"qid":"test2974","did":"doc1391659","label":0,"reason":"Avicenna philosophy, unrelated"}
+{"qid":"test2974","did":"doc1401088","label":0,"reason":"Compiler format strings, unrelated"}
+{"qid":"test2974","did":"doc1475979","label":0,"reason":"Unrelated Sundance film release"}
+{"qid":"test2974","did":"doc1732443","label":0,"reason":"Japanese anime film release, not Kubo"}
+{"qid":"test2974","did":"doc1803620","label":0,"reason":"Beatles album reception, unrelated"}
+{"qid":"test2974","did":"doc192542","label":0,"reason":"Unrelated Universal film release"}
+{"qid":"test2974","did":"doc2107377","label":0,"reason":"Lorien Legacies character, unrelated"}
+{"qid":"test2974","did":"doc2392865","label":0,"reason":"Unrelated film release dates"}
+{"qid":"test2974","did":"doc2438080","label":0,"reason":"Unrelated German film release"}
+{"qid":"test2974","did":"doc273662","label":0,"reason":"Unnamed sequel release date"}
+{"qid":"test2974","did":"doc308346","label":0,"reason":"Unnamed film released 2017"}
+{"qid":"test2974","did":"doc313306","label":0,"reason":"Unnamed Netflix film release"}
+{"qid":"test2974","did":"doc337483","label":0,"reason":"Unnamed film released Tokyo 2016"}
+{"qid":"test2974","did":"doc366445","label":0,"reason":"Jurassic Park production, unrelated"}
+{"qid":"test2974","did":"doc460917","label":0,"reason":"Unnamed film release 2018"}
+{"qid":"test2974","did":"doc510177","label":0,"reason":"Unnamed Russian film release"}
+{"qid":"test2974","did":"doc546646","label":0,"reason":"Unrelated film release dates"}
+{"qid":"test2974","did":"doc596855","label":0,"reason":"Unnamed Netflix film release"}
+{"qid":"test2974","did":"doc70909","label":0,"reason":"Salmonella biology, unrelated"}
+{"qid":"test2974","did":"doc74858","label":0,"reason":"Unnamed sequel release"}
+{"qid":"test2974","did":"doc855356","label":0,"reason":"Unnamed film release 2018"}
+{"qid":"test2974","did":"doc872070","label":0,"reason":"Air Force One plot, unrelated"}
+{"qid":"test2974","did":"doc890730","label":0,"reason":"Unrelated Netflix film release"}
+{"qid":"test2233","did":"doc1208808","label":0,"reason":"Euro 2016 winner, not Champions League"}
+{"qid":"test2233","did":"doc1328113","label":0,"reason":"2006 final preview, no 2016 winner"}
+{"qid":"test2233","did":"doc1340806","label":0,"reason":"Barcelona 2009 final win"}
+{"qid":"test2233","did":"doc1369505","label":0,"reason":"2017 Club World Cup final, not 2016 CL winner"}
+{"qid":"test2233","did":"doc1369510","label":0,"reason":"Real Madrid won 2016-17 CL, not 2016 final explicitly"}
+{"qid":"test2233","did":"doc1480727","label":0,"reason":"League cup fragment, unrelated"}
+{"qid":"test2233","did":"doc1953211","label":0,"reason":"Juventus 2017 final preview, no 2016 winner"}
+{"qid":"test2233","did":"doc1994393","label":0,"reason":"Euro 2016 winner Portugal, not Champions League"}
+{"qid":"test2233","did":"doc2025330","label":0,"reason":"French teams in finals, no 2016 winner"}
+{"qid":"test2233","did":"doc208540","label":0,"reason":"Club World Cup format, no winner"}
+{"qid":"test2233","did":"doc208541","label":0,"reason":"2016 Club World Cup winner, not Champions League"}
+{"qid":"test2233","did":"doc2095396","label":0,"reason":"Manchester United history, no 2016 CL winner"}
+{"qid":"test2233","did":"doc2162623","label":0,"reason":"Monaco football, no 2016 CL winner"}
+{"qid":"test2233","did":"doc268699","label":0,"reason":"Arsenal European record, no 2016 winner"}
+{"qid":"test2233","did":"doc349744","label":1,"reason":"Real Madrid beat Atletico in 2016 CL final"}
+{"qid":"test2233","did":"doc349747","label":0,"reason":"2017 final, not 2016"}
+{"qid":"test2233","did":"doc484979","label":0,"reason":"2018 final venue only"}
+{"qid":"test2233","did":"doc54270","label":0,"reason":"Man United 2008 final, not 2016"}
+{"qid":"test2233","did":"doc579128","label":0,"reason":"2017 Europa League final"}
+{"qid":"test2233","did":"doc579135","label":0,"reason":"Ambassador trivia, no 2016 winner"}
+{"qid":"test2233","did":"doc681775","label":0,"reason":"League Cup final, unrelated"}
+{"qid":"test2233","did":"doc77634","label":1,"reason":"Real Madrid won 2016 CL final on penalties"}
+{"qid":"test2233","did":"doc77640","label":0,"reason":"Real Madrid road to final, no result"}
+{"qid":"test2233","did":"doc825186","label":0,"reason":"2010 final, not 2016"}
+{"qid":"test2233","did":"doc825187","label":0,"reason":"2010 final aftermath"}
+{"qid":"test2233","did":"doc925929","label":0,"reason":"English clubs 2005-2012 finals"}
+{"qid":"test2539","did":"doc1007189","label":0,"reason":"New Jersey congressional delegation"}
+{"qid":"test2539","did":"doc1007190","label":0,"reason":"New Jersey delegation count"}
+{"qid":"test2539","did":"doc101561","label":0,"reason":"Three-Fifths Compromise, unrelated"}
+{"qid":"test2539","did":"doc1033766","label":0,"reason":"US House history, no PA count"}
+{"qid":"test2539","did":"doc1088161","label":0,"reason":"PA constitutions, no House size"}
+{"qid":"test2539","did":"doc1394755","label":0,"reason":"Unidentified delegation of 14"}
+{"qid":"test2539","did":"doc1394758","label":0,"reason":"Unidentified delegation of 12"}
+{"qid":"test2539","did":"doc1394760","label":0,"reason":"Unidentified delegation of 37"}
+{"qid":"test2539","did":"doc1635999","label":0,"reason":"US congressional districts total, no PA"}
+{"qid":"test2539","did":"doc1827142","label":0,"reason":"PA flag bill, no member count"}
+{"qid":"test2539","did":"doc1840635","label":0,"reason":"Delaware House size"}
+{"qid":"test2539","did":"doc2337863","label":0,"reason":"Corry representation, no count"}
+{"qid":"test2539","did":"doc2486654","label":0,"reason":"Wyoming legislature size"}
+{"qid":"test2539","did":"doc2509153","label":0,"reason":"Constitutional convention history"}
+{"qid":"test2539","did":"doc2529675","label":1,"reason":"States Pennsylvania lower house has 203"}
+{"qid":"test2539","did":"doc25697","label":0,"reason":"US House composition, no PA count"}
+{"qid":"test2539","did":"doc324530","label":0,"reason":"US House 435 members, no PA"}
+{"qid":"test2539","did":"doc430825","label":0,"reason":"List intro, no count"}
+{"qid":"test2539","did":"doc530778","label":0,"reason":"US House elections, no PA"}
+{"qid":"test2539","did":"doc579817","label":0,"reason":"PA 18th district, no count"}
+{"qid":"test2539","did":"doc626260","label":0,"reason":"PA Senate election, no count"}
+{"qid":"test2539","did":"doc783808","label":0,"reason":"Foreign parliament size"}
+{"qid":"test2539","did":"doc868589","label":0,"reason":"US House growth, no PA count"}
+{"qid":"test2539","did":"doc87294","label":1,"reason":"Pennsylvania House has 203 members"}
+{"qid":"test2539","did":"doc952880","label":0,"reason":"Japanese Diet membership"}
+{"qid":"test2651","did":"doc107878","label":0,"reason":"Chris Masterson actor, unrelated"}
+{"qid":"test2651","did":"doc1079922","label":0,"reason":"Lists guest appearance on Bat Masterson, not lead"}
+{"qid":"test2651","did":"doc1101731","label":0,"reason":"Child actor bio, unrelated"}
+{"qid":"test2651","did":"doc1169637","label":0,"reason":"Actor Colby roles, unrelated"}
+{"qid":"test2651","did":"doc1267318","label":0,"reason":"Film featuring Masterson character, no actor"}
+{"qid":"test2651","did":"doc1269703","label":0,"reason":"Guest actors list, unrelated"}
+{"qid":"test2651","did":"doc1527545","label":0,"reason":"Sky Masterson in Guys and Dolls"}
+{"qid":"test2651","did":"doc155438","label":0,"reason":"Batman animated cast"}
+{"qid":"test2651","did":"doc1588867","label":0,"reason":"Greatest American Hero cast"}
+{"qid":"test2651","did":"doc1740481","label":0,"reason":"Unnamed Masterson cast promotion, unrelated"}
+{"qid":"test2651","did":"doc1846029","label":0,"reason":"Wyatt Earp film plot, no actor"}
+{"qid":"test2651","did":"doc2033842","label":0,"reason":"Baseball film plot, unrelated"}
+{"qid":"test2651","did":"doc2236863","label":0,"reason":"Historical Bat Masterson, no actor"}
+{"qid":"test2651","did":"doc2236865","label":0,"reason":"Historical Bat Masterson, no actor"}
+{"qid":"test2651","did":"doc2247113","label":0,"reason":"Dick Tracy TV series"}
+{"qid":"test2651","did":"doc2620645","label":0,"reason":"Hitchhiker's audiobook, unrelated"}
+{"qid":"test2651","did":"doc306215","label":0,"reason":"Batman animated series voice cast"}
+{"qid":"test2651","did":"doc487275","label":0,"reason":"Episode guest cast, no Masterson"}
+{"qid":"test2651","did":"doc787615","label":0,"reason":"Batman Begins cast"}
+{"qid":"test2651","did":"doc82127","label":1,"reason":"Dinehart played Bat Masterson in Wyatt Earp TV series"}
+{"qid":"test2651","did":"doc82130","label":1,"reason":"Dinehart played youthful Bat Masterson in TV episodes"}
+{"qid":"test2651","did":"doc90807","label":1,"reason":"Gene Barry played title character in Bat Masterson series"}
+{"qid":"test2651","did":"doc90808","label":1,"reason":"Show's Masterson played by Barry"}
+{"qid":"test2651","did":"doc90819","label":0,"reason":"Barry played Masterson in a TV film, not series"}
+{"qid":"test2247","did":"doc1220082","label":0,"reason":"Origins of unnamed song Jack Jintle, not mulberry bush"}
+{"qid":"test2247","did":"doc1430993","label":0,"reason":"Mentions rhyme, no origin"}
+{"qid":"test2247","did":"doc1431001","label":0,"reason":"Van Gogh painting caption"}
+{"qid":"test2247","did":"doc1504263","label":1,"reason":"Wakefield prison exercise yard mulberry tree origin theory"}
+{"qid":"test2247","did":"doc1519779","label":0,"reason":"Cool Hand Luke sample, unrelated"}
+{"qid":"test2247","did":"doc1619342","label":0,"reason":"Blur song origin, unrelated"}
+{"qid":"test2247","did":"doc1629552","label":0,"reason":"Run Rabbit Run origin, unrelated"}
+{"qid":"test2247","did":"doc1643694","label":0,"reason":"Name etymology, unrelated"}
+{"qid":"test2247","did":"doc2079848","label":0,"reason":"Australian bush music, unrelated"}
+{"qid":"test2247","did":"doc2182044","label":0,"reason":"Unnamed rhyme collected 1842"}
+{"qid":"test2247","did":"doc2378961","label":0,"reason":"Yorkshire dialect song, unrelated"}
+{"qid":"test2247","did":"doc417733","label":0,"reason":"Unnamed rhyme first printed 1744"}
+{"qid":"test2247","did":"doc531580","label":0,"reason":"Song writing anecdote, unrelated"}
+{"qid":"test2247","did":"doc5734","label":0,"reason":"Pop Goes the Weasel lyrics"}
+{"qid":"test2247","did":"doc674553","label":0,"reason":"Football chant origin, unrelated"}
+{"qid":"test2247","did":"doc691881","label":0,"reason":"Origin of Crooked Man rhyme, not mulberry bush"}
+{"qid":"test2247","did":"doc7165","label":0,"reason":"Friends episode, unrelated"}
+{"qid":"test2247","did":"doc77971","label":1,"reason":"Recorded by Halliwell as children's game; bramble bush earlier version"}
+{"qid":"test2247","did":"doc77973","label":0,"reason":"Unnamed traditional song parallels, no clear origin"}
+{"qid":"test2247","did":"doc77976","label":1,"reason":"Rhyme may reference British silk industry frost struggles"}
+{"qid":"test2247","did":"doc857632","label":0,"reason":"Different folk song, unrelated"}
+{"qid":"test2247","did":"doc936401","label":0,"reason":"Down in the Willow Garden origin"}
+{"qid":"test2247","did":"doc969155","label":0,"reason":"Unnamed Jacobite rhyme, not mulberry bush"}
+{"qid":"test194","did":"doc1377683","label":0,"reason":"Fragment with no content"}
+{"qid":"test194","did":"doc1384591","label":0,"reason":"main return value, not semicolon"}
+{"qid":"test194","did":"doc1599042","label":0,"reason":"Colon in conditional operator, not semicolon"}
+{"qid":"test194","did":"doc1694554","label":0,"reason":"Fragment, no C content"}
+{"qid":"test194","did":"doc2168530","label":0,"reason":"Math fragment, unrelated"}
+{"qid":"test194","did":"doc27102","label":0,"reason":"Compound assignment operators, not semicolon"}
+{"qid":"test194","did":"doc305556","label":0,"reason":"While loop fragment, no semicolon function"}
+{"qid":"test194","did":"doc316997","label":0,"reason":"PHP statement terminator, not C"}
+{"qid":"test194","did":"doc485206","label":0,"reason":"Comment delimiters, not semicolon"}
+{"qid":"test194","did":"doc591048","label":0,"reason":"Return statement style, unrelated"}
+{"qid":"test194","did":"doc683357","label":0,"reason":"Function pointer declaration, unrelated"}
+{"qid":"test194","did":"doc692559","label":0,"reason":"Mentions expression followed by semicolon, function not stated"}
+{"qid":"test194","did":"doc692580","label":0,"reason":"main closing brace, not semicolon"}
+{"qid":"test194","did":"doc697071","label":0,"reason":"Implicit function declarations, unrelated"}
+{"qid":"test194","did":"doc7091","label":0,"reason":"Semicolon in English punctuation, not C"}
+{"qid":"test194","did":"doc7099","label":0,"reason":"Semicolon in French, not C"}
+{"qid":"test194","did":"doc7106","label":1,"reason":"Semicolons are statement terminators required in C family"}
+{"qid":"test194","did":"doc7112","label":0,"reason":"Lone semicolon as NOP, not general function"}
+{"qid":"test194","did":"doc7116","label":0,"reason":"Semicolon in email fields"}
+{"qid":"test194","did":"doc7119","label":0,"reason":"Semicolon in HTML entities"}
+{"qid":"test194","did":"doc7120","label":0,"reason":"Semicolon in CSV-like formats"}
+{"qid":"test194","did":"doc934401","label":0,"reason":"Early C return types, unrelated"}
+{"qid":"test31","did":"doc1186883","label":0,"reason":"Good Omens plot, unrelated"}
+{"qid":"test31","did":"doc1207422","label":0,"reason":"Eddie and the Cruisers plot, unrelated"}
+{"qid":"test31","did":"doc15095","label":0,"reason":"Taoist heavens, no one met at gates"}
+{"qid":"test31","did":"doc187232","label":0,"reason":"Title fragment"}
+{"qid":"test31","did":"doc1914599","label":0,"reason":"Angel holding key to Pit, not heaven's gates"}
+{"qid":"test31","did":"doc2009369","label":0,"reason":"Angel guards paradise after expulsion, not heaven gates"}
+{"qid":"test31","did":"doc207871","label":0,"reason":"Dante meets saints in Paradiso, not at gates"}
+{"qid":"test31","did":"doc2111919","label":0,"reason":"Ninth Gate film, unrelated"}
+{"qid":"test31","did":"doc220990","label":0,"reason":"Hymn allegory, no one met"}
+{"qid":"test31","did":"doc229804","label":0,"reason":"Peter given keys, not stated at gates"}
+{"qid":"test31","did":"doc2420483","label":0,"reason":"Gates of hell legends"}
+{"qid":"test31","did":"doc2659217","label":0,"reason":"Jehovah's Witnesses heaven beliefs"}
+{"qid":"test31","did":"doc269387","label":0,"reason":"Five people met in heaven novel, not gates"}
+{"qid":"test31","did":"doc404160","label":0,"reason":"Christ opening gates of Hades"}
+{"qid":"test31","did":"doc428406","label":0,"reason":"Paul's third heaven, no gates"}
+{"qid":"test31","did":"doc453118","label":0,"reason":"Peter given keys, not stated at gates"}
+{"qid":"test31","did":"doc750407","label":0,"reason":"Pilgrim's Progress Wicket Gate, not heaven's gates"}
+{"qid":"test31","did":"doc750414","label":0,"reason":"Pilgrim's Progress Vanity Fair"}
+{"qid":"test31","did":"doc750416","label":0,"reason":"Pilgrim's Progress Delectable Mountains"}
+{"qid":"test31","did":"doc752256","label":0,"reason":"Supernatural plot, unrelated"}
+{"qid":"test31","did":"doc890682","label":0,"reason":"Film plot with Gates clan, unrelated"}
+{"qid":"test31","did":"doc897","label":1,"reason":"Gates of heaven guarded by Saint Peter"}
+{"qid":"test1607","did":"doc1102442","label":1,"reason":"National Assembly has 342 MNAs"}
+{"qid":"test1607","did":"doc1601611","label":0,"reason":"Indian Parliament count"}
+{"qid":"test1607","did":"doc1685439","label":0,"reason":"Independent seats only, no total"}
+{"qid":"test1607","did":"doc2091584","label":0,"reason":"Senate composition, not National Assembly total"}
+{"qid":"test1607","did":"doc2091589","label":0,"reason":"Historical 1985 strength 237, not current total"}
+{"qid":"test1607","did":"doc2091597","label":0,"reason":"Political history, no member count"}
+{"qid":"test1607","did":"doc213075","label":0,"reason":"Provincial assembly constituencies"}
+{"qid":"test1607","did":"doc2313854","label":0,"reason":"Punjab Assembly seats"}
+{"qid":"test1607","did":"doc2313864","label":0,"reason":"Punjab Assembly seats"}
+{"qid":"test1607","did":"doc2378781","label":0,"reason":"By-election counts, no total"}
+{"qid":"test1607","did":"doc2439294","label":0,"reason":"NWFP assembly history"}
+{"qid":"test1607","did":"doc2509989","label":0,"reason":"KP Assembly seats"}
+{"qid":"test1607","did":"doc2509996","label":0,"reason":"KP Assembly history"}
+{"qid":"test1607","did":"doc56897","label":1,"reason":"National Assembly has 332 MNAs"}
+{"qid":"test1607","did":"doc56902","label":1,"reason":"National Assembly consists of 332 members"}
+{"qid":"test1607","did":"doc56903","label":0,"reason":"Membership requirements, no count"}
+{"qid":"test1607","did":"doc56909","label":0,"reason":"Session rules, no count"}
+{"qid":"test1607","did":"doc56921","label":1,"reason":"Total of 332 seats in National Assembly"}
+{"qid":"test1607","did":"doc873481","label":0,"reason":"Title fragment"}
+{"qid":"test1618","did":"doc1142095","label":0,"reason":"3D re-release systems, not Disney origin"}
+{"qid":"test1618","did":"doc1163498","label":1,"reason":"Disney deal to make it as a Disney movie"}
+{"qid":"test1618","did":"doc1622317","label":0,"reason":"Selick directing other film, unrelated"}
+{"qid":"test1618","did":"doc1665946","label":1,"reason":"Disney produced Nightmare with Tim Burton"}
+{"qid":"test1618","did":"doc2116209","label":0,"reason":"Haunted Mansion overlay, no origin info"}
+{"qid":"test1618","did":"doc2173529","label":0,"reason":"Beauty and the Beast sequel, unrelated"}
+{"qid":"test1618","did":"doc3001","label":0,"reason":"Ride overlay development, only hints"}
+{"qid":"test1618","did":"doc57226","label":1,"reason":"Developed with Disney, released via Disney's Touchstone"}
+{"qid":"test1618","did":"doc57232","label":0,"reason":"Early Disney development stalled, final status unsettled"}
+{"qid":"test1618","did":"doc57242","label":0,"reason":"2006 Disney reissue, original release not settled"}
+{"qid":"test1618","did":"doc57247","label":0,"reason":"Marketing interpretation, unrelated"}
+{"qid":"test1618","did":"doc57248","label":0,"reason":"Disney exec quote, only hints"}
+{"qid":"test1618","did":"doc63804","label":0,"reason":"Video game DLC, unrelated"}
+{"qid":"test1618","did":"doc751998","label":0,"reason":"Marketing interpretation, unrelated"}
