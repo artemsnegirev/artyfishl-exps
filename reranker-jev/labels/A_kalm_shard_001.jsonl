@@ -1,0 +1,93 @@
+{"qid": "dev_query805", "did": "candidate_dev_query805_00051", "judge": "A", "label": 0, "reason": "About process art and arte povera, not spray art"}
+{"qid": "dev_query499", "did": "candidate_dev_query499_00029", "judge": "A", "label": 0, "reason": "About 2010 heat wave deaths, not Columbine"}
+{"qid": "dev_query969", "did": "candidate_dev_query969_00074", "judge": "A", "label": 0, "reason": "Novel overview, Natasha's husband not named"}
+{"qid": "dev_query461", "did": "candidate_dev_query461_00075", "judge": "A", "label": 0, "reason": "Brussels palaces, not Sheki palace"}
+{"qid": "dev_query896", "did": "candidate_dev_query896_00078", "judge": "A", "label": 0, "reason": "Defines FSM state, no largest island named"}
+{"qid": "dev_query75", "did": "candidate_dev_query75_00010", "judge": "A", "label": 0, "reason": "Rwenzururu civil war, not Don"}
+{"qid": "dev_query169", "did": "candidate_dev_query169_00047", "judge": "A", "label": 0, "reason": "Abolition list of countries, Russia not included"}
+{"qid": "dev_query731", "did": "candidate_dev_query731_00096", "judge": "A", "label": 0, "reason": "Abramov's Harbin YMCA work, no birth date"}
+{"qid": "dev_query46", "did": "candidate_dev_query46_00080", "judge": "A", "label": 0, "reason": "About whooping cough, not US rivers"}
+{"qid": "dev_query830", "did": "candidate_dev_query830_00016", "judge": "A", "label": 0, "reason": "About Gunn diode oscillators, not Zener diode"}
+{"qid": "dev_query901", "did": "candidate_dev_query901_00080", "judge": "A", "label": 0, "reason": "Defines love as feeling, not Dikgof person"}
+{"qid": "dev_query1084", "did": "candidate_dev_query1084_00017", "judge": "A", "label": 0, "reason": "Ukrainian holiday history, revolution year not given"}
+{"qid": "dev_query1183", "did": "candidate_dev_query1183_00048", "judge": "A", "label": 0, "reason": "Philippe Ferrari stamp collector, not Ferrari company"}
+{"qid": "dev_query449", "did": "candidate_dev_query449_00090", "judge": "A", "label": 0, "reason": "Monastery's serfs, nothing about Suvorov"}
+{"qid": "dev_query1183", "did": "candidate_dev_query1183_00088", "judge": "A", "label": 0, "reason": "Ferrara province history, not Ferrari company"}
+{"qid": "dev_query605", "did": "candidate_dev_query605_00040", "judge": "A", "label": 1, "reason": "Wamba elected Visigothic king; yes, kings existed"}
+{"qid": "dev_query1005", "did": "candidate_dev_query1005_00088", "judge": "A", "label": 0, "reason": "Camel meat use, no lifespan"}
+{"qid": "dev_query467", "did": "candidate_dev_query467_00017", "judge": "A", "label": 0, "reason": "Operation Enduring Freedom Sahara, not Protective Edge"}
+{"qid": "dev_query298", "did": "candidate_dev_query298_00080", "judge": "A", "label": 0, "reason": "Gelendzhik rural district, no city count for krai"}
+{"qid": "dev_query967", "did": "candidate_dev_query967_00001", "judge": "A", "label": 0, "reason": "Describes Tora-Bora base area only, no total count"}
+{"qid": "dev_query917", "did": "candidate_dev_query917_00062", "judge": "A", "label": 0, "reason": "Kaugur uprising 1802, not Izhevsk-Votkinsk"}
+{"qid": "dev_query500", "did": "candidate_dev_query500_00011", "judge": "A", "label": 0, "reason": "Syrian Taftanaz battle, not Congress dispersal"}
+{"qid": "dev_query500", "did": "candidate_dev_query500_00063", "judge": "A", "label": 0, "reason": "Defines China, nothing about Congress dispersal"}
+{"qid": "dev_query166", "did": "candidate_dev_query166_00086", "judge": "A", "label": 0, "reason": "Racer's company named Sapsan, not train naming"}
+{"qid": "dev_query659", "did": "candidate_dev_query659_00072", "judge": "A", "label": 0, "reason": "CERN electronics standards, no staff count"}
+{"qid": "dev_query497", "did": "candidate_dev_query497_00007", "judge": "A", "label": 0, "reason": "Donner Party cultural significance, no survivor count"}
+{"qid": "dev_query531", "did": "candidate_dev_query531_00017", "judge": "A", "label": 0, "reason": "O'Brien's comments as host, producer not named"}
+{"qid": "dev_query969", "did": "candidate_dev_query969_00034", "judge": "A", "label": 0, "reason": "Film plot: Pierre marries Helene, Natasha's husband not stated"}
+{"qid": "dev_query712", "did": "candidate_dev_query712_00072", "judge": "A", "label": 0, "reason": "Hindu Parameshvara concept, not Norse god"}
+{"qid": "dev_query1098", "did": "candidate_dev_query1098_00010", "judge": "A", "label": 0, "reason": "About hydrologist Ogievsky, not Dokuchaev"}
+{"qid": "dev_query352", "did": "candidate_dev_query352_00067", "judge": "A", "label": 0, "reason": "Babylon 5 novel author, no Russian character info"}
+{"qid": "dev_query325", "did": "candidate_dev_query325_00005", "judge": "A", "label": 0, "reason": "De Tracy's Senate role, no marriage info"}
+{"qid": "dev_query680", "did": "candidate_dev_query680_00088", "judge": "A", "label": 0, "reason": "Grodno monastery on Neman, not Rome"}
+{"qid": "dev_query816", "did": "candidate_dev_query816_00019", "judge": "A", "label": 0, "reason": "Pacquiao fight aftermath, no Olympic medal info"}
+{"qid": "dev_query917", "did": "candidate_dev_query917_00048", "judge": "A", "label": 0, "reason": "Generic uprising definition, no Izhevsk date"}
+{"qid": "dev_query986", "did": "candidate_dev_query986_00092", "judge": "A", "label": 0, "reason": "Bulgarian army newspaper, nothing about Solonevich"}
+{"qid": "dev_query1159", "did": "candidate_dev_query1159_00011", "judge": "A", "label": 0, "reason": "Camels on Chelyabinsk heraldry, not hump contents"}
+{"qid": "dev_query1187", "did": "candidate_dev_query1187_00053", "judge": "A", "label": 0, "reason": "Only title and name Pyotr Bark, no content"}
+{"qid": "dev_query599", "did": "candidate_dev_query599_00020", "judge": "A", "label": 0, "reason": "Mai-Gatka airport flights, not Khabarovsk's largest airport"}
+{"qid": "dev_query940", "did": "candidate_dev_query940_00006", "judge": "A", "label": 0, "reason": "Buryat clans, nothing about Arafat"}
+{"qid": "dev_query530", "did": "candidate_dev_query530_00099", "judge": "A", "label": 0, "reason": "Lenard's 1905 Nobel, not Kapitsa's achievement"}
+{"qid": "dev_query988", "did": "candidate_dev_query988_00078", "judge": "A", "label": 0, "reason": "Trail orienteering tasks, not Dalstroy"}
+{"qid": "dev_query117", "did": "candidate_dev_query117_00025", "judge": "A", "label": 0, "reason": "2015 Rada coalition exit, no 2019 party count"}
+{"qid": "dev_query1060", "did": "candidate_dev_query1060_00050", "judge": "A", "label": 0, "reason": "Czech towns founded by Ottokar, not Almaty"}
+{"qid": "dev_query1175", "did": "candidate_dev_query1175_00073", "judge": "A", "label": 0, "reason": "Archaeology in Kriz region, not Norway"}
+{"qid": "dev_query612", "did": "candidate_dev_query612_00095", "judge": "A", "label": 0, "reason": "Polish band Perfect in US clubs, not Beckham"}
+{"qid": "dev_query712", "did": "candidate_dev_query712_00092", "judge": "A", "label": 0, "reason": "Armenian supreme god Aramazd, not Viking"}
+{"qid": "dev_query75", "did": "candidate_dev_query75_00071", "judge": "A", "label": 0, "reason": "Global civil war statistics, not Don war"}
+{"qid": "dev_query1000", "did": "candidate_dev_query1000_00093", "judge": "A", "label": 0, "reason": "Odessa church, sea not named"}
+{"qid": "dev_query557", "did": "candidate_dev_query557_00000", "judge": "A", "label": 0, "reason": "USSR 1934 rail accidents, not imperial family crash"}
+{"qid": "dev_query612", "did": "candidate_dev_query612_00021", "judge": "A", "label": 0, "reason": "American Hockey League clubs, not Beckham"}
+{"qid": "dev_query1056", "did": "candidate_dev_query1056_00081", "judge": "A", "label": 0, "reason": "1926 Leningrad championship, not first world champion"}
+{"qid": "dev_query917", "did": "candidate_dev_query917_00027", "judge": "A", "label": 0, "reason": "Bashkir uprisings heading only, not Izhevsk"}
+{"qid": "dev_query1126", "did": "candidate_dev_query1126_00092", "judge": "A", "label": 0, "reason": "BioShock 2007 release generally, no Russian release"}
+{"qid": "dev_query157", "did": "candidate_dev_query157_00035", "judge": "A", "label": 0, "reason": "Modern European prostitution laws, not Byzantium"}
+{"qid": "dev_query1242", "did": "candidate_dev_query1242_00050", "judge": "A", "label": 0, "reason": "Expendables 2 marketing, no budget"}
+{"qid": "dev_query1183", "did": "candidate_dev_query1183_00054", "judge": "A", "label": 0, "reason": "Ferrara archdiocese history, not Ferrari company"}
+{"qid": "dev_query498", "did": "candidate_dev_query498_00038", "judge": "A", "label": 0, "reason": "1901 icon committee, origin of icon painting not stated"}
+{"qid": "dev_query387", "did": "candidate_dev_query387_00041", "judge": "A", "label": 1, "reason": "Title 'Civil war in Tajikistan' confirms it happened"}
+{"qid": "dev_query170", "did": "candidate_dev_query170_00004", "judge": "A", "label": 0, "reason": "Holocaust warning text, no WJC headquarters location"}
+{"qid": "dev_query216", "did": "candidate_dev_query216_00018", "judge": "A", "label": 0, "reason": "Sport crossbow from Swiss type, not first crossbows"}
+{"qid": "dev_query99", "did": "candidate_dev_query99_00018", "judge": "A", "label": 0, "reason": "Party sanatorium rations 1942, not initial blockade ration"}
+{"qid": "dev_query1219", "did": "candidate_dev_query1219_00095", "judge": "A", "label": 0, "reason": "Explains Gothic chapel name, not Peterhof name"}
+{"qid": "dev_query1175", "did": "candidate_dev_query1175_00000", "judge": "A", "label": 0, "reason": "Petersburg Alaska 'Little Norway', not Norway's first people"}
+{"qid": "dev_query59", "did": "candidate_dev_query59_00038", "judge": "A", "label": 0, "reason": "Social pension age shift, not 2019 retirement age"}
+{"qid": "dev_query294", "did": "candidate_dev_query294_00007", "judge": "A", "label": 0, "reason": "About painter Periklis Tsirigotis, not Kallidopoulos"}
+{"qid": "dev_query39", "did": "candidate_dev_query39_00055", "judge": "A", "label": 0, "reason": "One 1705 bridge's spans, no city drawbridge count"}
+{"qid": "dev_query1060", "did": "candidate_dev_query1060_00013", "judge": "A", "label": 0, "reason": "Militant leader Ataev, not Almaty founding"}
+{"qid": "dev_query532", "did": "candidate_dev_query532_00027", "judge": "A", "label": 0, "reason": "Soundtrack release date, no Russian game release"}
+{"qid": "dev_query435", "did": "candidate_dev_query435_00051", "judge": "A", "label": 1, "reason": "Same-sex marriages fully recognized in Germany since October 2017"}
+{"qid": "dev_query359", "did": "candidate_dev_query359_00025", "judge": "A", "label": 0, "reason": "9th-century coin graffiti, not earliest graffiti"}
+{"qid": "dev_query552", "did": "candidate_dev_query552_00067", "judge": "A", "label": 0, "reason": "Vitaly Bezrukov played Yesenin, not Brigada role"}
+{"qid": "dev_query209", "did": "candidate_dev_query209_00088", "judge": "A", "label": 0, "reason": "Psoriatic arthritis in humans, nothing on animals"}
+{"qid": "dev_query64", "did": "candidate_dev_query64_00034", "judge": "A", "label": 0, "reason": "Tu-154 operation restrictions, no 2019 production info"}
+{"qid": "dev_query1098", "did": "candidate_dev_query1098_00016", "judge": "A", "label": 0, "reason": "About Grebenshchikov's optics school, not Dokuchaev"}
+{"qid": "dev_query472", "did": "candidate_dev_query472_00065", "judge": "A", "label": 0, "reason": "2014 OSCE mission decision, no Minsk II signing year"}
+{"qid": "dev_query81", "did": "candidate_dev_query81_00073", "judge": "A", "label": 0, "reason": "ISU-122 regiments, not SU-122 production start"}
+{"qid": "dev_query984", "did": "candidate_dev_query984_00021", "judge": "A", "label": 0, "reason": "Moscow planetarium 1929, not St Petersburg"}
+{"qid": "dev_query866", "did": "candidate_dev_query866_00020", "judge": "A", "label": 0, "reason": "Apelles' ancient Venus painting, not Botticelli location"}
+{"qid": "dev_query804", "did": "candidate_dev_query804_00083", "judge": "A", "label": 0, "reason": "Vertinskaya's son and divorce, sister not named"}
+{"qid": "dev_query804", "did": "candidate_dev_query804_00033", "judge": "A", "label": 0, "reason": "Marriage to Mikhalkov, sister not named"}
+{"qid": "dev_query155", "did": "candidate_dev_query155_00017", "judge": "A", "label": 0, "reason": "WWII battle outcome, location only vaguely hinted"}
+{"qid": "dev_query1205", "did": "candidate_dev_query1205_00092", "judge": "A", "label": 0, "reason": "Pontic war 48 BC, not Hundred Years' War"}
+{"qid": "dev_query226", "did": "candidate_dev_query226_00018", "judge": "A", "label": 0, "reason": "One drug's side effect profile, not class risk overall"}
+{"qid": "dev_query605", "did": "candidate_dev_query605_00000", "judge": "A", "label": 1, "reason": "Mentions King Reccared I and Visigothic kings' rule"}
+{"qid": "dev_query1189", "did": "candidate_dev_query1189_00069", "judge": "A", "label": 0, "reason": "Station design motifs; doesn't establish metro in city"}
+{"qid": "dev_query1232", "did": "candidate_dev_query1232_00026", "judge": "A", "label": 0, "reason": "Petersburg highway disambiguation, not metro name"}
+{"qid": "dev_query603", "did": "candidate_dev_query603_00044", "judge": "A", "label": 0, "reason": "Global 24 time zones, no Russia count"}
+{"qid": "dev_query75", "did": "candidate_dev_query75_00001", "judge": "A", "label": 0, "reason": "Lebanon civil wars durations, not Don"}
+{"qid": "dev_query73", "did": "candidate_dev_query73_00052", "judge": "A", "label": 0, "reason": "Diocletian's origin near Podgorica, no birth date"}
+{"qid": "dev_query882", "did": "candidate_dev_query882_00007", "judge": "A", "label": 0, "reason": "Mobile spin-off games, no doujin status info"}
+{"qid": "dev_query1089", "did": "candidate_dev_query1089_00089", "judge": "A", "label": 0, "reason": "Moscow metro payment, not first bank card"}
+{"qid": "dev_query624", "did": "candidate_dev_query624_00017", "judge": "A", "label": 0, "reason": "State capitals vs largest cities, not first US capital"}

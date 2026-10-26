@@ -1,0 +1,128 @@
+{"qid": "dev_query1230", "did": "candidate_dev_query1230_00033", "judge": "A", "label": 0, "reason": "About Dioscorus of Aphrodito, not Justinian"}
+{"qid": "dev_query190", "did": "candidate_dev_query190_00050", "judge": "A", "label": 0, "reason": "About John Rutherford stories, not John Rae"}
+{"qid": "dev_query1012", "did": "candidate_dev_query1012_00007", "judge": "A", "label": 0, "reason": "Only St. George order 1877, no Bulgarian hero status"}
+{"qid": "dev_query1135", "did": "candidate_dev_query1135_00095", "judge": "A", "label": 0, "reason": "Parthenion site distances, no strait length"}
+{"qid": "dev_query385", "did": "candidate_dev_query385_00072", "judge": "A", "label": 0, "reason": "Louis XV returning to Versailles, not who first"}
+{"qid": "dev_query738", "did": "candidate_dev_query738_00078", "judge": "A", "label": 0, "reason": "History of microbiology, nothing on Parkinson's"}
+{"qid": "dev_query371", "did": "candidate_dev_query371_00005", "judge": "A", "label": 0, "reason": "About Vasily Melnikov, Duma member, not Pavel"}
+{"qid": "dev_query73", "did": "candidate_dev_query73_00067", "judge": "A", "label": 0, "reason": "Coptic calendar, 284 is accession not birth"}
+{"qid": "dev_query73", "did": "candidate_dev_query73_00063", "judge": "A", "label": 0, "reason": "Pelagia of Tarsus life, no Diocletian birth date"}
+{"qid": "dev_query346", "did": "candidate_dev_query346_00064", "judge": "A", "label": 0, "reason": "Mansion's influence; Shekhtel named for Ryabushinsky house only"}
+{"qid": "dev_query387", "did": "candidate_dev_query387_00071", "judge": "A", "label": 1, "reason": "Mentions research on Civil War in Tajikistan"}
+{"qid": "dev_query530", "did": "candidate_dev_query530_00066", "judge": "A", "label": 0, "reason": "About Polykarp Kusch Nobel 1955, not Kapitsa"}
+{"qid": "dev_query919", "did": "candidate_dev_query919_00024", "judge": "A", "label": 1, "reason": "O'Driscoll kept captain's armband for Ireland"}
+{"qid": "dev_query1202", "did": "candidate_dev_query1202_00018", "judge": "A", "label": 0, "reason": "General teleportation definition, nothing about Zen world"}
+{"qid": "dev_query571", "did": "candidate_dev_query571_00052", "judge": "A", "label": 0, "reason": "Ports reception, original release year not given"}
+{"qid": "dev_query931", "did": "candidate_dev_query931_00035", "judge": "A", "label": 0, "reason": "Library history 1914-1917, no founding date"}
+{"qid": "dev_query1060", "did": "candidate_dev_query1060_00044", "judge": "A", "label": 0, "reason": "About ancient Klazomenai, not Almaty"}
+{"qid": "dev_query338", "did": "candidate_dev_query338_00047", "judge": "A", "label": 0, "reason": "MH370 terror check on two Iranians, no passenger count"}
+{"qid": "dev_query329", "did": "candidate_dev_query329_00009", "judge": "A", "label": 0, "reason": "About NeAngely producer Nikitin, not VIA Gra's founder"}
+{"qid": "dev_query298", "did": "candidate_dev_query298_00011", "judge": "A", "label": 0, "reason": "Only names Krasnodar as center, no city count"}
+{"qid": "dev_query558", "did": "candidate_dev_query558_00019", "judge": "A", "label": 0, "reason": "Working title hints six, number of heroes not stated"}
+{"qid": "dev_query501", "did": "candidate_dev_query501_00020", "judge": "A", "label": 0, "reason": "Meaning of word marechal, not Elysium"}
+{"qid": "dev_query641", "did": "candidate_dev_query641_00020", "judge": "A", "label": 0, "reason": "Salute for Yelnya, not stated as first"}
+{"qid": "dev_query1185", "did": "candidate_dev_query1185_00057", "judge": "A", "label": 0, "reason": "Gold in Khanty-Mansi okrug, not Mongolia"}
+{"qid": "dev_query901", "did": "candidate_dev_query901_00095", "judge": "A", "label": 0, "reason": "About gymnast Lyubov Cherkashina, not Dikgof"}
+{"qid": "dev_query1098", "did": "candidate_dev_query1098_00029", "judge": "A", "label": 0, "reason": "About orientalist Struve, not Dokuchaev"}
+{"qid": "dev_query820", "did": "candidate_dev_query820_00031", "judge": "A", "label": 0, "reason": "Lake in Makhachkala, no first capital"}
+{"qid": "dev_query813", "did": "candidate_dev_query813_00066", "judge": "A", "label": 0, "reason": "Setting of Rurouni Kenshin, not Future Diary"}
+{"qid": "dev_query114", "did": "candidate_dev_query114_00095", "judge": "A", "label": 0, "reason": "About chess player Epishin, not Medinsky"}
+{"qid": "dev_query989", "did": "candidate_dev_query989_00050", "judge": "A", "label": 0, "reason": "Small city Henderson, no largest Texas city"}
+{"qid": "dev_query270", "did": "candidate_dev_query270_00073", "judge": "A", "label": 0, "reason": "About Ukrainian police general Tsymbalyuk, not Kheraskov"}
+{"qid": "dev_query35", "did": "candidate_dev_query35_00068", "judge": "A", "label": 0, "reason": "Ukrainian famine and Postyshev, not Berlusconi"}
+{"qid": "dev_query335", "did": "candidate_dev_query335_00017", "judge": "A", "label": 0, "reason": "Mayakovsky's note mentions his sisters, not Lilya's sister"}
+{"qid": "dev_query59", "did": "candidate_dev_query59_00024", "judge": "A", "label": 0, "reason": "Pension law timeline, no retirement ages given"}
+{"qid": "dev_query46", "did": "candidate_dev_query46_00035", "judge": "A", "label": 0, "reason": "Darwin on Santa Cruz river, not US rivers"}
+{"qid": "dev_query713", "did": "candidate_dev_query713_00087", "judge": "A", "label": 0, "reason": "Second wave at 07:00, no operation start date"}
+{"qid": "dev_query147", "did": "candidate_dev_query147_00070", "judge": "A", "label": 0, "reason": "Maric's scientific role, mentions first son, no count"}
+{"qid": "dev_query675", "did": "candidate_dev_query675_00015", "judge": "A", "label": 0, "reason": "Soviet military feldsher service limits, not Israel"}
+{"qid": "dev_query1089", "did": "candidate_dev_query1089_00079", "judge": "A", "label": 0, "reason": "Yandex.Money card in 2012, not first bank card"}
+{"qid": "dev_query66", "did": "candidate_dev_query66_00058", "judge": "A", "label": 0, "reason": "Cossack weddings and divorce ban, no king"}
+{"qid": "dev_query293", "did": "candidate_dev_query293_00079", "judge": "A", "label": 0, "reason": "Song Azerbaijan by Tagiyev, not national anthem lyricist"}
+{"qid": "dev_query154", "did": "candidate_dev_query154_00060", "judge": "A", "label": 0, "reason": "Presidential duties forming government, no first president"}
+{"qid": "dev_query185", "did": "candidate_dev_query185_00035", "judge": "A", "label": 0, "reason": "Concrete in Parliament building 1839, not first use"}
+{"qid": "dev_query73", "did": "candidate_dev_query73_00000", "judge": "A", "label": 1, "reason": "Diocletian born around 245"}
+{"qid": "dev_query154", "did": "candidate_dev_query154_00001", "judge": "A", "label": 0, "reason": "German-Israeli relations, mentions Katsav, not first president"}
+{"qid": "dev_query1232", "did": "candidate_dev_query1232_00020", "judge": "A", "label": 0, "reason": "About planned Perm metro, not Petersburg"}
+{"qid": "dev_query1214", "did": "candidate_dev_query1214_00039", "judge": "A", "label": 0, "reason": "Kangxi's children, no Qing dynasty duration"}
+{"qid": "dev_query501", "did": "candidate_dev_query501_00010", "judge": "A", "label": 0, "reason": "Old English words for darkness, not Elysium"}
+{"qid": "dev_query652", "did": "candidate_dev_query652_00060", "judge": "A", "label": 0, "reason": "Rousseau's death 1778, no birth year"}
+{"qid": "dev_query986", "did": "candidate_dev_query986_00007", "judge": "A", "label": 0, "reason": "Yugoslav emigre newspapers, nothing on Solonevich"}
+{"qid": "dev_query917", "did": "candidate_dev_query917_00001", "judge": "A", "label": 0, "reason": "Khorinsk uprising 1930, not Izhevsk-Votkinsk"}
+{"qid": "dev_query1126", "did": "candidate_dev_query1126_00034", "judge": "A", "label": 0, "reason": "Igromania review, no Russian release date"}
+{"qid": "dev_query497", "did": "candidate_dev_query497_00044", "judge": "A", "label": 0, "reason": "Donner party members at departure, no survivor count"}
+{"qid": "dev_query387", "did": "candidate_dev_query387_00032", "judge": "A", "label": 1, "reason": "States civil war ongoing in the republic, Tajikistan"}
+{"qid": "dev_query1243", "did": "candidate_dev_query1243_00088", "judge": "A", "label": 0, "reason": "PC release 2007 in US/Europe/Russia, not Japan"}
+{"qid": "dev_query675", "did": "candidate_dev_query675_00014", "judge": "A", "label": 0, "reason": "Brazil conscription terms, not Israel"}
+{"qid": "dev_query1049", "did": "candidate_dev_query1049_00082", "judge": "A", "label": 0, "reason": "UK number-one albums list, no Led Zeppelin album count"}
+{"qid": "dev_query1222", "did": "candidate_dev_query1222_00001", "judge": "A", "label": 1, "reason": "Mongolia UN member since 1961"}
+{"qid": "dev_query659", "did": "candidate_dev_query659_00025", "judge": "A", "label": 0, "reason": "Intro to CERN discoveries, no staff count"}
+{"qid": "dev_query147", "did": "candidate_dev_query147_00005", "judge": "A", "label": 0, "reason": "Einstein-Maric separation, children not counted"}
+{"qid": "dev_query746", "did": "candidate_dev_query746_00017", "judge": "A", "label": 0, "reason": "Morals of Caspian raskolniki, no definition of term"}
+{"qid": "dev_query312", "did": "candidate_dev_query312_00012", "judge": "A", "label": 0, "reason": "Influences on Kalmyk language, not endangerment"}
+{"qid": "dev_query68", "did": "candidate_dev_query68_00005", "judge": "A", "label": 0, "reason": "Hall of Monuments feature, no game world setting"}
+{"qid": "dev_query967", "did": "candidate_dev_query967_00012", "judge": "A", "label": 0, "reason": "Names three largest border bases, not total count"}
+{"qid": "dev_query1233", "did": "candidate_dev_query1233_00067", "judge": "A", "label": 0, "reason": "Titov filming Earth from space, not flash lighting"}
+{"qid": "dev_query1005", "did": "candidate_dev_query1005_00061", "judge": "A", "label": 0, "reason": "Camel diet and water survival, no lifespan"}
+{"qid": "dev_query467", "did": "candidate_dev_query467_00034", "judge": "A", "label": 0, "reason": "Gaza casualty figures, no cause of operation"}
+{"qid": "dev_query39", "did": "candidate_dev_query39_00018", "judge": "A", "label": 0, "reason": "Single Ekateringof bridge, no total drawbridge count"}
+{"qid": "dev_query1159", "did": "candidate_dev_query1159_00001", "judge": "A", "label": 0, "reason": "Humps for saddling and loading, not contents"}
+{"qid": "dev_query361", "did": "candidate_dev_query361_00024", "judge": "A", "label": 1, "reason": "Border runs through Caspian Sea waters"}
+{"qid": "dev_query830", "did": "candidate_dev_query830_00002", "judge": "A", "label": 1, "reason": "Zener diode holds voltage stable in breakdown: stabilizer"}
+{"qid": "dev_query226", "did": "candidate_dev_query226_00006", "judge": "A", "label": 0, "reason": "Only EPS risk lower vs typical, not overall side effects"}
+{"qid": "dev_query985", "did": "candidate_dev_query985_00051", "judge": "A", "label": 0, "reason": "DPRK state founded 1948, not army formation"}
+{"qid": "dev_query1160", "did": "candidate_dev_query1160_00014", "judge": "A", "label": 0, "reason": "Peter I's regular army, no streltsy founding tsar"}
+{"qid": "dev_query677", "did": "candidate_dev_query677_00006", "judge": "A", "label": 0, "reason": "Adlgasser's death, Mozart succeeded him; no Mozart death date"}
+{"qid": "dev_query983", "did": "candidate_dev_query983_00050", "judge": "A", "label": 0, "reason": "Romanian surname Diaconu stub, not Dyakonov"}
+{"qid": "dev_query144", "did": "candidate_dev_query144_00008", "judge": "A", "label": 0, "reason": "About Saint-Martin born 1743, not Peiresc"}
+{"qid": "dev_query648", "did": "candidate_dev_query648_00048", "judge": "A", "label": 1, "reason": "Third and final partition in 1795"}
+{"qid": "dev_query697", "did": "candidate_dev_query697_00012", "judge": "A", "label": 0, "reason": "Son's stub naming father, no birthplace"}
+{"qid": "dev_query66", "did": "candidate_dev_query66_00023", "judge": "A", "label": 0, "reason": "Catholic Monarchs expelling Moors and Jews, no divorce"}
+{"qid": "dev_query1098", "did": "candidate_dev_query1098_00015", "judge": "A", "label": 0, "reason": "About reinforced concrete scientist Mikhailov, not Dokuchaev"}
+{"qid": "dev_query923", "did": "candidate_dev_query923_00009", "judge": "A", "label": 0, "reason": "Actor Spencer Breslin born 1992, not Edmund Spenser"}
+{"qid": "dev_query894", "did": "candidate_dev_query894_00070", "judge": "A", "label": 0, "reason": "Dino Charge extra rangers, no main hero count"}
+{"qid": "dev_query532", "did": "candidate_dev_query532_00062", "judge": "A", "label": 0, "reason": "Beta trailer leak May 2011, no Russian release"}
+{"qid": "dev_query1187", "did": "candidate_dev_query1187_00085", "judge": "A", "label": 0, "reason": "1916 Cossack refusal episode, not pre-war premises"}
+{"qid": "dev_query127", "did": "candidate_dev_query127_00009", "judge": "A", "label": 0, "reason": "Fram's ice handling per Nansen, no designer"}
+{"qid": "dev_query127", "did": "candidate_dev_query127_00028", "judge": "A", "label": 0, "reason": "Paraguayan town Fram, no ship designer"}
+{"qid": "dev_query677", "did": "candidate_dev_query677_00015", "judge": "A", "label": 0, "reason": "Mozart died before Hofmann, no date given"}
+{"qid": "dev_query1126", "did": "candidate_dev_query1126_00043", "judge": "A", "label": 0, "reason": "Digital Extremes PS3 port, no Russian release"}
+{"qid": "dev_query599", "did": "candidate_dev_query599_00001", "judge": "A", "label": 1, "reason": "Largest airport is Khabarovsk-Novy"}
+{"qid": "dev_query390", "did": "candidate_dev_query390_00001", "judge": "A", "label": 1, "reason": "Armistice 27 July 1953 ended the war"}
+{"qid": "dev_query157", "did": "candidate_dev_query157_00019", "judge": "A", "label": 0, "reason": "Western European medieval prostitution, not Byzantium"}
+{"qid": "dev_query480", "did": "candidate_dev_query480_00019", "judge": "A", "label": 0, "reason": "Royal physician and syphilis, nothing on schizophrenia"}
+{"qid": "dev_query591", "did": "candidate_dev_query591_00087", "judge": "A", "label": 0, "reason": "Company magazine, no founders"}
+{"qid": "dev_query452", "did": "candidate_dev_query452_00046", "judge": "A", "label": 0, "reason": "Union's consequences, no signing date"}
+{"qid": "dev_query910", "did": "candidate_dev_query910_00053", "judge": "A", "label": 0, "reason": "Nomadic empires history, no dwelling materials"}
+{"qid": "dev_query652", "did": "candidate_dev_query652_00054", "judge": "A", "label": 0, "reason": "About Jeannie Rousseau born 1919, not Jean-Jacques"}
+{"qid": "dev_query932", "did": "candidate_dev_query932_00031", "judge": "A", "label": 0, "reason": "Unattributed travel quote, no first describer"}
+{"qid": "dev_query571", "did": "candidate_dev_query571_00072", "judge": "A", "label": 0, "reason": "About Sonic Runners Adventure, not SA2"}
+{"qid": "dev_query449", "did": "candidate_dev_query449_00098", "judge": "A", "label": 1, "reason": "Suvorov owned several thousand serfs"}
+{"qid": "dev_query475", "did": "candidate_dev_query475_00053", "judge": "A", "label": 0, "reason": "2017 was 22nd season, founding year not stated"}
+{"qid": "dev_query810", "did": "candidate_dev_query810_00039", "judge": "A", "label": 1, "reason": "France won 2018 final vs Croatia"}
+{"qid": "dev_query605", "did": "candidate_dev_query605_00028", "judge": "A", "label": 1, "reason": "Describes Visigothic royal power and kings"}
+{"qid": "dev_query39", "did": "candidate_dev_query39_00006", "judge": "A", "label": 0, "reason": "Tuchkov bridge only, no drawbridge count"}
+{"qid": "dev_query276", "did": "candidate_dev_query276_00015", "judge": "A", "label": 0, "reason": "MS-13 murders and bus attack, no human trafficking"}
+{"qid": "dev_query636", "did": "candidate_dev_query636_00078", "judge": "A", "label": 0, "reason": "Zhukov's later career, command at battle not stated"}
+{"qid": "dev_query449", "did": "candidate_dev_query449_00061", "judge": "A", "label": 0, "reason": "Serfdom under Catherine II, nothing on Suvorov"}
+{"qid": "dev_query66", "did": "candidate_dev_query66_00062", "judge": "A", "label": 0, "reason": "Kamehameha II abolished old religion, no divorce"}
+{"qid": "dev_query493", "did": "candidate_dev_query493_00085", "judge": "A", "label": 0, "reason": "French Restoration 1815, not Victorian era wars"}
+{"qid": "dev_query649", "did": "candidate_dev_query649_00084", "judge": "A", "label": 0, "reason": "Village Popovka founded 1928, not Moscow"}
+{"qid": "dev_query216", "did": "candidate_dev_query216_00026", "judge": "A", "label": 0, "reason": "Medieval crossbow spanning types, no origin country"}
+{"qid": "dev_query385", "did": "candidate_dev_query385_00003", "judge": "A", "label": 0, "reason": "Versailles Louis XIV's residence, not stated first"}
+{"qid": "dev_query47", "did": "candidate_dev_query47_00003", "judge": "A", "label": 0, "reason": "Minsk district mentions Khrushchev houses, no definition"}
+{"qid": "dev_query329", "did": "candidate_dev_query329_00063", "judge": "A", "label": 0, "reason": "2003 success, Meladze as songwriter, no founding producer"}
+{"qid": "dev_query352", "did": "candidate_dev_query352_00020", "judge": "A", "label": 0, "reason": "Koenig's B5 role unnamed, no Russian-origin character"}
+{"qid": "dev_query127", "did": "candidate_dev_query127_00098", "judge": "A", "label": 0, "reason": "Fram's later preservation, no designer"}
+{"qid": "dev_query675", "did": "candidate_dev_query675_00047", "judge": "A", "label": 0, "reason": "Azerbaijan service 18 months, not Israel"}
+{"qid": "dev_query894", "did": "candidate_dev_query894_00020", "judge": "A", "label": 0, "reason": "In Space season premiere info, no hero count"}
+{"qid": "dev_query749", "did": "candidate_dev_query749_00036", "judge": "A", "label": 0, "reason": "Zimenki village distance, not Novomoskovsk"}
+{"qid": "dev_query364", "did": "candidate_dev_query364_00061", "judge": "A", "label": 0, "reason": "Anti-vivisection society history, no Emmylou Harris"}
+{"qid": "dev_query870", "did": "candidate_dev_query870_00066", "judge": "A", "label": 0, "reason": "Formation of Muna island, not Rapa Iti"}
+{"qid": "dev_query1215", "did": "candidate_dev_query1215_00095", "judge": "A", "label": 1, "reason": "Meidum pyramid of stones, cased in Tura limestone"}
+{"qid": "dev_query873", "did": "candidate_dev_query873_00099", "judge": "A", "label": 0, "reason": "Shelegs song dedicated to film heroes, no Vysotsky"}
+{"qid": "dev_query927", "did": "candidate_dev_query927_00029", "judge": "A", "label": 0, "reason": "Fininvest civil suit, no years as premier"}
+{"qid": "dev_query329", "did": "candidate_dev_query329_00014", "judge": "A", "label": 0, "reason": "Meladze producer as of 2013, not at creation"}
+{"qid": "dev_query1104", "did": "candidate_dev_query1104_00087", "judge": "A", "label": 0, "reason": "Toyota only listed as Schwartz's client"}
+{"qid": "dev_query131", "did": "candidate_dev_query131_00000", "judge": "A", "label": 0, "reason": "Galileo's phrase, not who first proposed heliocentrism"}
+{"qid": "dev_query804", "did": "candidate_dev_query804_00014", "judge": "A", "label": 1, "reason": "Names sister Marianna"}

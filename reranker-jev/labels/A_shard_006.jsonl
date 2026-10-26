@@ -1,0 +1,128 @@
+{"qid": "dev_query1223", "did": "candidate_dev_query1223_00057", "judge": "A", "label": 0, "reason": "Passage about Pamuk's novel, different book"}
+{"qid": "dev_query99", "did": "candidate_dev_query99_00051", "judge": "A", "label": 0, "reason": "No bread ration figures given"}
+{"qid": "dev_query605", "did": "candidate_dev_query605_00016", "judge": "A", "label": 1, "reason": "Alaric was first king of the Visigoths"}
+{"qid": "dev_query923", "did": "candidate_dev_query923_00018", "judge": "A", "label": 0, "reason": "About Edmund Tudor, not Spenser"}
+{"qid": "dev_query648", "did": "candidate_dev_query648_00066", "judge": "A", "label": 0, "reason": "Augustus's marriage, not Commonwealth dissolution"}
+{"qid": "dev_query989", "did": "candidate_dev_query989_00015", "judge": "A", "label": 0, "reason": "About Shreveport, Louisiana"}
+{"qid": "dev_query1223", "did": "candidate_dev_query1223_00083", "judge": "A", "label": 0, "reason": "Different novel by Assia Djebar"}
+{"qid": "dev_query709", "did": "candidate_dev_query709_00057", "judge": "A", "label": 0, "reason": "No release date of first Final Fantasy"}
+{"qid": "dev_query947", "did": "candidate_dev_query947_00043", "judge": "A", "label": 0, "reason": "Only WWII occupation, no founding date"}
+{"qid": "dev_query889", "did": "candidate_dev_query889_00038", "judge": "A", "label": 1, "reason": "Caesarion, son of Cleopatra by Caesar"}
+{"qid": "dev_query500", "did": "candidate_dev_query500_00004", "judge": "A", "label": 0, "reason": "Unrelated Duma faction"}
+{"qid": "dev_query631", "did": "candidate_dev_query631_00002", "judge": "A", "label": 1, "reason": "Located in Central Ukraine on the Dnieper"}
+{"qid": "dev_query841", "did": "candidate_dev_query841_00006", "judge": "A", "label": 0, "reason": "Film, protagonist not named"}
+{"qid": "dev_query648", "did": "candidate_dev_query648_00060", "judge": "A", "label": 0, "reason": "Thirty Years War, no dissolution year"}
+{"qid": "dev_query426", "did": "candidate_dev_query426_00030", "judge": "A", "label": 1, "reason": "Admitted to USSR 3-6 August 1940"}
+{"qid": "dev_query1188", "did": "candidate_dev_query1188_00073", "judge": "A", "label": 0, "reason": "About 30th century, not Olympics"}
+{"qid": "dev_query475", "did": "candidate_dev_query475_00012", "judge": "A", "label": 0, "reason": "Only 1996 revival, not founding year"}
+{"qid": "dev_query103", "did": "candidate_dev_query103_00048", "judge": "A", "label": 0, "reason": "Sociology faculty, not management"}
+{"qid": "dev_query346", "did": "candidate_dev_query346_00050", "judge": "A", "label": 0, "reason": "Shekhtel mansion, not List mansion"}
+{"qid": "dev_query90", "did": "candidate_dev_query90_00004", "judge": "A", "label": 1, "reason": "States protests had anti-Putin direction"}
+{"qid": "dev_query426", "did": "candidate_dev_query426_00052", "judge": "A", "label": 1, "reason": "Admitted to USSR 5 August 1940"}
+{"qid": "dev_query1176", "did": "candidate_dev_query1176_00068", "judge": "A", "label": 0, "reason": "Role mentioned, not stated as main star"}
+{"qid": "dev_query588", "did": "candidate_dev_query588_00061", "judge": "A", "label": 0, "reason": "Different museum in Andalusia"}
+{"qid": "dev_query1219", "did": "candidate_dev_query1219_00012", "judge": "A", "label": 0, "reason": "Street name origin, not Peterhof"}
+{"qid": "dev_query675", "did": "candidate_dev_query675_00009", "judge": "A", "label": 1, "reason": "Three-year mandatory service stated"}
+{"qid": "dev_query389", "did": "candidate_dev_query389_00063", "judge": "A", "label": 0, "reason": "About another character's build"}
+{"qid": "dev_query1218", "did": "candidate_dev_query1218_00087", "judge": "A", "label": 0, "reason": "No definition of supernova"}
+{"qid": "dev_query596", "did": "candidate_dev_query596_00044", "judge": "A", "label": 0, "reason": "Does not address France"}
+{"qid": "dev_query1034", "did": "candidate_dev_query1034_00046", "judge": "A", "label": 0, "reason": "No founding date of Rome"}
+{"qid": "dev_query562", "did": "candidate_dev_query562_00097", "judge": "A", "label": 0, "reason": "About New Zealand monarchy"}
+{"qid": "dev_query512", "did": "candidate_dev_query512_00071", "judge": "A", "label": 1, "reason": "Kingdom of Scotland existed from 854"}
+{"qid": "dev_query1176", "did": "candidate_dev_query1176_00054", "judge": "A", "label": 0, "reason": "Supporting actor, not lead"}
+{"qid": "dev_query614", "did": "candidate_dev_query614_00059", "judge": "A", "label": 0, "reason": "Unclear actor, not stated as lead"}
+{"qid": "dev_query720", "did": "candidate_dev_query720_00001", "judge": "A", "label": 0, "reason": "Census notes, no extent"}
+{"qid": "dev_query426", "did": "candidate_dev_query426_00085", "judge": "A", "label": 1, "reason": "Included in USSR in 1940"}
+{"qid": "dev_query892", "did": "candidate_dev_query892_00023", "judge": "A", "label": 1, "reason": "Began after Ottoman collapse, escalated 1948"}
+{"qid": "dev_query142", "did": "candidate_dev_query142_00009", "judge": "A", "label": 1, "reason": "Kiy, Shchek, Khoriv founded Kiev"}
+{"qid": "dev_query967", "did": "candidate_dev_query967_00004", "judge": "A", "label": 0, "reason": "Only one of three largest, no total"}
+{"qid": "dev_query499", "did": "candidate_dev_query499_00021", "judge": "A", "label": 0, "reason": "Nazi camps, not Columbine"}
+{"qid": "dev_query1156", "did": "candidate_dev_query1156_00001", "judge": "A", "label": 0, "reason": "No reign length given"}
+{"qid": "dev_query276", "did": "candidate_dev_query276_00000", "judge": "A", "label": 1, "reason": "States MS-13 engages in human trafficking"}
+{"qid": "dev_query270", "did": "candidate_dev_query270_00085", "judge": "A", "label": 0, "reason": "Different person, Lukin"}
+{"qid": "dev_query558", "did": "candidate_dev_query558_00016", "judge": "A", "label": 0, "reason": "No count of main characters"}
+{"qid": "dev_query896", "did": "candidate_dev_query896_00003", "judge": "A", "label": 0, "reason": "Hawaii, not Micronesia"}
+{"qid": "dev_query927", "did": "candidate_dev_query927_00084", "judge": "A", "label": 0, "reason": "About Barbara Berlusconi"}
+{"qid": "dev_query557", "did": "candidate_dev_query557_00020", "judge": "A", "label": 0, "reason": "Soviet accident, not imperial family"}
+{"qid": "dev_query870", "did": "candidate_dev_query870_00070", "judge": "A", "label": 0, "reason": "About Corsica"}
+{"qid": "dev_query890", "did": "candidate_dev_query890_00018", "judge": "A", "label": 0, "reason": "No filming duration"}
+{"qid": "dev_query889", "did": "candidate_dev_query889_00029", "judge": "A", "label": 1, "reason": "Son named Caesarion"}
+{"qid": "dev_query598", "did": "candidate_dev_query598_00070", "judge": "A", "label": 0, "reason": "No release date"}
+{"qid": "dev_query122", "did": "candidate_dev_query122_00065", "judge": "A", "label": 0, "reason": "Only 1684 petition, no founding stated"}
+{"qid": "dev_query99", "did": "candidate_dev_query99_00026", "judge": "A", "label": 1, "reason": "Rations 600/400/300 g at start"}
+{"qid": "dev_query512", "did": "candidate_dev_query512_00029", "judge": "A", "label": 0, "reason": "Party founding, not Scotland"}
+{"qid": "dev_query480", "did": "candidate_dev_query480_00083", "judge": "A", "label": 1, "reason": "Full recovery possible in some cases"}
+{"qid": "dev_query1242", "did": "candidate_dev_query1242_00007", "judge": "A", "label": 0, "reason": "No budget"}
+{"qid": "dev_query758", "did": "candidate_dev_query758_00005", "judge": "A", "label": 1, "reason": "Kremlin has 13 towers"}
+{"qid": "dev_query352", "did": "candidate_dev_query352_00083", "judge": "A", "label": 0, "reason": "No Russian-origin character"}
+{"qid": "dev_query1215", "did": "candidate_dev_query1215_00090", "judge": "A", "label": 1, "reason": "Mud brick, limestone, granite"}
+{"qid": "dev_query962", "did": "candidate_dev_query962_00070", "judge": "A", "label": 1, "reason": "Canada won gold in 2014"}
+{"qid": "dev_query953", "did": "candidate_dev_query953_00003", "judge": "A", "label": 0, "reason": "Crusader kingdom, not city founding"}
+{"qid": "dev_query983", "did": "candidate_dev_query983_00045", "judge": "A", "label": 0, "reason": "Different Igor"}
+{"qid": "dev_query350", "did": "candidate_dev_query350_00025", "judge": "A", "label": 0, "reason": "No tenure length"}
+{"qid": "dev_query124", "did": "candidate_dev_query124_00019", "judge": "A", "label": 1, "reason": "Describes current expansion of Universe"}
+{"qid": "dev_query940", "did": "candidate_dev_query940_00069", "judge": "A", "label": 0, "reason": "About von der Leyen"}
+{"qid": "dev_query787", "did": "candidate_dev_query787_00089", "judge": "A", "label": 1, "reason": "Found at Amarna excavations by Borchardt"}
+{"qid": "dev_query921", "did": "candidate_dev_query921_00017", "judge": "A", "label": 0, "reason": "About CZ 52, not M3"}
+{"qid": "dev_query493", "did": "candidate_dev_query493_00036", "judge": "A", "label": 0, "reason": "Napoleonic reenactment, not Victorian era"}
+{"qid": "dev_query1233", "did": "candidate_dev_query1233_00069", "judge": "A", "label": 0, "reason": "Nikon flash mount, no first use"}
+{"qid": "dev_query388", "did": "candidate_dev_query388_00068", "judge": "A", "label": 0, "reason": "No storage location"}
+{"qid": "dev_query1202", "did": "candidate_dev_query1202_00019", "judge": "A", "label": 0, "reason": "Mod plot, does not settle Xen teleportation"}
+{"qid": "dev_query467", "did": "candidate_dev_query467_00095", "judge": "A", "label": 0, "reason": "Decision date only, no reason"}
+{"qid": "dev_query1175", "did": "candidate_dev_query1175_00007", "judge": "A", "label": 0, "reason": "About Bulgaria, not Norway"}
+{"qid": "dev_query838", "did": "candidate_dev_query838_00002", "judge": "A", "label": 0, "reason": "No number of languages"}
+{"qid": "dev_query262", "did": "candidate_dev_query262_00017", "judge": "A", "label": 0, "reason": "No end of Entente"}
+{"qid": "dev_query35", "did": "candidate_dev_query35_00032", "judge": "A", "label": 0, "reason": "Different Silvio"}
+{"qid": "dev_query298", "did": "candidate_dev_query298_00006", "judge": "A", "label": 0, "reason": "No city count"}
+{"qid": "dev_query335", "did": "candidate_dev_query335_00039", "judge": "A", "label": 1, "reason": "Younger sister Elsa"}
+{"qid": "dev_query106", "did": "candidate_dev_query106_00074", "judge": "A", "label": 1, "reason": "USSR launched Sputnik-1"}
+{"qid": "dev_query649", "did": "candidate_dev_query649_00099", "judge": "A", "label": 0, "reason": "Tyumen founding, not Moscow"}
+{"qid": "dev_query901", "did": "candidate_dev_query901_00040", "judge": "A", "label": 0, "reason": "Different Lyubov"}
+{"qid": "dev_query805", "did": "candidate_dev_query805_00002", "judge": "A", "label": 1, "reason": "Defines spray art as aerosol graffiti"}
+{"qid": "dev_query389", "did": "candidate_dev_query389_00014", "judge": "A", "label": 1, "reason": "Height of a small cucumber"}
+{"qid": "dev_query226", "did": "candidate_dev_query226_00027", "judge": "A", "label": 0, "reason": "Lists side effects, risk level unsettled"}
+{"qid": "dev_query493", "did": "candidate_dev_query493_00066", "judge": "A", "label": 0, "reason": "Ukraine 1930s"}
+{"qid": "dev_query800", "did": "candidate_dev_query800_00022", "judge": "A", "label": 0, "reason": "About Burtin, not Nemtsov"}
+{"qid": "dev_query478", "did": "candidate_dev_query478_00056", "judge": "A", "label": 0, "reason": "Sanders as symbol, not stated founder"}
+{"qid": "dev_query9", "did": "candidate_dev_query9_00031", "judge": "A", "label": 0, "reason": "Babylonian revolt, not Miankal"}
+{"qid": "dev_query338", "did": "candidate_dev_query338_00054", "judge": "A", "label": 0, "reason": "Seat configuration, not passenger count"}
+{"qid": "dev_query1202", "did": "candidate_dev_query1202_00002", "judge": "A", "label": 1, "reason": "Teleportation passes through Xen"}
+{"qid": "dev_query335", "did": "candidate_dev_query335_00038", "judge": "A", "label": 0, "reason": "No sister named"}
+{"qid": "dev_query588", "did": "candidate_dev_query588_00063", "judge": "A", "label": 0, "reason": "Escher museum"}
+{"qid": "dev_query901", "did": "candidate_dev_query901_00049", "judge": "A", "label": 0, "reason": "Different person"}
+{"qid": "dev_query906", "did": "candidate_dev_query906_00000", "judge": "A", "label": 1, "reason": "Last Saturday of August"}
+{"qid": "dev_query738", "did": "candidate_dev_query738_00044", "judge": "A", "label": 0, "reason": "Moyamoya, not Parkinson's"}
+{"qid": "dev_query870", "did": "candidate_dev_query870_00000", "judge": "A", "label": 1, "reason": "Formed by volcanic eruption"}
+{"qid": "dev_query1214", "did": "candidate_dev_query1214_00001", "judge": "A", "label": 0, "reason": "Qin dynasty, not Qing"}
+{"qid": "dev_query497", "did": "candidate_dev_query497_00059", "judge": "A", "label": 0, "reason": "Plane crash, not Donner Party"}
+{"qid": "dev_query1009", "did": "candidate_dev_query1009_00024", "judge": "A", "label": 1, "reason": "Active around 1898, late 19th-early 20th century"}
+{"qid": "dev_query947", "did": "candidate_dev_query947_00051", "judge": "A", "label": 0, "reason": "No founding date"}
+{"qid": "dev_query659", "did": "candidate_dev_query659_00019", "judge": "A", "label": 0, "reason": "No staff count"}
+{"qid": "dev_query841", "did": "candidate_dev_query841_00032", "judge": "A", "label": 0, "reason": "Exolon game, not Halo"}
+{"qid": "dev_query449", "did": "candidate_dev_query449_00060", "judge": "A", "label": 0, "reason": "Different landowner"}
+{"qid": "dev_query906", "did": "candidate_dev_query906_00044", "judge": "A", "label": 0, "reason": "Moscow city day"}
+{"qid": "dev_query1016", "did": "candidate_dev_query1016_00062", "judge": "A", "label": 0, "reason": "Wenden stamp, not Mexico"}
+{"qid": "dev_query658", "did": "candidate_dev_query658_00074", "judge": "A", "label": 0, "reason": "Different Adolf"}
+{"qid": "dev_query1220", "did": "candidate_dev_query1220_00068", "judge": "A", "label": 0, "reason": "No teacher named"}
+{"qid": "dev_query124", "did": "candidate_dev_query124_00095", "judge": "A", "label": 1, "reason": "Accelerating expansion ongoing"}
+{"qid": "dev_query60", "did": "candidate_dev_query60_00028", "judge": "A", "label": 0, "reason": "Chinese ornament, not kilt"}
+{"qid": "dev_query1222", "did": "candidate_dev_query1222_00017", "judge": "A", "label": 0, "reason": "Bhutan, not Mongolia"}
+{"qid": "dev_query127", "did": "candidate_dev_query127_00044", "judge": "A", "label": 0, "reason": "No designer named"}
+{"qid": "dev_query830", "did": "candidate_dev_query830_00007", "judge": "A", "label": 0, "reason": "Rectifier diode, not Zener"}
+{"qid": "dev_query157", "did": "candidate_dev_query157_00075", "judge": "A", "label": 0, "reason": "Phoenicia, not Byzantium"}
+{"qid": "dev_query127", "did": "candidate_dev_query127_00022", "judge": "A", "label": 1, "reason": "Colin Archer designed Fram"}
+{"qid": "dev_query635", "did": "candidate_dev_query635_00079", "judge": "A", "label": 0, "reason": "No birth year"}
+{"qid": "dev_query426", "did": "candidate_dev_query426_00044", "judge": "A", "label": 1, "reason": "Admitted 3-6 August 1940"}
+{"qid": "dev_query744", "did": "candidate_dev_query744_00047", "judge": "A", "label": 1, "reason": "Russia supplied weapons to Syria"}
+{"qid": "dev_query932", "did": "candidate_dev_query932_00008", "judge": "A", "label": 0, "reason": "Description, not who first described"}
+{"qid": "dev_query642", "did": "candidate_dev_query642_00007", "judge": "A", "label": 1, "reason": "Part of France since 1860"}
+{"qid": "dev_query329", "did": "candidate_dev_query329_00075", "judge": "A", "label": 0, "reason": "2010 events, not founding producer"}
+{"qid": "dev_query942", "did": "candidate_dev_query942_00071", "judge": "A", "label": 0, "reason": "Does not state it was first novel"}
+{"qid": "dev_query916", "did": "candidate_dev_query916_00016", "judge": "A", "label": 1, "reason": "Republican ideals, condemning tyranny"}
+{"qid": "dev_query181", "did": "candidate_dev_query181_00014", "judge": "A", "label": 0, "reason": "Generic action hero definition"}
+{"qid": "dev_query829", "did": "candidate_dev_query829_00051", "judge": "A", "label": 0, "reason": "Gas pipeline, not Master Building"}
+{"qid": "dev_query731", "did": "candidate_dev_query731_00001", "judge": "A", "label": 0, "reason": "Death date only"}
+{"qid": "dev_query571", "did": "candidate_dev_query571_00031", "judge": "A", "label": 0, "reason": "Sonic Advance, not Adventure 2"}
+{"qid": "dev_query233", "did": "candidate_dev_query233_00031", "judge": "A", "label": 0, "reason": "Does not settle socialist status"}
+{"qid": "dev_query1232", "did": "candidate_dev_query1232_00052", "judge": "A", "label": 0, "reason": "Boulevard name, not metro"}
+{"qid": "dev_query712", "did": "candidate_dev_query712_00055", "judge": "A", "label": 0, "reason": "Bjarmian god, not Viking supreme god"}

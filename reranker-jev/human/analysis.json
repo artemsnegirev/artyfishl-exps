@@ -1,0 +1,216 @@
+{
+ "labelled": 50,
+ "unsure": 2,
+ "sides": {
+  "all": {
+   "pairs": 100,
+   "human_labelled": 48,
+   "unsure": 2,
+   "human_relevant_share": 0.104,
+   "llm_relevant_share": 0.104,
+   "agree_human_llm": 0.958,
+   "kappa_human_llm": 0.777,
+   "confusion_human_x_llm": {
+    "h0_llm0": 42,
+    "h0_llm1": 1,
+    "h1_llm0": 1,
+    "h1_llm1": 4
+   },
+   "miracl_labelled": 11,
+   "judge_seen": 37,
+   "agree_human_judge": 35,
+   "kappa_human_judge": 0.769,
+   "agree_human_miracl": 1.0,
+   "kappa_human_miracl": 1.0,
+   "confusion_human_x_miracl": {
+    "h0_miracl0": 11,
+    "h0_miracl1": 0,
+    "h1_miracl0": 0,
+    "h1_miracl1": 0
+   }
+  },
+  "jev_up": {
+   "pairs": 50,
+   "human_labelled": 24,
+   "unsure": 1,
+   "human_relevant_share": 0.208,
+   "llm_relevant_share": 0.208,
+   "agree_human_llm": 0.917,
+   "kappa_human_llm": 0.747,
+   "confusion_human_x_llm": {
+    "h0_llm0": 18,
+    "h0_llm1": 1,
+    "h1_llm0": 1,
+    "h1_llm1": 4
+   },
+   "miracl_labelled": 3,
+   "judge_seen": 21,
+   "agree_human_judge": 19,
+   "kappa_human_judge": 0.738,
+   "agree_human_miracl": 1.0,
+   "kappa_human_miracl": 1.0,
+   "confusion_human_x_miracl": {
+    "h0_miracl0": 3,
+    "h0_miracl1": 0,
+    "h1_miracl0": 0,
+    "h1_miracl1": 0
+   }
+  },
+  "bge_up": {
+   "pairs": 50,
+   "human_labelled": 24,
+   "unsure": 1,
+   "human_relevant_share": 0.0,
+   "llm_relevant_share": 0.0,
+   "agree_human_llm": 1.0,
+   "kappa_human_llm": 1.0,
+   "confusion_human_x_llm": {
+    "h0_llm0": 24,
+    "h0_llm1": 0,
+    "h1_llm0": 0,
+    "h1_llm1": 0
+   },
+   "miracl_labelled": 8,
+   "judge_seen": 16,
+   "agree_human_judge": 16,
+   "agree_human_miracl": 1.0,
+   "kappa_human_miracl": 1.0,
+   "confusion_human_x_miracl": {
+    "h0_miracl0": 8,
+    "h0_miracl1": 0,
+    "h1_miracl0": 0,
+    "h1_miracl1": 0
+   }
+  }
+ },
+ "ndcg10": {
+  "all_300": {
+   "queries": 300,
+   "models": {
+    "jev-pw": {
+     "original": 80.51,
+     "relabelled": 91.34,
+     "human": 91.34
+    },
+    "jev-list": {
+     "original": 82.09,
+     "relabelled": 87.56,
+     "human": 87.51
+    },
+    "fd": {
+     "original": 85.67,
+     "relabelled": 81.6,
+     "human": 81.58
+    },
+    "bge": {
+     "original": 87.42,
+     "relabelled": 79.04,
+     "human": 79.03
+    },
+    "qwen3-0.6b": {
+     "original": 82.05,
+     "relabelled": 75.2,
+     "human": 75.18
+    },
+    "kalm-nano-r2": {
+     "original": 86.55,
+     "relabelled": 78.78,
+     "human": 78.77
+    }
+   },
+   "jev-pw_minus_bge_original": {
+    "diff": -6.91,
+    "p": 0.0
+   },
+   "jev-pw_minus_bge_relabelled": {
+    "diff": 12.3,
+    "p": 0.0
+   },
+   "jev-pw_minus_bge_human": {
+    "diff": 12.31,
+    "p": 0.0
+   },
+   "gain_vs_bge_from_relabelling": 19.21,
+   "gain_vs_bge_with_human_overrides": 19.22,
+   "gain_surviving_share": 1.001
+  },
+  "sampled_queries": {
+   "queries": 91,
+   "models": {
+    "jev-pw": {
+     "original": 83.58,
+     "relabelled": 91.12,
+     "human": 91.11
+    },
+    "jev-list": {
+     "original": 82.39,
+     "relabelled": 87.12,
+     "human": 86.97
+    },
+    "fd": {
+     "original": 85.65,
+     "relabelled": 80.73,
+     "human": 80.67
+    },
+    "bge": {
+     "original": 86.88,
+     "relabelled": 78.22,
+     "human": 78.17
+    },
+    "qwen3-0.6b": {
+     "original": 80.78,
+     "relabelled": 74.79,
+     "human": 74.72
+    },
+    "kalm-nano-r2": {
+     "original": 87.35,
+     "relabelled": 76.81,
+     "human": 76.76
+    }
+   },
+   "jev-pw_minus_bge_original": {
+    "diff": -3.3,
+    "p": 0.1526
+   },
+   "jev-pw_minus_bge_relabelled": {
+    "diff": 12.9,
+    "p": 0.0
+   },
+   "jev-pw_minus_bge_human": {
+    "diff": 12.94,
+    "p": 0.0
+   },
+   "gain_vs_bge_from_relabelling": 16.2,
+   "gain_vs_bge_with_human_overrides": 16.24,
+   "gain_surviving_share": 1.002
+  }
+ },
+ "disputed": [
+  {
+   "id": 7,
+   "qid": "dev_query892",
+   "side": "jev_up",
+   "jev_rank": 5,
+   "bge_rank": 37,
+   "miracl_label": null,
+   "judge_label": 0,
+   "final_label": 0,
+   "human": 1,
+   "query": "Когда начался арабо-израильский конфликт?",
+   "passage": "Святая земля Начиная с 60-х годов XX века территория Святой земли является предметом арабо-израильского конфликта."
+  },
+  {
+   "id": 27,
+   "qid": "dev_query960",
+   "side": "jev_up",
+   "jev_rank": 5,
+   "bge_rank": 51,
+   "miracl_label": null,
+   "judge_label": 1,
+   "final_label": 1,
+   "human": 0,
+   "query": "Кто был разработчиком UGM-133A Трайдент II (D5)?",
+   "passage": "Афина-1c Во второй половине 1980-х годов компания «Lockheed» (ныне — «Lockheed Martin»), будучи главным разработчиком ряда баллистических ракет подводного базирования (UGM-27 «Поларис» , UGM-73 «Посейдон» и «Трайдент»), приступила к изучению проекта переоборудования своих ракет для реализации возмож"
+  }
+ ]
+}

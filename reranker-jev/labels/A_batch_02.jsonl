@@ -1,0 +1,400 @@
+{"qid":"dev_query713","did":"candidate_dev_query713_00009","label":0,"reason":"No start date of the operation given"}
+{"qid":"dev_query1188","did":"candidate_dev_query1188_00083","label":0,"reason":"About Roman legion, not Olympics"}
+{"qid":"dev_query35","did":"candidate_dev_query35_00074","label":0,"reason":"About Josh Hawley, not Berlusconi"}
+{"qid":"dev_query988","did":"candidate_dev_query988_00005","label":0,"reason":"Describes a Dalstroy unit, not its main task"}
+{"qid":"dev_query921","did":"candidate_dev_query921_00098","label":0,"reason":"About Suomi submachine gun, not M3"}
+{"qid":"dev_query647","did":"candidate_dev_query647_00011","label":1,"reason":"Construction ordered 1958, ship launched April 1959"}
+{"qid":"dev_query942","did":"candidate_dev_query942_00083","label":0,"reason":"Does not state which novel was first"}
+{"qid":"dev_query787","did":"candidate_dev_query787_00052","label":0,"reason":"About bust copies, not find location"}
+{"qid":"dev_query1235","did":"candidate_dev_query1235_00096","label":0,"reason":"Hitler's racial views, not unified race theory"}
+{"qid":"dev_query371","did":"candidate_dev_query371_00064","label":0,"reason":"About Biryukov, not Melnikov"}
+{"qid":"dev_query1242","did":"candidate_dev_query1242_00005","label":0,"reason":"No budget mentioned"}
+{"qid":"dev_query1214","did":"candidate_dev_query1214_00033","label":0,"reason":"Dynasty name origin, no duration"}
+{"qid":"dev_query783","did":"candidate_dev_query783_00005","label":1,"reason":"Monument depicts Vysotsky playing guitar"}
+{"qid":"dev_query720","did":"candidate_dev_query720_00072","label":0,"reason":"Kalininsky district, no krai extent"}
+{"qid":"dev_query1104","did":"candidate_dev_query1104_00019","label":0,"reason":"No founder mentioned"}
+{"qid":"dev_query117","did":"candidate_dev_query117_00080","label":0,"reason":"Individual deputy, no party count"}
+{"qid":"dev_query766","did":"candidate_dev_query766_00064","label":0,"reason":"No founding date of Home Army"}
+{"qid":"dev_query493","did":"candidate_dev_query493_00035","label":0,"reason":"Roman civil wars, not Victorian era"}
+{"qid":"dev_query552","did":"candidate_dev_query552_00072","label":0,"reason":"About Mavrodi film, not Brigada"}
+{"qid":"dev_query597","did":"candidate_dev_query597_00009","label":0,"reason":"Best-of album, not debut year"}
+{"qid":"dev_query73","did":"candidate_dev_query73_00017","label":0,"reason":"About Diocletian's wife, no his birth date"}
+{"qid":"dev_query530","did":"candidate_dev_query530_00055","label":0,"reason":"About Rohrer, not Kapitsa"}
+{"qid":"dev_query659","did":"candidate_dev_query659_00032","label":0,"reason":"No CERN staff count"}
+{"qid":"dev_query962","did":"candidate_dev_query962_00055","label":0,"reason":"Tournament info without winner"}
+{"qid":"dev_query1230","did":"candidate_dev_query1230_00074","label":0,"reason":"About Lerkh, not Justinian"}
+{"qid":"dev_query508","did":"candidate_dev_query508_00076","label":1,"reason":"States blockade lasted 872 days"}
+{"qid":"dev_query962","did":"candidate_dev_query962_00030","label":0,"reason":"Field hockey Australia, not Sochi ice hockey"}
+{"qid":"dev_query350","did":"candidate_dev_query350_00072","label":0,"reason":"About Chudin, not Churkin"}
+{"qid":"dev_query652","did":"candidate_dev_query652_00042","label":0,"reason":"Masonic membership, no birth year"}
+{"qid":"dev_query1078","did":"candidate_dev_query1078_00018","label":1,"reason":"First held in 1993"}
+{"qid":"dev_query816","did":"candidate_dev_query816_00099","label":0,"reason":"About Tita and Patterson, not Mayweather"}
+{"qid":"dev_query99","did":"candidate_dev_query99_00028","label":0,"reason":"Arkhangelsk ration, not Leningrad initial ration"}
+{"qid":"dev_query1230","did":"candidate_dev_query1230_00026","label":0,"reason":"About Petronius Maximus, not Justinian"}
+{"qid":"dev_query969","did":"candidate_dev_query969_00017","label":0,"reason":"Does not name Natasha's husband"}
+{"qid":"dev_query829","did":"candidate_dev_query829_00085","label":0,"reason":"Eurovision cost, not Master-Building"}
+{"qid":"dev_query896","did":"candidate_dev_query896_00026","label":0,"reason":"Elato island, not largest island"}
+{"qid":"dev_query1089","did":"candidate_dev_query1089_00026","label":0,"reason":"Visa Cash, not first bank card"}
+{"qid":"dev_query1243","did":"candidate_dev_query1243_00015","label":0,"reason":"Resident Evil remake, not RE4"}
+{"qid":"dev_query390","did":"candidate_dev_query390_00099","label":0,"reason":"Film plot, no war end date"}
+{"qid":"dev_query114","did":"candidate_dev_query114_00015","label":0,"reason":"About Nikolaev, not Medinsky"}
+{"qid":"dev_query603","did":"candidate_dev_query603_00011","label":1,"reason":"States Russia has 11 time zones"}
+{"qid":"dev_query624","did":"candidate_dev_query624_00083","label":0,"reason":"Washington protests, not first capital"}
+{"qid":"dev_query338","did":"candidate_dev_query338_00014","label":0,"reason":"Cargo details, no passenger count"}
+{"qid":"dev_query1133","did":"candidate_dev_query1133_00093","label":0,"reason":"Rod Stewart single; does not settle Sex Pistols scandal"}
+{"qid":"dev_query787","did":"candidate_dev_query787_00031","label":0,"reason":"Bust wartime moves, not where found"}
+{"qid":"dev_query614","did":"candidate_dev_query614_00014","label":0,"reason":"Filming location, not lead actor"}
+{"qid":"dev_query1144","did":"candidate_dev_query1144_00041","label":0,"reason":"Intro to chronology, no date"}
+{"qid":"dev_query767","did":"candidate_dev_query767_00093","label":0,"reason":"No first election date"}
+{"qid":"dev_query1098","did":"candidate_dev_query1098_00031","label":0,"reason":"About Vasily Vovk, not Dokuchaev"}
+{"qid":"dev_query294","did":"candidate_dev_query294_00087","label":0,"reason":"Mentions Kallidopoulos but no birth date"}
+{"qid":"dev_query144","did":"candidate_dev_query144_00046","label":0,"reason":"About Montrevel, not Peiresc"}
+{"qid":"dev_query921","did":"candidate_dev_query921_00003","label":1,"reason":"M3 Stuart tanks were supplied to USSR and Britain"}
+{"qid":"dev_query106","did":"candidate_dev_query106_00082","label":0,"reason":"Satellite decision meeting, not who launched it"}
+{"qid":"dev_query641","did":"candidate_dev_query641_00009","label":1,"reason":"First salute for liberation of Orel and Belgorod"}
+{"qid":"dev_query552","did":"candidate_dev_query552_00037","label":0,"reason":"Theatre role, not Brigada character"}
+{"qid":"dev_query896","did":"candidate_dev_query896_00049","label":0,"reason":"Exuma in Bahamas, not Micronesia"}
+{"qid":"dev_query131","did":"candidate_dev_query131_00078","label":0,"reason":"Tycho Brahe model, not who first said it"}
+{"qid":"dev_query164","did":"candidate_dev_query164_00061","label":0,"reason":"Different award recipient, not Giddens"}
+{"qid":"dev_query114","did":"candidate_dev_query114_00000","label":1,"reason":"Born in Smela, Cherkasy oblast"}
+{"qid":"dev_query1218","did":"candidate_dev_query1218_00013","label":0,"reason":"Describes a supernova subtype, not supernova generally"}
+{"qid":"dev_query738","did":"candidate_dev_query738_00071","label":0,"reason":"Spinal stenosis, not Parkinson's"}
+{"qid":"dev_query346","did":"candidate_dev_query346_00095","label":0,"reason":"Vargunin mansion, not List mansion"}
+{"qid":"dev_query636","did":"candidate_dev_query636_00035","label":1,"reason":"Stern headed front command at Khalkhin Gol"}
+{"qid":"dev_query748","did":"candidate_dev_query748_00015","label":0,"reason":"About Yaroslava Tankova, different person"}
+{"qid":"dev_query827","did":"candidate_dev_query827_00000","label":1,"reason":"Film The Stand made in 1994 from King novel"}
+{"qid":"dev_query641","did":"candidate_dev_query641_00022","label":1,"reason":"First salute honored Orel and Belgorod liberation"}
+{"qid":"dev_query1185","did":"candidate_dev_query1185_00075","label":0,"reason":"Western Sayan, not Mongolia"}
+{"qid":"dev_query612","did":"candidate_dev_query612_00000","label":1,"reason":"Lists LA Galaxy among his clubs"}
+{"qid":"dev_query685","did":"candidate_dev_query685_00089","label":1,"reason":"Franz Ferdinand killed in Sarajevo"}
+{"qid":"dev_query1003","did":"candidate_dev_query1003_00018","label":1,"reason":"Mother is Lily Evans Potter"}
+{"qid":"dev_query961","did":"candidate_dev_query961_00041","label":0,"reason":"About Fedyaev, not Melnikov"}
+{"qid":"dev_query455","did":"candidate_dev_query455_00041","label":0,"reason":"No age he started rugby"}
+{"qid":"dev_query746","did":"candidate_dev_query746_00053","label":0,"reason":"Describes a criminal, not who Raskolniki are"}
+{"qid":"dev_query680","did":"candidate_dev_query680_00004","label":0,"reason":"About Adler, not Rome"}
+{"qid":"dev_query501","did":"candidate_dev_query501_00050","label":0,"reason":"Different word etymology"}
+{"qid":"dev_query1219","did":"candidate_dev_query1219_00010","label":0,"reason":"Orlovo village name, not Peterhof"}
+{"qid":"dev_query103","did":"candidate_dev_query103_00000","label":1,"reason":"First dean was Yu. V. Pashkus"}
+{"qid":"dev_query270","did":"candidate_dev_query270_00046","label":0,"reason":"About Pavlov, not Kheraskov"}
+{"qid":"dev_query1188","did":"candidate_dev_query1188_00043","label":1,"reason":"XXX Olympiad coin shows London"}
+{"qid":"dev_query498","did":"candidate_dev_query498_00047","label":0,"reason":"Coptic icons, not origin in Russia"}
+{"qid":"dev_query748","did":"candidate_dev_query748_00018","label":0,"reason":"About Onufriy Khavruk, different person"}
+{"qid":"dev_query635","did":"candidate_dev_query635_00019","label":0,"reason":"Disambiguation stub, no birth year"}
+{"qid":"dev_query830","did":"candidate_dev_query830_00099","label":0,"reason":"Laser diode, not Zener diode"}
+{"qid":"dev_query805","did":"candidate_dev_query805_00013","label":0,"reason":"Early writer, not definition of spray art"}
+{"qid":"dev_query942","did":"candidate_dev_query942_00092","label":1,"reason":"Poor Folk called Dostoevsky's first novel"}
+{"qid":"dev_query278","did":"candidate_dev_query278_00040","label":0,"reason":"Side characters, no protagonist named"}
+{"qid":"dev_query783","did":"candidate_dev_query783_00009","label":1,"reason":"Guitar Vysotsky played at concert"}
+{"qid":"dev_query435","did":"candidate_dev_query435_00029","label":0,"reason":"Partnerships history; current legality not stated explicitly"}
+{"qid":"dev_query164","did":"candidate_dev_query164_00024","label":0,"reason":"No Asturias prize category"}
+{"qid":"dev_query103","did":"candidate_dev_query103_00071","label":0,"reason":"About Kadochnikov, not SPbU dean"}
+{"qid":"dev_query896","did":"candidate_dev_query896_00019","label":0,"reason":"Greenland generally, not Micronesia"}
+{"qid":"dev_query166","did":"candidate_dev_query166_00054","label":0,"reason":"Kuprin story, not train naming"}
+{"qid":"dev_query148","did":"candidate_dev_query148_00045","label":1,"reason":"Manifesto issued October 17, 1905"}
+{"qid":"dev_query131","did":"candidate_dev_query131_00082","label":0,"reason":"Copernicus system, not stated as first"}
+{"qid":"dev_query1244","did":"candidate_dev_query1244_00017","label":0,"reason":"No Lenin title given"}
+{"qid":"dev_query1003","did":"candidate_dev_query1003_00033","label":1,"reason":"Harry's mother Lily"}
+{"qid":"dev_query612","did":"candidate_dev_query612_00033","label":0,"reason":"Nashville club, not Beckham"}
+{"qid":"dev_query127","did":"candidate_dev_query127_00030","label":0,"reason":"Finnish tugboat, no designer"}
+{"qid":"dev_query1144","did":"candidate_dev_query1144_00024","label":1,"reason":"US entered war after Pearl Harbor, late 1941"}
+{"qid":"dev_query685","did":"candidate_dev_query685_00094","label":1,"reason":"Title Sarajevo assassination gives the city"}
+{"qid":"dev_query380","did":"candidate_dev_query380_00012","label":0,"reason":"Taishet-Lena branch length, not Trans-Siberian"}
+{"qid":"dev_query454","did":"candidate_dev_query454_00006","label":1,"reason":"Christianity is largest religion in Armenia"}
+{"qid":"dev_query866","did":"candidate_dev_query866_00014","label":0,"reason":"Symbolism, not current location"}
+{"qid":"dev_query148","did":"candidate_dev_query148_00001","label":1,"reason":"Manifesto issued October 17, 1905"}
+{"qid":"dev_query1159","did":"candidate_dev_query1159_00026","label":1,"reason":"Camel humps store fat as water reserve"}
+{"qid":"dev_query1230","did":"candidate_dev_query1230_00077","label":0,"reason":"About Julian, not Justinian"}
+{"qid":"dev_query498","did":"candidate_dev_query498_00073","label":0,"reason":"Icon decline, not origin"}
+{"qid":"dev_query47","did":"candidate_dev_query47_00021","label":0,"reason":"Rural settlement, not Khrushchev buildings"}
+{"qid":"dev_query983","did":"candidate_dev_query983_00033","label":0,"reason":"About Bezchastnov, not Diakonov"}
+{"qid":"dev_query193","did":"candidate_dev_query193_00055","label":0,"reason":"1940s stories, no creation year"}
+{"qid":"dev_query46","did":"candidate_dev_query46_00043","label":0,"reason":"Single river, no count"}
+{"qid":"dev_query730","did":"candidate_dev_query730_00004","label":0,"reason":"Sexism definition, nothing about Sanders"}
+{"qid":"dev_query498","did":"candidate_dev_query498_00056","label":0,"reason":"Ukrainian art association, not icon origin"}
+{"qid":"dev_query218","did":"candidate_dev_query218_00001","label":1,"reason":"Music Hajibeyov, words Ahmed Javad"}
+{"qid":"dev_query952","did":"candidate_dev_query952_00095","label":0,"reason":"Unrelated river"}
+{"qid":"dev_query720","did":"candidate_dev_query720_00004","label":0,"reason":"Krai history, no extent"}
+{"qid":"dev_query940","did":"candidate_dev_query940_00019","label":0,"reason":"About Borodin, not Arafat"}
+{"qid":"dev_query166","did":"candidate_dev_query166_00099","label":0,"reason":"Comedy clip, not naming origin"}
+{"qid":"dev_query311","did":"candidate_dev_query311_00088","label":0,"reason":"About Morny, not Saint-Saens"}
+{"qid":"dev_query359","did":"candidate_dev_query359_00097","label":0,"reason":"Modern graffiti examples, not earliest"}
+{"qid":"dev_query974","did":"candidate_dev_query974_00003","label":1,"reason":"South Ossetia is a partially recognized republic"}
+{"qid":"dev_query157","did":"candidate_dev_query157_00059","label":0,"reason":"Prostitution in USSR, not Byzantium"}
+{"qid":"dev_query461","did":"candidate_dev_query461_00067","label":0,"reason":"Palermo palace, not Sheki"}
+{"qid":"dev_query556","did":"candidate_dev_query556_00087","label":1,"reason":"Nina Chavchavadze was Griboyedov's wife"}
+{"qid":"dev_query498","did":"candidate_dev_query498_00000","label":1,"reason":"Icon painting came from Byzantium"}
+{"qid":"dev_query21","did":"candidate_dev_query21_00008","label":0,"reason":"Only first pavilions mentioned, no construction date"}
+{"qid":"dev_query1084","did":"candidate_dev_query1084_00058","label":1,"reason":"October Socialist Revolution of 1917"}
+{"qid":"dev_query127","did":"candidate_dev_query127_00005","label":0,"reason":"Literary project, not ship designer"}
+{"qid":"dev_query1218","did":"candidate_dev_query1218_00034","label":0,"reason":"Supernova mechanism, no definition"}
+{"qid":"dev_query75","did":"candidate_dev_query75_00009","label":0,"reason":"Southern Army 1918, no war duration"}
+{"qid":"dev_query364","did":"candidate_dev_query364_00060","label":0,"reason":"Society history, no Emmylou Harris"}
+{"qid":"dev_query649","did":"candidate_dev_query649_00064","label":0,"reason":"Moscow settlement, not city founding"}
+{"qid":"dev_query744","did":"candidate_dev_query744_00055","label":0,"reason":"Does not state support for Syrian government"}
+{"qid":"dev_query1159","did":"candidate_dev_query1159_00067","label":0,"reason":"Camel wool, not hump contents"}
+{"qid":"dev_query952","did":"candidate_dev_query952_00099","label":0,"reason":"Scottish Don river, not Missouri"}
+{"qid":"dev_query827","did":"candidate_dev_query827_00018","label":0,"reason":"Misery film, not The Stand"}
+{"qid":"dev_query258","did":"candidate_dev_query258_00092","label":0,"reason":"Compensation funds, no firefighter deaths"}
+{"qid":"dev_query311","did":"candidate_dev_query311_00011","label":0,"reason":"About Damremont, not Saint-Saens"}
+{"qid":"dev_query181","did":"candidate_dev_query181_00049","label":0,"reason":"General game history, no Tidus"}
+{"qid":"dev_query1009","did":"candidate_dev_query1009_00072","label":1,"reason":"Active in 1920, so 20th century"}
+{"qid":"dev_query387","did":"candidate_dev_query387_00003","label":1,"reason":"Civil war in Tajikistan 1992-1997"}
+{"qid":"dev_query90","did":"candidate_dev_query90_00007","label":0,"reason":"One movement, not protest movement overall"}
+{"qid":"dev_query1234","did":"candidate_dev_query1234_00098","label":0,"reason":"Organization structure, no location"}
+{"qid":"dev_query530","did":"candidate_dev_query530_00000","label":0,"reason":"List intro, no Kapitsa achievement"}
+{"qid":"dev_query1005","did":"candidate_dev_query1005_00020","label":0,"reason":"Camel work traits, no lifespan"}
+{"qid":"dev_query1038","did":"candidate_dev_query1038_00024","label":0,"reason":"Plancius 1612 globe, not first globe"}
+{"qid":"dev_query862","did":"candidate_dev_query862_00068","label":0,"reason":"Great Russia party, not Just Russia"}
+{"qid":"dev_query218","did":"candidate_dev_query218_00016","label":0,"reason":"Indian anthem, not Azerbaijan"}
+{"qid":"dev_query646","did":"candidate_dev_query646_00019","label":0,"reason":"Arrow heads, not range factors"}
+{"qid":"dev_query906","did":"candidate_dev_query906_00052","label":0,"reason":"Stupino city day, not Kaluga"}
+{"qid":"dev_query1060","did":"candidate_dev_query1060_00017","label":0,"reason":"Metro station naming, no founding date"}
+{"qid":"dev_query81","did":"candidate_dev_query81_00043","label":0,"reason":"Combat use, no production start"}
+{"qid":"dev_query754","did":"candidate_dev_query754_00032","label":0,"reason":"Universiade, not Orekhovo school"}
+{"qid":"dev_query827","did":"candidate_dev_query827_00033","label":0,"reason":"Comic adaptation, not a film"}
+{"qid":"dev_query530","did":"candidate_dev_query530_00033","label":1,"reason":"Prize for low-temperature physics discoveries"}
+{"qid":"dev_query713","did":"candidate_dev_query713_00062","label":0,"reason":"Invasion planning, no Omaha date"}
+{"qid":"dev_query270","did":"candidate_dev_query270_00068","label":0,"reason":"About Tronov, not Kheraskov"}
+{"qid":"dev_query498","did":"candidate_dev_query498_00055","label":0,"reason":"Earliest icons, not origin in Russia"}
+{"qid":"dev_query983","did":"candidate_dev_query983_00017","label":0,"reason":"About Igor Zhukov, not Diakonov"}
+{"qid":"dev_query480","did":"candidate_dev_query480_00092","label":0,"reason":"Reil on psychoses, not schizophrenia curability"}
+{"qid":"dev_query974","did":"candidate_dev_query974_00028","label":1,"reason":"Mentions Republic of South Ossetia"}
+{"qid":"dev_query599","did":"candidate_dev_query599_00096","label":0,"reason":"Shakhtyorsk airport, not Khabarovsk's largest"}
+{"qid":"dev_query390","did":"candidate_dev_query390_00024","label":0,"reason":"No end date of Korean War"}
+{"qid":"dev_query810","did":"candidate_dev_query810_00001","label":0,"reason":"Club World Cup, not World Cup winner"}
+{"qid":"dev_query294","did":"candidate_dev_query294_00062","label":0,"reason":"Battle events, no birth date"}
+{"qid":"dev_query35","did":"candidate_dev_query35_00088","label":0,"reason":"About Shuvalov, not Berlusconi"}
+{"qid":"dev_query164","did":"candidate_dev_query164_00047","label":0,"reason":"About Nussbaum, not Giddens"}
+{"qid":"dev_query181","did":"candidate_dev_query181_00067","label":0,"reason":"Assassin's Creed, not Tidus"}
+{"qid":"dev_query452","did":"candidate_dev_query452_00087","label":1,"reason":"Brest Union concluded in 1596"}
+{"qid":"dev_query703","did":"candidate_dev_query703_00092","label":1,"reason":"Nikolai Ostrovsky museum at Tverskaya 14, Moscow"}
+{"qid":"dev_query258","did":"candidate_dev_query258_00033","label":0,"reason":"1966 fire, no 9/11 firefighter count"}
+{"qid":"dev_query988","did":"candidate_dev_query988_00057","label":0,"reason":"Unrelated foundation"}
+{"qid":"dev_query603","did":"candidate_dev_query603_00029","label":0,"reason":"General time zones, no Russian count"}
+{"qid":"dev_query371","did":"candidate_dev_query371_00062","label":0,"reason":"About Fonvizin, not Melnikov"}
+{"qid":"dev_query563","did":"candidate_dev_query563_00062","label":0,"reason":"1679 record, not founding year"}
+{"qid":"dev_query783","did":"candidate_dev_query783_00054","label":0,"reason":"Theatre roles, no instrument"}
+{"qid":"dev_query1210","did":"candidate_dev_query1210_00010","label":0,"reason":"Street in Irkutsk"}
+{"qid":"dev_query387","did":"candidate_dev_query387_00005","label":1,"reason":"Mentions civil war in Tajikistan ending 1997"}
+{"qid":"dev_query876","did":"candidate_dev_query876_00055","label":0,"reason":"Master of Orion, different game"}
+{"qid":"dev_query830","did":"candidate_dev_query830_00003","label":0,"reason":"Zener effect physics, not diode purpose"}
+{"qid":"dev_query805","did":"candidate_dev_query805_00004","label":0,"reason":"Graffiti problem, no definition"}
+{"qid":"dev_query472","did":"candidate_dev_query472_00003","label":1,"reason":"Package of measures adopted February 2015"}
+{"qid":"dev_query1098","did":"candidate_dev_query1098_00046","label":0,"reason":"About Bakhilov, not Dokuchaev"}
+{"qid":"dev_query80","did":"candidate_dev_query80_00020","label":0,"reason":"No founding year"}
+{"qid":"dev_query738","did":"candidate_dev_query738_00004","label":0,"reason":"ALS, not Parkinson's"}
+{"qid":"dev_query47","did":"candidate_dev_query47_00005","label":0,"reason":"Mentions Khrushchev houses without definition"}
+{"qid":"dev_query952","did":"candidate_dev_query952_00073","label":0,"reason":"Mara river, not Missouri"}
+{"qid":"dev_query641","did":"candidate_dev_query641_00004","label":1,"reason":"First salute for Belgorod and Orel"}
+{"qid":"dev_query758","did":"candidate_dev_query758_00050","label":0,"reason":"Kolomna kremlin, not Nizhny Novgorod"}
+{"qid":"dev_query830","did":"candidate_dev_query830_00094","label":0,"reason":"Avalanche diode, not Zener purpose"}
+{"qid":"dev_query127","did":"candidate_dev_query127_00000","label":1,"reason":"Designer was Colin Archer"}
+{"qid":"dev_query1230","did":"candidate_dev_query1230_00001","label":0,"reason":"Justinian II, not Justinian I"}
+{"qid":"dev_query413","did":"candidate_dev_query413_00075","label":0,"reason":"Thalamus function, not location"}
+{"qid":"dev_query870","did":"candidate_dev_query870_00013","label":0,"reason":"Population, not island formation"}
+{"qid":"dev_query1218","did":"candidate_dev_query1218_00031","label":0,"reason":"Specific star, no supernova definition"}
+{"qid":"dev_query896","did":"candidate_dev_query896_00053","label":0,"reason":"German Micronesia history, no largest island"}
+{"qid":"dev_query9","did":"candidate_dev_query9_00049","label":0,"reason":"Bolotnikov uprising, not Miankal"}
+{"qid":"dev_query291","did":"candidate_dev_query291_00002","label":0,"reason":"Melody date only, not song creation"}
+{"qid":"dev_query598","did":"candidate_dev_query598_00043","label":0,"reason":"FF XIII-2, not XIII release"}
+{"qid":"dev_query352","did":"candidate_dev_query352_00011","label":0,"reason":"Kosh character, not Russian origin"}
+{"qid":"dev_query291","did":"candidate_dev_query291_00019","label":0,"reason":"Anthem adoption 1991, not song creation"}
+{"qid":"dev_query198","did":"candidate_dev_query198_00091","label":1,"reason":"States internal combustion engine invented in 1897"}
+{"qid":"dev_query591","did":"candidate_dev_query591_00028","label":0,"reason":"CLS designer, not company founder"}
+{"qid":"dev_query92","did":"candidate_dev_query92_00000","label":1,"reason":"Size ranges 0.2 to 135 mm, usually under 20"}
+{"qid":"dev_query647","did":"candidate_dev_query647_00025","label":1,"reason":"Ship built in 1959"}
+{"qid":"dev_query532","did":"candidate_dev_query532_00024","label":0,"reason":"Game engine, no Russian release date"}
+{"qid":"dev_query371","did":"candidate_dev_query371_00063","label":1,"reason":"Gained high literary status during lifetime"}
+{"qid":"dev_query157","did":"candidate_dev_query157_00085","label":0,"reason":"Middle East male prostitution, not Byzantium"}
+{"qid":"dev_query1000","did":"candidate_dev_query1000_00074","label":0,"reason":"General seas, not Odessa"}
+{"qid":"dev_query961","did":"candidate_dev_query961_00054","label":0,"reason":"About Rebenok, not Melnikov"}
+{"qid":"dev_query873","did":"candidate_dev_query873_00033","label":0,"reason":"Prize for role and songs; film song not settled"}
+{"qid":"dev_query435","did":"candidate_dev_query435_00073","label":1,"reason":"Same-sex marriage law effective October 2017"}
+{"qid":"dev_query455","did":"candidate_dev_query455_00068","label":0,"reason":"Musician Richard Hughes, not McCaw"}
+{"qid":"dev_query388","did":"candidate_dev_query388_00023","label":0,"reason":"Gold mine, not gold reserve location"}
+{"qid":"dev_query335","did":"candidate_dev_query335_00063","label":1,"reason":"Sister named Elsa (Kagan/Triolet)"}
+{"qid":"dev_query805","did":"candidate_dev_query805_00021","label":0,"reason":"Sketching, no spray art definition"}
+{"qid":"dev_query226","did":"candidate_dev_query226_00072","label":0,"reason":"Lists side effects, does not settle risk level"}
+{"qid":"dev_query1023","did":"candidate_dev_query1023_00007","label":0,"reason":"Alien films, no birth date"}
+{"qid":"dev_query233","did":"candidate_dev_query233_00072","label":1,"reason":"China listed among socialist countries"}
+{"qid":"dev_query461","did":"candidate_dev_query461_00023","label":0,"reason":"Bratislava palace, not Sheki"}
+{"qid":"dev_query738","did":"candidate_dev_query738_00025","label":0,"reason":"Addison's disease, not Parkinson's"}
+{"qid":"dev_query1023","did":"candidate_dev_query1023_00004","label":0,"reason":"Daughter's birth, not Ridley's"}
+{"qid":"dev_query148","did":"candidate_dev_query148_00078","label":1,"reason":"Title gives Manifesto of October 17, 1905"}
+{"qid":"dev_query467","did":"candidate_dev_query467_00084","label":1,"reason":"Started in response to rocket attacks from Gaza"}
+{"qid":"dev_query336","did":"candidate_dev_query336_00019","label":0,"reason":"Airport location, no river"}
+{"qid":"dev_query917","did":"candidate_dev_query917_00086","label":0,"reason":"Different uprising"}
+{"qid":"dev_query820","did":"candidate_dev_query820_00053","label":0,"reason":"Sarir capital, not Dagestan's first capital"}
+{"qid":"dev_query1230","did":"candidate_dev_query1230_00045","label":0,"reason":"About Domitian, not Justinian"}
+{"qid":"dev_query953","did":"candidate_dev_query953_00082","label":0,"reason":"Modern status, no founding date"}
+{"qid":"dev_query952","did":"candidate_dev_query952_00007","label":0,"reason":"Iokanga tributaries, not Missouri"}
+{"qid":"dev_query729","did":"candidate_dev_query729_00009","label":0,"reason":"Village during battle, no duration"}
+{"qid":"dev_query917","did":"candidate_dev_query917_00055","label":0,"reason":"Moscow 1905 uprising, not Izhevsk-Votkinsk"}
+{"qid":"dev_query596","did":"candidate_dev_query596_00019","label":0,"reason":"Only conductor name"}
+{"qid":"dev_query901","did":"candidate_dev_query901_00035","label":0,"reason":"About Uspenskaya, not Dikgof"}
+{"qid":"dev_query270","did":"candidate_dev_query270_00057","label":0,"reason":"About Nemtsev, not Kheraskov"}
+{"qid":"dev_query455","did":"candidate_dev_query455_00024","label":0,"reason":"About Vernon, not McCaw"}
+{"qid":"dev_query658","did":"candidate_dev_query658_00040","label":0,"reason":"Gitler-Barsky, not Adolf Hitler"}
+{"qid":"dev_query890","did":"candidate_dev_query890_00056","label":0,"reason":"Actress filmography, no shooting duration"}
+{"qid":"dev_query923","did":"candidate_dev_query923_00040","label":0,"reason":"Lara Spencer, not Edmund Spenser"}
+{"qid":"dev_query748","did":"candidate_dev_query748_00029","label":0,"reason":"About Paniot, different person"}
+{"qid":"dev_query114","did":"candidate_dev_query114_00006","label":0,"reason":"About Romanov, not Medinsky"}
+{"qid":"dev_query942","did":"candidate_dev_query942_00038","label":1,"reason":"Poor Folk was debut work of unknown Dostoevsky"}
+{"qid":"dev_query8","did":"candidate_dev_query8_00017","label":0,"reason":"Caravaggio painting, not Rada book"}
+{"qid":"dev_query413","did":"candidate_dev_query413_00024","label":1,"reason":"Thalamus is a structure of the diencephalon"}
+{"qid":"dev_query838","did":"candidate_dev_query838_00022","label":0,"reason":"Sindarin, no count of languages known"}
+{"qid":"dev_query588","did":"candidate_dev_query588_00008","label":0,"reason":"Exhibition in 2005, not museum opening"}
+{"qid":"dev_query960","did":"candidate_dev_query960_00046","label":0,"reason":"British warheads, not missile developer"}
+{"qid":"dev_query498","did":"candidate_dev_query498_00044","label":0,"reason":"Single icon from Constantinople, not origin stated"}
+{"qid":"dev_query385","did":"candidate_dev_query385_00015","label":0,"reason":"Conciergerie, not Versailles"}
+{"qid":"dev_query927","did":"candidate_dev_query927_00013","label":0,"reason":"Coalition history, no total years"}
+{"qid":"dev_query352","did":"candidate_dev_query352_00021","label":0,"reason":"Crusade spin-off plot, no Russian character"}
+{"qid":"dev_query648","did":"candidate_dev_query648_00041","label":0,"reason":"1790 convention, not partition date"}
+{"qid":"dev_query1187","did":"candidate_dev_query1187_00035","label":0,"reason":"1916 conspiracy, not pre-war prerequisites"}
+{"qid":"dev_query336","did":"candidate_dev_query336_00012","label":1,"reason":"Tolyatti street runs perpendicular to Volga"}
+{"qid":"dev_query512","did":"candidate_dev_query512_00022","label":0,"reason":"Geological history, not state formation"}
+{"qid":"dev_query501","did":"candidate_dev_query501_00002","label":1,"reason":"Elysium means afterlife of the righteous"}
+{"qid":"dev_query680","did":"candidate_dev_query680_00043","label":0,"reason":"Unrelated village"}
+{"qid":"dev_query1098","did":"candidate_dev_query1098_00090","label":0,"reason":"About Dobrovolsky, not Dokuchaev"}
+{"qid":"dev_query147","did":"candidate_dev_query147_00038","label":0,"reason":"Patent office work, no children count"}
+{"qid":"dev_query387","did":"candidate_dev_query387_00063","label":1,"reason":"Civil war in Tajikistan took many lives"}
+{"qid":"dev_query147","did":"candidate_dev_query147_00090","label":0,"reason":"Mentions sons but no count"}
+{"qid":"dev_query986","did":"candidate_dev_query986_00009","label":0,"reason":"Tsankov's paper, not Solonevich"}
+{"qid":"dev_query703","did":"candidate_dev_query703_00056","label":1,"reason":"Ostrovsky literary museum located in Sochi"}
+{"qid":"dev_query388","did":"candidate_dev_query388_00099","label":0,"reason":"French gold, not US reserve"}
+{"qid":"dev_query642","did":"candidate_dev_query642_00044","label":1,"reason":"Savoy ceded to France in 1860"}
+{"qid":"dev_query499","did":"candidate_dev_query499_00018","label":0,"reason":"Kristallnacht, not Columbine"}
+{"qid":"dev_query352","did":"candidate_dev_query352_00071","label":0,"reason":"Writer credits, no Russian character"}
+{"qid":"dev_query454","did":"candidate_dev_query454_00022","label":1,"reason":"Christianity state religion of Armenia since 301"}
+{"qid":"dev_query311","did":"candidate_dev_query311_00008","label":0,"reason":"Empty stub"}
+{"qid":"dev_query294","did":"candidate_dev_query294_00020","label":0,"reason":"About Argyropoulos, different person"}
+{"qid":"dev_query675","did":"candidate_dev_query675_00071","label":0,"reason":"Individual service, no mandatory duration"}
+{"qid":"dev_query841","did":"candidate_dev_query841_00075","label":0,"reason":"Health points, no Halo protagonist name"}
+{"qid":"dev_query1090","did":"candidate_dev_query1090_00074","label":0,"reason":"Azerbaijan ridges, not Teton"}
+{"qid":"dev_query438","did":"candidate_dev_query438_00030","label":0,"reason":"Homeopathic hospital, not origin date"}
+{"qid":"dev_query729","did":"candidate_dev_query729_00017","label":1,"reason":"Kursk battle lasted 49 days"}
+{"qid":"dev_query1133","did":"candidate_dev_query1133_00006","label":1,"reason":"Describes Sex Pistols' scandalous fame"}
+{"qid":"dev_query1052","did":"candidate_dev_query1052_00027","label":0,"reason":"Mexican independence war, not Peasant War"}
+{"qid":"dev_query703","did":"candidate_dev_query703_00047","label":0,"reason":"Museum details without location"}
+{"qid":"dev_query730","did":"candidate_dev_query730_00091","label":0,"reason":"Film themes, not Sanders"}
+{"qid":"dev_query921","did":"candidate_dev_query921_00072","label":0,"reason":"Mitsubishi van, not M3"}
+{"qid":"dev_query804","did":"candidate_dev_query804_00004","label":1,"reason":"Older sister Marianna"}
+{"qid":"dev_query1232","did":"candidate_dev_query1232_00010","label":0,"reason":"University naming, not metro"}
+{"qid":"dev_query35","did":"candidate_dev_query35_00057","label":0,"reason":"Sylvia Likens, not Berlusconi"}
+{"qid":"dev_query988","did":"candidate_dev_query988_00065","label":0,"reason":"Trigonometry, not Dalstroy"}
+{"qid":"dev_query603","did":"candidate_dev_query603_00019","label":1,"reason":"Eleven time zones in Russia"}
+{"qid":"dev_query995","did":"candidate_dev_query995_00010","label":0,"reason":"Crimea seas, not Krasnodar count"}
+{"qid":"dev_query668","did":"candidate_dev_query668_00048","label":0,"reason":"Publishing project, no tenure length"}
+{"qid":"dev_query916","did":"candidate_dev_query916_00023","label":0,"reason":"Center-left definition, not Livy"}
+{"qid":"dev_query984","did":"candidate_dev_query984_00018","label":0,"reason":"Observatory, no opening date"}
+{"qid":"dev_query478","did":"candidate_dev_query478_00063","label":1,"reason":"Founded by Harland Sanders"}
+{"qid":"dev_query647","did":"candidate_dev_query647_00017","label":1,"reason":"Laid down 1957, delivered December 1959"}
+{"qid":"dev_query816","did":"candidate_dev_query816_00026","label":0,"reason":"Fight loss to Mayweather, no Olympics info"}
+{"qid":"dev_query986","did":"candidate_dev_query986_00088","label":0,"reason":"Different newspaper"}
+{"qid":"dev_query988","did":"candidate_dev_query988_00045","label":0,"reason":"Heuristics, not Dalstroy"}
+{"qid":"dev_query270","did":"candidate_dev_query270_00006","label":0,"reason":"About Rudnev, not Kheraskov"}
+{"qid":"dev_query709","did":"candidate_dev_query709_00066","label":0,"reason":"SaGa game, not Final Fantasy series"}
+{"qid":"dev_query655","did":"candidate_dev_query655_00060","label":0,"reason":"Egypt conquest, not Babylon year"}
+{"qid":"dev_query532","did":"candidate_dev_query532_00044","label":0,"reason":"Bundle info, no Russian release date"}
+{"qid":"dev_query493","did":"candidate_dev_query493_00001","label":0,"reason":"Victorian morality, no wars"}
+{"qid":"dev_query816","did":"candidate_dev_query816_00089","label":0,"reason":"Fencer Montano, not Mayweather"}
+{"qid":"dev_query892","did":"candidate_dev_query892_00029","label":0,"reason":"Border treaty 1979, not conflict start"}
+{"qid":"dev_query270","did":"candidate_dev_query270_00028","label":0,"reason":"About Gremyatsky, not Kheraskov"}
+{"qid":"dev_query311","did":"candidate_dev_query311_00001","label":0,"reason":"Camilo Sesto, not Saint-Saens"}
+{"qid":"dev_query329","did":"candidate_dev_query329_00048","label":0,"reason":"Meladze producer in 2000, creation not settled"}
+{"qid":"dev_query624","did":"candidate_dev_query624_00002","label":1,"reason":"New York became first US capital"}
+{"qid":"dev_query1156","did":"candidate_dev_query1156_00077","label":1,"reason":"Catherine II ruled 1762-1796"}
+{"qid":"dev_query805","did":"candidate_dev_query805_00003","label":1,"reason":"Defines spray art as aerosol paint artwork"}
+{"qid":"dev_query413","did":"candidate_dev_query413_00032","label":0,"reason":"Pulvinar veins, not thalamus location"}
+{"qid":"dev_query426","did":"candidate_dev_query426_00023","label":1,"reason":"Latvia admitted to USSR August 1940"}
+{"qid":"dev_query81","did":"candidate_dev_query81_00008","label":0,"reason":"SU-85 production, not SU-122"}
+{"qid":"dev_query262","did":"candidate_dev_query262_00024","label":0,"reason":"1916 events, not Entente end"}
+{"qid":"dev_query371","did":"candidate_dev_query371_00095","label":0,"reason":"About Kamnev, not Melnikov"}
+{"qid":"dev_query766","did":"candidate_dev_query766_00052","label":0,"reason":"Lithuania operations, no founding date"}
+{"qid":"dev_query39","did":"candidate_dev_query39_00034","label":0,"reason":"Engineer's bridges, no city total"}
+{"qid":"dev_query1176","did":"candidate_dev_query1176_00048","label":0,"reason":"Cast changes, main lead not clearly stated"}
+{"qid":"dev_query946","did":"candidate_dev_query946_00005","label":0,"reason":"Mentions roof of the world without reason"}
+{"qid":"dev_query346","did":"candidate_dev_query346_00024","label":1,"reason":"Kekushev authored the List mansion"}
+{"qid":"dev_query71","did":"candidate_dev_query71_00076","label":0,"reason":"Modern church schism, not Photian"}
+{"qid":"dev_query1078","did":"candidate_dev_query1078_00004","label":0,"reason":"MAKS-2007, not first opening"}
+{"qid":"dev_query1185","did":"candidate_dev_query1185_00093","label":1,"reason":"Oyu Tolgoi deposit contains gold in Mongolia"}
+{"qid":"dev_query338","did":"candidate_dev_query338_00011","label":0,"reason":"No passenger count"}
+{"qid":"dev_query166","did":"candidate_dev_query166_00003","label":0,"reason":"Lastochka train, not Sapsan naming"}
+{"qid":"dev_query148","did":"candidate_dev_query148_00007","label":1,"reason":"Manifesto of October 17, 1905"}
+{"qid":"dev_query1061","did":"candidate_dev_query1061_00010","label":0,"reason":"Gameplay concept, no setting location"}
+{"qid":"dev_query697","did":"candidate_dev_query697_00067","label":0,"reason":"Moncada plans, no birthplace"}
+{"qid":"dev_query1230","did":"candidate_dev_query1230_00030","label":0,"reason":"Usurper John, not Justinian"}
+{"qid":"dev_query636","did":"candidate_dev_query636_00092","label":0,"reason":"Pilot at Khalkhin Gol, not commander"}
+{"qid":"dev_query703","did":"candidate_dev_query703_00007","label":1,"reason":"Ostrovsky museum on Tverskaya 14, Moscow"}
+{"qid":"dev_query350","did":"candidate_dev_query350_00009","label":0,"reason":"G4 UN membership, not Churkin"}
+{"qid":"dev_query1183","did":"candidate_dev_query1183_00052","label":0,"reason":"F1 team seasons, no company founding"}
+{"qid":"dev_query730","did":"candidate_dev_query730_00005","label":0,"reason":"Sexism concepts, no Sanders"}
+{"qid":"dev_query744","did":"candidate_dev_query744_00099","label":1,"reason":"Russia supported Assad government with weapons"}
+{"qid":"dev_query697","did":"candidate_dev_query697_00013","label":0,"reason":"Nephew's birthplace, not Fidel's"}
+{"qid":"dev_query571","did":"candidate_dev_query571_00012","label":0,"reason":"New characters, no release year"}
+{"qid":"dev_query985","did":"candidate_dev_query985_00000","label":0,"reason":"KPRA guerrillas, not KPA founding"}
+{"qid":"dev_query1235","did":"candidate_dev_query1235_00001","label":0,"reason":"Hamitic theory, not unified race theory"}
+{"qid":"dev_query438","did":"candidate_dev_query438_00083","label":0,"reason":"Homeopathy principle, no origin date"}
+{"qid":"dev_query677","did":"candidate_dev_query677_00001","label":1,"reason":"Mozart died December 5, 1791"}
+{"qid":"dev_query675","did":"candidate_dev_query675_00006","label":0,"reason":"Women serve 12 months less, no duration"}
+{"qid":"dev_query800","did":"candidate_dev_query800_00055","label":0,"reason":"About Semyonov, not Nemtsov"}
+{"qid":"dev_query685","did":"candidate_dev_query685_00062","label":0,"reason":"No city of assassination"}
+{"qid":"dev_query830","did":"candidate_dev_query830_00046","label":0,"reason":"General diode rectifiers, not Zener"}
+{"qid":"dev_query612","did":"candidate_dev_query612_00086","label":0,"reason":"Hockey club, not Beckham"}
+{"qid":"dev_query936","did":"candidate_dev_query936_00026","label":0,"reason":"Different Lumiere film"}
+{"qid":"dev_query974","did":"candidate_dev_query974_00037","label":1,"reason":"Region governed as Republic of South Ossetia"}
+{"qid":"dev_query1232","did":"candidate_dev_query1232_00044","label":0,"reason":"Academy of Sciences, not metro"}
+{"qid":"dev_query1061","did":"candidate_dev_query1061_00031","label":1,"reason":"Set in Wonderland and London streets"}
+{"qid":"dev_query668","did":"candidate_dev_query668_00050","label":0,"reason":"Enthronement participation, no tenure length"}
+{"qid":"dev_query1061","did":"candidate_dev_query1061_00067","label":0,"reason":"Hospital level design, not overall setting"}
+{"qid":"dev_query122","did":"candidate_dev_query122_00057","label":1,"reason":"Ascension monastery founded 1672"}
+{"qid":"dev_query1242","did":"candidate_dev_query1242_00033","label":0,"reason":"Actress role, no budget"}
+{"qid":"dev_query60","did":"candidate_dev_query60_00017","label":0,"reason":"Turkmen flag, not kilt"}
+{"qid":"dev_query708","did":"candidate_dev_query708_00023","label":0,"reason":"Awadhi Ramcharitmanas, not Ramayana language"}
+{"qid":"dev_query562","did":"candidate_dev_query562_00043","label":1,"reason":"Norway kept monarchy with King Haakon VII"}
+{"qid":"dev_query646","did":"candidate_dev_query646_00069","label":0,"reason":"Bow load mechanics, not range factors"}
+{"qid":"dev_query731","did":"candidate_dev_query731_00081","label":1,"reason":"Turned 21 in 1918, so born 1897"}
+{"qid":"dev_query9","did":"candidate_dev_query9_00061","label":0,"reason":"Kura river battle, not Miankal uprising"}
+{"qid":"dev_query423","did":"candidate_dev_query423_00013","label":0,"reason":"Mahsati Ganjavi, not Nizami style"}
+{"qid":"dev_query294","did":"candidate_dev_query294_00065","label":0,"reason":"Military events, no birth date"}
+{"qid":"dev_query787","did":"candidate_dev_query787_00066","label":0,"reason":"Forgery myth, not find location"}
+{"qid":"dev_query262","did":"candidate_dev_query262_00090","label":0,"reason":"Airline, not Entente"}
+{"qid":"dev_query562","did":"candidate_dev_query562_00001","label":1,"reason":"Refers to the Norwegian monarchy"}
+{"qid":"dev_query124","did":"candidate_dev_query124_00029","label":0,"reason":"Theoretical scenarios, not current expansion"}
+{"qid":"dev_query1183","did":"candidate_dev_query1183_00020","label":1,"reason":"Company took Ferrari name in 1947"}
+{"qid":"dev_query258","did":"candidate_dev_query258_00051","label":0,"reason":"2007 fire, not 9/11 firefighter deaths"}
+{"qid":"dev_query813","did":"candidate_dev_query813_00073","label":0,"reason":"Different manga"}
+{"qid":"dev_query1215","did":"candidate_dev_query1215_00043","label":0,"reason":"No building material"}
+{"qid":"dev_query532","did":"candidate_dev_query532_00035","label":0,"reason":"Release dates without Russia"}
+{"qid":"dev_query1053","did":"candidate_dev_query1053_00072","label":0,"reason":"Belarus district, not Singapore"}
+{"qid":"dev_query749","did":"candidate_dev_query749_00097","label":0,"reason":"Village distance, not Novomoskovsk"}
+{"qid":"dev_query1188","did":"candidate_dev_query1188_00022","label":1,"reason":"XXX Olympiad held in London"}
+{"qid":"dev_query635","did":"candidate_dev_query635_00014","label":0,"reason":"Jehovah's Witnesses beliefs, no birth year"}
+{"qid":"dev_query338","did":"candidate_dev_query338_00013","label":0,"reason":"One Russian passenger, no total"}
+{"qid":"dev_query1222","did":"candidate_dev_query1222_00064","label":1,"reason":"Mongolia admitted with Mauritania in 1961"}
+{"qid":"dev_query454","did":"candidate_dev_query454_00018","label":1,"reason":"Armenia adopted Christianity as state religion"}
+{"qid":"dev_query298","did":"candidate_dev_query298_00067","label":0,"reason":"Krasnodar history, no city count"}
+{"qid":"dev_query680","did":"candidate_dev_query680_00099","label":0,"reason":"Unrelated village"}
+{"qid":"dev_query909","did":"candidate_dev_query909_00050","label":0,"reason":"Musical named Metro, not Warsaw subway"}
+{"qid":"dev_query1183","did":"candidate_dev_query1183_00015","label":0,"reason":"Dino models, no founding date"}
+{"qid":"dev_query144","did":"candidate_dev_query144_00066","label":0,"reason":"Different Claude, not Peiresc"}
+{"qid":"dev_query530","did":"candidate_dev_query530_00038","label":0,"reason":"Roentgen first prize, not Kapitsa"}
+{"qid":"dev_query478","did":"candidate_dev_query478_00045","label":0,"reason":"Later management, not founder"}
+{"qid":"dev_query262","did":"candidate_dev_query262_00033","label":0,"reason":"Entente rail action, not end date"}
+{"qid":"dev_query157","did":"candidate_dev_query157_00000","label":1,"reason":"Child prostitution common in Byzantium"}
+{"qid":"dev_query800","did":"candidate_dev_query800_00021","label":0,"reason":"Ukraine war protests, not Chechen war"}
+{"qid":"dev_query46","did":"candidate_dev_query46_00049","label":0,"reason":"Amur region rivers, not US"}
+{"qid":"dev_query766","did":"candidate_dev_query766_00091","label":0,"reason":"Operation Tempest, no AK founding date"}
+{"qid":"dev_query1220","did":"candidate_dev_query1220_00019","label":1,"reason":"Plato was Aristotle's teacher"}
+{"qid":"dev_query142","did":"candidate_dev_query142_00021","label":1,"reason":"Kiy, Shchek and Khoriv founded Kiev"}
+{"qid":"dev_query675","did":"candidate_dev_query675_00055","label":0,"reason":"IDF structure, no service length"}
+{"qid":"dev_query1244","did":"candidate_dev_query1244_00068","label":0,"reason":"Government appointment, no Lenin title"}
+{"qid":"dev_query1012","did":"candidate_dev_query1012_00075","label":0,"reason":"Russian condolences, not Bulgarian hero status"}
+{"qid":"dev_query989","did":"candidate_dev_query989_00000","label":1,"reason":"Houston is largest city of Texas"}
+{"qid":"dev_query946","did":"candidate_dev_query946_00012","label":0,"reason":"Khorog tourism, no reason"}
+{"qid":"dev_query497","did":"candidate_dev_query497_00029","label":0,"reason":"Star Trek Borg, not Donner Party"}
+{"qid":"dev_query685","did":"candidate_dev_query685_00007","label":1,"reason":"Franz Ferdinand killed in Sarajevo"}
+{"qid":"dev_query709","did":"candidate_dev_query709_00073","label":0,"reason":"Anime soundtrack, not first game"}
+{"qid":"dev_query1089","did":"candidate_dev_query1089_00058","label":0,"reason":"Card usage, no first use date"}
+{"qid":"dev_query185","did":"candidate_dev_query185_00013","label":0,"reason":"Kiev church, not first concrete use"}
+{"qid":"dev_query364","did":"candidate_dev_query364_00015","label":0,"reason":"Empty heading only"}

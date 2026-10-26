@@ -13,3 +13,7 @@ emb/
 cache/
 .cache/
 *.log
+
+# reranker-jev: наборы пересобираются data.py (47 МБ)
+reranker-jev/data/
+reranker-jev/_archive/

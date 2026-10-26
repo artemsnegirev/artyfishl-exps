@@ -1,0 +1,32 @@
+[
+ {
+  "id": 4,
+  "old": "not_relevant",
+  "new": "relevant",
+  "note": "Arty 2026-10-23: did not see the date"
+ },
+ {
+  "id": 9,
+  "old": "relevant",
+  "new": "not_relevant",
+  "note": "Arty 2026-10-23: my mistake"
+ },
+ {
+  "id": 15,
+  "old": "relevant",
+  "new": "not_relevant",
+  "note": "Arty 2026-10-23: my mistake"
+ },
+ {
+  "id": 23,
+  "old": "relevant",
+  "new": "not_relevant",
+  "note": "Arty 2026-10-23: my mistake"
+ },
+ {
+  "id": 38,
+  "old": "not_relevant",
+  "new": "relevant",
+  "note": "Arty 2026-10-23: did not notice Janet is in the list"
+ }
+]

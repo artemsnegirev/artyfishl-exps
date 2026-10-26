@@ -1,0 +1,128 @@
+{"qid": "dev_query612", "did": "candidate_dev_query612_00057", "judge": "A", "label": 0, "reason": "LAFC description; Beckham not mentioned"}
+{"qid": "dev_query1056", "did": "candidate_dev_query1056_00084", "judge": "A", "label": 0, "reason": "European championship, not world championship winner"}
+{"qid": "dev_query298", "did": "candidate_dev_query298_00066", "judge": "A", "label": 0, "reason": "Intro to unit list, no city count"}
+{"qid": "dev_query738", "did": "candidate_dev_query738_00001", "judge": "A", "label": 0, "reason": "About Lyme disease, not Parkinson's"}
+{"qid": "dev_query1185", "did": "candidate_dev_query1185_00042", "judge": "A", "label": 0, "reason": "Village gold deposits, not stated in Mongolia"}
+{"qid": "dev_query60", "did": "candidate_dev_query60_00036", "judge": "A", "label": 0, "reason": "Muong costume, not kilt"}
+{"qid": "dev_query1160", "did": "candidate_dev_query1160_00013", "judge": "A", "label": 1, "reason": "States streltsy army created under Alexei Mikhailovich"}
+{"qid": "dev_query387", "did": "candidate_dev_query387_00069", "judge": "A", "label": 1, "reason": "Civil war in Tajikistan 1992-1997 stated"}
+{"qid": "dev_query75", "did": "candidate_dev_query75_00040", "judge": "A", "label": 0, "reason": "Regional background, no war duration"}
+{"qid": "dev_query962", "did": "candidate_dev_query962_00085", "judge": "A", "label": 0, "reason": "Snowboarder Chloe Kim, not hockey"}
+{"qid": "dev_query995", "did": "candidate_dev_query995_00013", "judge": "A", "label": 0, "reason": "Krasnoyarsk Krai, not Krasnodar"}
+{"qid": "dev_query184", "did": "candidate_dev_query184_00093", "judge": "A", "label": 0, "reason": "Origin of novel idea, no writing duration"}
+{"qid": "dev_query603", "did": "candidate_dev_query603_00034", "judge": "A", "label": 1, "reason": "Mentions keeping the same 11 time zones"}
+{"qid": "dev_query31", "did": "candidate_dev_query31_00004", "judge": "A", "label": 0, "reason": "Does not say Babylon was Alexander's center"}
+{"qid": "dev_query190", "did": "candidate_dev_query190_00099", "judge": "A", "label": 0, "reason": "About Rink, not John Rae"}
+{"qid": "dev_query984", "did": "candidate_dev_query984_00087", "judge": "A", "label": 0, "reason": "Planetarium location only, no opening date"}
+{"qid": "dev_query635", "did": "candidate_dev_query635_00023", "judge": "A", "label": 0, "reason": "About the name, no birth year"}
+{"qid": "dev_query1188", "did": "candidate_dev_query1188_00030", "judge": "A", "label": 1, "reason": "XXX Olympiad in London stated"}
+{"qid": "dev_query454", "did": "candidate_dev_query454_00009", "judge": "A", "label": 0, "reason": "Constitution freedom of religion, no religion named"}
+{"qid": "dev_query680", "did": "candidate_dev_query680_00068", "judge": "A", "label": 0, "reason": "About Narni, not Rome's founding"}
+{"qid": "dev_query713", "did": "candidate_dev_query713_00052", "judge": "A", "label": 0, "reason": "Battle details, no start date"}
+{"qid": "dev_query1188", "did": "candidate_dev_query1188_00033", "judge": "A", "label": 1, "reason": "XXX Olympiad final held in London"}
+{"qid": "dev_query917", "did": "candidate_dev_query917_00095", "judge": "A", "label": 0, "reason": "Canadian rebellions, unrelated"}
+{"qid": "dev_query190", "did": "candidate_dev_query190_00043", "judge": "A", "label": 0, "reason": "About Hall, not John Rae"}
+{"qid": "dev_query988", "did": "candidate_dev_query988_00032", "judge": "A", "label": 0, "reason": "Baltic operation, unrelated to Dalstroy"}
+{"qid": "dev_query1089", "did": "candidate_dev_query1089_00039", "judge": "A", "label": 0, "reason": "Diners Club first but no date"}
+{"qid": "dev_query298", "did": "candidate_dev_query298_00012", "judge": "A", "label": 0, "reason": "Only about Tuapse, no city count"}
+{"qid": "dev_query198", "did": "candidate_dev_query198_00036", "judge": "A", "label": 0, "reason": "No invention date for ICE"}
+{"qid": "dev_query81", "did": "candidate_dev_query81_00050", "judge": "A", "label": 0, "reason": "Armor discussion, production start not stated"}
+{"qid": "dev_query947", "did": "candidate_dev_query947_00075", "judge": "A", "label": 0, "reason": "1893 population, no founding date"}
+{"qid": "dev_query148", "did": "candidate_dev_query148_00058", "judge": "A", "label": 0, "reason": "Different manifesto (1881 autocracy)"}
+{"qid": "dev_query983", "did": "candidate_dev_query983_00018", "judge": "A", "label": 0, "reason": "Igor Moskalyov, not Dyakonov"}
+{"qid": "dev_query588", "did": "candidate_dev_query588_00027", "judge": "A", "label": 0, "reason": "Pianist competition, not museum"}
+{"qid": "dev_query66", "did": "candidate_dev_query66_00097", "judge": "A", "label": 1, "reason": "Henry VIII founded Anglican church to divorce"}
+{"qid": "dev_query1189", "did": "candidate_dev_query1189_00017", "judge": "A", "label": 1, "reason": "Describes a Nizhny Novgorod metro station"}
+{"qid": "dev_query605", "did": "candidate_dev_query605_00020", "judge": "A", "label": 1, "reason": "Names Visigothic kings like Theudis"}
+{"qid": "dev_query103", "did": "candidate_dev_query103_00054", "judge": "A", "label": 0, "reason": "Different university faculty"}
+{"qid": "dev_query713", "did": "candidate_dev_query713_00041", "judge": "A", "label": 0, "reason": "Times of day only, no date"}
+{"qid": "dev_query1187", "did": "candidate_dev_query1187_00077", "judge": "A", "label": 0, "reason": "Wartime inflation data, doesn't settle question"}
+{"qid": "dev_query891", "did": "candidate_dev_query891_00009", "judge": "A", "label": 0, "reason": "No sibling count"}
+{"qid": "dev_query570", "did": "candidate_dev_query570_00090", "judge": "A", "label": 1, "reason": "Born in Beaconsfield, Buckinghamshire"}
+{"qid": "dev_query366", "did": "candidate_dev_query366_00099", "judge": "A", "label": 0, "reason": "About Karmiel buses, not Carmelit"}
+{"qid": "dev_query1185", "did": "candidate_dev_query1185_00031", "judge": "A", "label": 0, "reason": "Gold deposit in Armenia, not Mongolia"}
+{"qid": "dev_query185", "did": "candidate_dev_query185_00003", "judge": "A", "label": 1, "reason": "Concrete known over 4000 years, Mesopotamia"}
+{"qid": "dev_query820", "did": "candidate_dev_query820_00016", "judge": "A", "label": 0, "reason": "Capital at that time, not first capital"}
+{"qid": "dev_query435", "did": "candidate_dev_query435_00047", "judge": "A", "label": 1, "reason": "Same-sex marriages registered under German law"}
+{"qid": "dev_query916", "did": "candidate_dev_query916_00007", "judge": "A", "label": 0, "reason": "Historiography of Livy, not his politics"}
+{"qid": "dev_query646", "did": "candidate_dev_query646_00015", "judge": "A", "label": 0, "reason": "Arrow energy, not flight range"}
+{"qid": "dev_query60", "did": "candidate_dev_query60_00086", "judge": "A", "label": 1, "reason": "Tartan patterns linked to clans, regions, regiments"}
+{"qid": "dev_query1000", "did": "candidate_dev_query1000_00019", "judge": "A", "label": 1, "reason": "Odessa on Black Sea shore"}
+{"qid": "dev_query165", "did": "candidate_dev_query165_00084", "judge": "A", "label": 0, "reason": "No date for Djindjic becoming PM"}
+{"qid": "dev_query181", "did": "candidate_dev_query181_00055", "judge": "A", "label": 0, "reason": "STALKER game, not Tidus"}
+{"qid": "dev_query467", "did": "candidate_dev_query467_00071", "judge": "A", "label": 0, "reason": "Casualty figures, no cause"}
+{"qid": "dev_query500", "did": "candidate_dev_query500_00062", "judge": "A", "label": 0, "reason": "Tokhtamysh siege, unrelated"}
+{"qid": "dev_query389", "did": "candidate_dev_query389_00003", "judge": "A", "label": 0, "reason": "No height given"}
+{"qid": "dev_query461", "did": "candidate_dev_query461_00034", "judge": "A", "label": 0, "reason": "Kabul palace, not Sheki"}
+{"qid": "dev_query1052", "did": "candidate_dev_query1052_00021", "judge": "A", "label": 1, "reason": "Peasant War began 1524"}
+{"qid": "dev_query1202", "did": "candidate_dev_query1202_00005", "judge": "A", "label": 1, "reason": "Xen is link in teleportation process"}
+{"qid": "dev_query901", "did": "candidate_dev_query901_00032", "judge": "A", "label": 0, "reason": "Different person, Kurilo"}
+{"qid": "dev_query388", "did": "candidate_dev_query388_00092", "judge": "A", "label": 0, "reason": "French gold reserve, not US location"}
+{"qid": "dev_query356", "did": "candidate_dev_query356_00062", "judge": "A", "label": 0, "reason": "No formation date of emirate"}
+{"qid": "dev_query636", "did": "candidate_dev_query636_00064", "judge": "A", "label": 0, "reason": "Japanese general, no Soviet commander"}
+{"qid": "dev_query1133", "did": "candidate_dev_query1133_00050", "judge": "A", "label": 0, "reason": "Influence praised, scandal not addressed"}
+{"qid": "dev_query830", "did": "candidate_dev_query830_00021", "judge": "A", "label": 0, "reason": "Zener biography, no diode purpose"}
+{"qid": "dev_query889", "did": "candidate_dev_query889_00011", "judge": "A", "label": 1, "reason": "Son from Cleopatra named Caesarion"}
+{"qid": "dev_query165", "did": "candidate_dev_query165_00095", "judge": "A", "label": 0, "reason": "About Zizic, not Djindjic"}
+{"qid": "dev_query1183", "did": "candidate_dev_query1183_00003", "judge": "A", "label": 0, "reason": "AAC founding, Ferrari firm date not given"}
+{"qid": "dev_query480", "did": "candidate_dev_query480_00058", "judge": "A", "label": 0, "reason": "One author's claim, doesn't settle"}
+{"qid": "dev_query193", "did": "candidate_dev_query193_00041", "judge": "A", "label": 0, "reason": "In-story 1940, creation year not stated"}
+{"qid": "dev_query80", "did": "candidate_dev_query80_00061", "judge": "A", "label": 0, "reason": "Later Apple history, no founding year"}
+{"qid": "dev_query1135", "did": "candidate_dev_query1135_00000", "judge": "A", "label": 0, "reason": "Legal status, no length"}
+{"qid": "dev_query961", "did": "candidate_dev_query961_00002", "judge": "A", "label": 0, "reason": "Ivan Melnikov, not Pavel"}
+{"qid": "dev_query1084", "did": "candidate_dev_query1084_00085", "judge": "A", "label": 1, "reason": "October Revolution of 1917 mentioned"}
+{"qid": "dev_query240", "did": "candidate_dev_query240_00056", "judge": "A", "label": 0, "reason": "No link to West Port murders"}
+{"qid": "dev_query80", "did": "candidate_dev_query80_00077", "judge": "A", "label": 0, "reason": "Apple III development, no founding year"}
+{"qid": "dev_query155", "did": "candidate_dev_query155_00068", "judge": "A", "label": 1, "reason": "Bismarck Archipelago, Papua New Guinea"}
+{"qid": "dev_query1189", "did": "candidate_dev_query1189_00068", "judge": "A", "label": 1, "reason": "Nizhny Novgorod metro station opened"}
+{"qid": "dev_query1053", "did": "candidate_dev_query1053_00090", "judge": "A", "label": 0, "reason": "Shatura district, not Singapore"}
+{"qid": "dev_query709", "did": "candidate_dev_query709_00034", "judge": "A", "label": 0, "reason": "Ports info, no release date"}
+{"qid": "dev_query923", "did": "candidate_dev_query923_00016", "judge": "A", "label": 0, "reason": "Georgiana Spencer, not Edmund"}
+{"qid": "dev_query952", "did": "candidate_dev_query952_00006", "judge": "A", "label": 0, "reason": "Tribe article, no river mouth"}
+{"qid": "dev_query293", "did": "candidate_dev_query293_00012", "judge": "A", "label": 1, "reason": "Ahmed Javad's march became anthem"}
+{"qid": "dev_query649", "did": "candidate_dev_query649_00039", "judge": "A", "label": 0, "reason": "Armenians in Moscow, no founding date"}
+{"qid": "dev_query647", "did": "candidate_dev_query647_00066", "judge": "A", "label": 0, "reason": "Factory name, not the vessel"}
+{"qid": "dev_query422", "did": "candidate_dev_query422_00005", "judge": "A", "label": 0, "reason": "Zero-knowledge cave story, unrelated"}
+{"qid": "dev_query142", "did": "candidate_dev_query142_00005", "judge": "A", "label": 0, "reason": "Basketball club founders, not city"}
+{"qid": "dev_query299", "did": "candidate_dev_query299_00011", "judge": "A", "label": 0, "reason": "Factory history, not invention"}
+{"qid": "dev_query390", "did": "candidate_dev_query390_00087", "judge": "A", "label": 1, "reason": "Korean War 1950-1953"}
+{"qid": "dev_query668", "did": "candidate_dev_query668_00016", "judge": "A", "label": 1, "reason": "Patriarchate 1990-2008, 18 years"}
+{"qid": "dev_query1175", "did": "candidate_dev_query1175_00027", "judge": "A", "label": 0, "reason": "Sami indigenous north, not first inhabitants"}
+{"qid": "dev_query1223", "did": "candidate_dev_query1223_00010", "judge": "A", "label": 0, "reason": "Only film slogan"}
+{"qid": "dev_query719", "did": "candidate_dev_query719_00095", "judge": "A", "label": 1, "reason": "Berlin Wall built in 1961"}
+{"qid": "dev_query39", "did": "candidate_dev_query39_00048", "judge": "A", "label": 1, "reason": "22 drawbridges stated"}
+{"qid": "dev_query258", "did": "candidate_dev_query258_00014", "judge": "A", "label": 0, "reason": "No firefighter death count"}
+{"qid": "dev_query164", "did": "candidate_dev_query164_00035", "judge": "A", "label": 0, "reason": "George Steiner, not Giddens"}
+{"qid": "dev_query356", "did": "candidate_dev_query356_00018", "judge": "A", "label": 0, "reason": "Biography, no emirate formation date"}
+{"qid": "dev_query75", "did": "candidate_dev_query75_00032", "judge": "A", "label": 0, "reason": "WWII on Don, not Civil War"}
+{"qid": "dev_query961", "did": "candidate_dev_query961_00063", "judge": "A", "label": 0, "reason": "Pavel Biryukov, not Melnikov"}
+{"qid": "dev_query675", "did": "candidate_dev_query675_00039", "judge": "A", "label": 0, "reason": "Norway service, not Israel"}
+{"qid": "dev_query299", "did": "candidate_dev_query299_00026", "judge": "A", "label": 0, "reason": "Definition only, no invention date"}
+{"qid": "dev_query783", "did": "candidate_dev_query783_00078", "judge": "A", "label": 1, "reason": "Implies Vysotsky played guitar himself"}
+{"qid": "dev_query1243", "did": "candidate_dev_query1243_00094", "judge": "A", "label": 0, "reason": "Zeebo edition, not Japan release"}
+{"qid": "dev_query1175", "did": "candidate_dev_query1175_00079", "judge": "A", "label": 0, "reason": "Rock carvings, no people named"}
+{"qid": "dev_query366", "did": "candidate_dev_query366_00067", "judge": "A", "label": 0, "reason": "Haifa district, no Carmelit station count"}
+{"qid": "dev_query697", "did": "candidate_dev_query697_00080", "judge": "A", "label": 0, "reason": "Castro's release, no birthplace"}
+{"qid": "dev_query827", "did": "candidate_dev_query827_00012", "judge": "A", "label": 0, "reason": "General adaptations, not The Stand"}
+{"qid": "dev_query389", "did": "candidate_dev_query389_00087", "judge": "A", "label": 0, "reason": "About Ponchik, no height"}
+{"qid": "dev_query262", "did": "candidate_dev_query262_00007", "judge": "A", "label": 0, "reason": "No end date for Entente"}
+{"qid": "dev_query962", "did": "candidate_dev_query962_00068", "judge": "A", "label": 0, "reason": "Hockey history, no 2014 winner"}
+{"qid": "dev_query240", "did": "candidate_dev_query240_00043", "judge": "A", "label": 0, "reason": "Chilean hate crime law, unrelated"}
+{"qid": "dev_query478", "did": "candidate_dev_query478_00023", "judge": "A", "label": 0, "reason": "Corporate info, no founder"}
+{"qid": "dev_query556", "did": "candidate_dev_query556_00004", "judge": "A", "label": 1, "reason": "Wife Nina Alexandrovna Griboyedova"}
+{"qid": "dev_query472", "did": "candidate_dev_query472_00005", "judge": "A", "label": 1, "reason": "Agreed February 2015 in Minsk"}
+{"qid": "dev_query1230", "did": "candidate_dev_query1230_00069", "judge": "A", "label": 0, "reason": "Pyotr Ushaty, not Justinian"}
+{"qid": "dev_query917", "did": "candidate_dev_query917_00066", "judge": "A", "label": 0, "reason": "Street renaming, unrelated"}
+{"qid": "dev_query870", "did": "candidate_dev_query870_00061", "judge": "A", "label": 0, "reason": "Easter Island legend, not Rapa Iti"}
+{"qid": "dev_query631", "did": "candidate_dev_query631_00061", "judge": "A", "label": 1, "reason": "Kremenchuk in Poltava Oblast, Ukraine"}
+{"qid": "dev_query1135", "did": "candidate_dev_query1135_00010", "judge": "A", "label": 0, "reason": "Tuzla conflict, no strait length"}
+{"qid": "dev_query225", "did": "candidate_dev_query225_00082", "judge": "A", "label": 1, "reason": "Union created Ruthenian Uniate Church"}
+{"qid": "dev_query1159", "did": "candidate_dev_query1159_00015", "judge": "A", "label": 0, "reason": "Hump shape, not contents"}
+{"qid": "dev_query1150", "did": "candidate_dev_query1150_00050", "judge": "A", "label": 1, "reason": "Trotsky went as Balkan war correspondent"}
+{"qid": "dev_query730", "did": "candidate_dev_query730_00093", "judge": "A", "label": 0, "reason": "Queer theology, not Sanders"}
+{"qid": "dev_query1185", "did": "candidate_dev_query1185_00006", "judge": "A", "label": 0, "reason": "Trona mineral in Mongolia, not gold"}
+{"qid": "dev_query961", "did": "candidate_dev_query961_00016", "judge": "A", "label": 0, "reason": "Pavel Velikanov, not Melnikov"}
+{"qid": "dev_query218", "did": "candidate_dev_query218_00085", "judge": "A", "label": 0, "reason": "Kazakhstan anthem, not Azerbaijan"}
+{"qid": "dev_query329", "did": "candidate_dev_query329_00000", "judge": "A", "label": 1, "reason": "Producers Kostyuk and Meladze at creation"}
+{"qid": "dev_query986", "did": "candidate_dev_query986_00016", "judge": "A", "label": 0, "reason": "Military school paper, not Solonevich"}
+{"qid": "dev_query1078", "did": "candidate_dev_query1078_00035", "judge": "A", "label": 0, "reason": "Organization dates, no opening date"}

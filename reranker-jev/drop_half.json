@@ -1,0 +1,22 @@
+{
+ "queries": 300,
+ "added_positives": 858,
+ "share_dropped": 0.5,
+ "seeds": 20,
+ "relabelled": {
+  "jev-pw": 91.3,
+  "jev-list": 87.6,
+  "fd": 81.6,
+  "bge": 79.0,
+  "qwen3-0.6b": 75.2,
+  "kalm-nano-r2": 78.8
+ },
+ "drop_half": {
+  "jev-pw": 84.4,
+  "jev-list": 82.4,
+  "fd": 79.6,
+  "bge": 78.1,
+  "qwen3-0.6b": 74.2,
+  "kalm-nano-r2": 77.7
+ }
+}

@@ -1,0 +1,202 @@
+[
+ {
+  "id": 1,
+  "label": "relevant"
+ },
+ {
+  "id": 2,
+  "label": "not_relevant"
+ },
+ {
+  "id": 3,
+  "label": "not_relevant"
+ },
+ {
+  "id": 4,
+  "label": "relevant"
+ },
+ {
+  "id": 5,
+  "label": "not_relevant"
+ },
+ {
+  "id": 6,
+  "label": "not_relevant"
+ },
+ {
+  "id": 7,
+  "label": "relevant"
+ },
+ {
+  "id": 8,
+  "label": "not_relevant"
+ },
+ {
+  "id": 9,
+  "label": "not_relevant"
+ },
+ {
+  "id": 10,
+  "label": "not_relevant"
+ },
+ {
+  "id": 11,
+  "label": "not_relevant"
+ },
+ {
+  "id": 12,
+  "label": "not_relevant"
+ },
+ {
+  "id": 13,
+  "label": "not_relevant"
+ },
+ {
+  "id": 14,
+  "label": "not_relevant"
+ },
+ {
+  "id": 15,
+  "label": "not_relevant"
+ },
+ {
+  "id": 16,
+  "label": "not_relevant"
+ },
+ {
+  "id": 17,
+  "label": "unsure"
+ },
+ {
+  "id": 18,
+  "label": "not_relevant"
+ },
+ {
+  "id": 19,
+  "label": "not_relevant"
+ },
+ {
+  "id": 20,
+  "label": "not_relevant"
+ },
+ {
+  "id": 21,
+  "label": "not_relevant"
+ },
+ {
+  "id": 22,
+  "label": "not_relevant"
+ },
+ {
+  "id": 23,
+  "label": "not_relevant"
+ },
+ {
+  "id": 24,
+  "label": "not_relevant"
+ },
+ {
+  "id": 25,
+  "label": "not_relevant"
+ },
+ {
+  "id": 26,
+  "label": "not_relevant"
+ },
+ {
+  "id": 27,
+  "label": "not_relevant"
+ },
+ {
+  "id": 28,
+  "label": "not_relevant"
+ },
+ {
+  "id": 29,
+  "label": "not_relevant"
+ },
+ {
+  "id": 30,
+  "label": "relevant"
+ },
+ {
+  "id": 31,
+  "label": "not_relevant"
+ },
+ {
+  "id": 32,
+  "label": "not_relevant"
+ },
+ {
+  "id": 33,
+  "label": "not_relevant"
+ },
+ {
+  "id": 34,
+  "label": "not_relevant"
+ },
+ {
+  "id": 35,
+  "label": "not_relevant"
+ },
+ {
+  "id": 36,
+  "label": "not_relevant"
+ },
+ {
+  "id": 37,
+  "label": "not_relevant"
+ },
+ {
+  "id": 38,
+  "label": "relevant"
+ },
+ {
+  "id": 39,
+  "label": "not_relevant"
+ },
+ {
+  "id": 40,
+  "label": "not_relevant"
+ },
+ {
+  "id": 41,
+  "label": "not_relevant"
+ },
+ {
+  "id": 42,
+  "label": "unsure"
+ },
+ {
+  "id": 43,
+  "label": "not_relevant"
+ },
+ {
+  "id": 44,
+  "label": "not_relevant"
+ },
+ {
+  "id": 45,
+  "label": "not_relevant"
+ },
+ {
+  "id": 46,
+  "label": "not_relevant"
+ },
+ {
+  "id": 47,
+  "label": "not_relevant"
+ },
+ {
+  "id": 48,
+  "label": "not_relevant"
+ },
+ {
+  "id": 49,
+  "label": "not_relevant"
+ },
+ {
+  "id": 50,
+  "label": "not_relevant"
+ }
+]

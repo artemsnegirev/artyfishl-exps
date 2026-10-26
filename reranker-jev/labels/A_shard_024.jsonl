@@ -1,0 +1,127 @@
+{"qid": "dev_query273", "did": "candidate_dev_query273_00053", "judge": "A", "label": 0, "reason": "Constitutional monarchy, no Reims coronations"}
+{"qid": "dev_query901", "did": "candidate_dev_query901_00059", "judge": "A", "label": 0, "reason": "About actress Fruktina, not Dikgof"}
+{"qid": "dev_query635", "did": "candidate_dev_query635_00028", "judge": "A", "label": 0, "reason": "Luther pamphlet title, no birth year"}
+{"qid": "dev_query917", "did": "candidate_dev_query917_00081", "judge": "A", "label": 0, "reason": "Spas-Klepiki uprising, not Izhevsk-Votkinsk"}
+{"qid": "dev_query873", "did": "candidate_dev_query873_00005", "judge": "A", "label": 0, "reason": "Mentions his role in film, no song performed"}
+{"qid": "dev_query746", "did": "candidate_dev_query746_00015", "judge": "A", "label": 0, "reason": "Raskolniki census behavior, no definition"}
+{"qid": "dev_query659", "did": "candidate_dev_query659_00076", "judge": "A", "label": 0, "reason": "Wess biography, no CERN staff count"}
+{"qid": "dev_query659", "did": "candidate_dev_query659_00010", "judge": "A", "label": 0, "reason": "Veneziano career, no CERN staff count"}
+{"qid": "dev_query838", "did": "candidate_dev_query838_00032", "judge": "A", "label": 0, "reason": "Taliska fictional language, not Tolkien's own languages"}
+{"qid": "dev_query598", "did": "candidate_dev_query598_00035", "judge": "A", "label": 0, "reason": "Development and sales dates, no release date"}
+{"qid": "dev_query646", "did": "candidate_dev_query646_00005", "judge": "A", "label": 1, "reason": "Names arrow mass, length, shape, speed, elevation angle"}
+{"qid": "dev_query1189", "did": "candidate_dev_query1189_00014", "judge": "A", "label": 1, "reason": "States Nizhny Novgorod has metro network"}
+{"qid": "dev_query47", "did": "candidate_dev_query47_00095", "judge": "A", "label": 0, "reason": "Only wall insulation, no definition of khrushchevka"}
+{"qid": "dev_query749", "did": "candidate_dev_query749_00064", "judge": "A", "label": 0, "reason": "Sosenki village distance, not Novomoskovsk city"}
+{"qid": "dev_query467", "did": "candidate_dev_query467_00065", "judge": "A", "label": 0, "reason": "Air raid details, no cause of operation"}
+{"qid": "dev_query931", "did": "candidate_dev_query931_00040", "judge": "A", "label": 0, "reason": "1887 permission to open, founding date not explicit"}
+{"qid": "dev_query1160", "did": "candidate_dev_query1160_00032", "judge": "A", "label": 1, "reason": "Ivan the Terrible organized standing streltsy army"}
+{"qid": "dev_query90", "did": "candidate_dev_query90_00024", "judge": "A", "label": 1, "reason": "Protest leaders urged preventing Putin's victory"}
+{"qid": "dev_query641", "did": "candidate_dev_query641_00000", "judge": "A", "label": 1, "reason": "Salute for liberation of Belgorod and Orel"}
+{"qid": "dev_query148", "did": "candidate_dev_query148_00009", "judge": "A", "label": 1, "reason": "Manifesto dated 1905"}
+{"qid": "dev_query599", "did": "candidate_dev_query599_00068", "judge": "A", "label": 0, "reason": "Sovgavan airport, not Khabarovsk's largest"}
+{"qid": "dev_query359", "did": "candidate_dev_query359_00013", "judge": "A", "label": 0, "reason": "Maya graffiti, not earliest graffiti"}
+{"qid": "dev_query164", "did": "candidate_dev_query164_00070", "judge": "A", "label": 0, "reason": "Double hermeneutics concept, no Asturias prize"}
+{"qid": "dev_query882", "did": "candidate_dev_query882_00090", "judge": "A", "label": 0, "reason": "Anime licensing and OVAs, no doujin game info"}
+{"qid": "dev_query532", "did": "candidate_dev_query532_00015", "judge": "A", "label": 0, "reason": "E3 presentation, no Russian release date"}
+{"qid": "dev_query1000", "did": "candidate_dev_query1000_00016", "judge": "A", "label": 0, "reason": "Black Sea shipping, Odessa on sea not stated"}
+{"qid": "dev_query1187", "did": "candidate_dev_query1187_00076", "judge": "A", "label": 0, "reason": "Wartime land rumors, not pre-war formulation"}
+{"qid": "dev_query530", "did": "candidate_dev_query530_00031", "judge": "A", "label": 0, "reason": "About Raman's Nobel, not Kapitsa"}
+{"qid": "dev_query563", "did": "candidate_dev_query563_00096", "judge": "A", "label": 0, "reason": "Knyaginin monastery near Rostov, not agrotown"}
+{"qid": "dev_query1060", "did": "candidate_dev_query1060_00069", "judge": "A", "label": 0, "reason": "Samarova village legend, not Almaty"}
+{"qid": "dev_query974", "did": "candidate_dev_query974_00070", "judge": "A", "label": 1, "reason": "Republic of South Ossetia declared independence"}
+{"qid": "dev_query1160", "did": "candidate_dev_query1160_00004", "judge": "A", "label": 0, "reason": "Peter I army, not first streltsy formation"}
+{"qid": "dev_query389", "did": "candidate_dev_query389_00054", "judge": "A", "label": 1, "reason": "Korotyshki in Flower City are cucumber-sized"}
+{"qid": "dev_query1053", "did": "candidate_dev_query1053_00044", "judge": "A", "label": 0, "reason": "Gustavia climate, not Singapore"}
+{"qid": "dev_query190", "did": "candidate_dev_query190_00017", "judge": "A", "label": 1, "reason": "Rae interviewed Eskimos in 1853"}
+{"qid": "dev_query974", "did": "candidate_dev_query974_00075", "judge": "A", "label": 1, "reason": "Russia recognized Republic of South Ossetia"}
+{"qid": "dev_query712", "did": "candidate_dev_query712_00020", "judge": "A", "label": 0, "reason": "Ragnar descended from Odin, not called supreme god"}
+{"qid": "dev_query497", "did": "candidate_dev_query497_00067", "judge": "A", "label": 0, "reason": "Resident Evil plot, not Donner Party"}
+{"qid": "dev_query1038", "did": "candidate_dev_query1038_00014", "judge": "A", "label": 1, "reason": "Crates globe made around 150 BC"}
+{"qid": "dev_query919", "did": "candidate_dev_query919_00027", "judge": "A", "label": 1, "reason": "O'Driscoll captained Ireland in 83 matches"}
+{"qid": "dev_query380", "did": "candidate_dev_query380_00019", "judge": "A", "label": 0, "reason": "Troitskoye stop at km 5585, no total length"}
+{"qid": "dev_query423", "did": "candidate_dev_query423_00090", "judge": "A", "label": 0, "reason": "About Potocki's Argenida, not Nizami"}
+{"qid": "dev_query452", "did": "candidate_dev_query452_00040", "judge": "A", "label": 1, "reason": "1596 marks conclusion of Brest Union"}
+{"qid": "dev_query749", "did": "candidate_dev_query749_00051", "judge": "A", "label": 0, "reason": "Laryovo village distance, not Novomoskovsk city"}
+{"qid": "dev_query921", "did": "candidate_dev_query921_00088", "judge": "A", "label": 0, "reason": "RAF minibus exports, not M3"}
+{"qid": "dev_query31", "did": "candidate_dev_query31_00020", "judge": "A", "label": 0, "reason": "Alexander reached Babylon, not called his center"}
+{"qid": "dev_query668", "did": "candidate_dev_query668_00012", "judge": "A", "label": 0, "reason": "Alexy II on Ukraine, no tenure length"}
+{"qid": "dev_query276", "did": "candidate_dev_query276_00043", "judge": "A", "label": 0, "reason": "Drug trafficking and murders, no human trafficking"}
+{"qid": "dev_query475", "did": "candidate_dev_query475_00028", "judge": "A", "label": 1, "reason": "Tenth anniversary of re-creation in 2006, so 1996"}
+{"qid": "dev_query1005", "did": "candidate_dev_query1005_00068", "judge": "A", "label": 0, "reason": "Camel diseases, no lifespan"}
+{"qid": "dev_query1104", "did": "candidate_dev_query1104_00047", "judge": "A", "label": 0, "reason": "Land Cruiser model, no Toyota founder"}
+{"qid": "dev_query1089", "did": "candidate_dev_query1089_00008", "judge": "A", "label": 0, "reason": "Card issuance definition, no first use date"}
+{"qid": "dev_query599", "did": "candidate_dev_query599_00064", "judge": "A", "label": 0, "reason": "Sovgavan airport flights, not Khabarovsk airport"}
+{"qid": "dev_query455", "did": "candidate_dev_query455_00045", "judge": "A", "label": 0, "reason": "About Richard Harris, not Richie McCaw"}
+{"qid": "dev_query1215", "did": "candidate_dev_query1215_00003", "judge": "A", "label": 1, "reason": "Pyramids are huge stone structures, limestone"}
+{"qid": "dev_query457", "did": "candidate_dev_query457_00052", "judge": "A", "label": 1, "reason": "Swedish crusade of 1293 founded Vyborg"}
+{"qid": "dev_query228", "did": "candidate_dev_query228_00076", "judge": "A", "label": 0, "reason": "Roskosmos award order, no formation date"}
+{"qid": "dev_query1052", "did": "candidate_dev_query1052_00015", "judge": "A", "label": 0, "reason": "Panorama of 1525 battle, not war start year"}
+{"qid": "dev_query1045", "did": "candidate_dev_query1045_00041", "judge": "A", "label": 0, "reason": "Koettlitz Ethiopia expedition, no birth date"}
+{"qid": "dev_query240", "did": "candidate_dev_query240_00091", "judge": "A", "label": 0, "reason": "Patriot Act after 9/11, not West Port murders"}
+{"qid": "dev_query1233", "did": "candidate_dev_query1233_00000", "judge": "A", "label": 1, "reason": "Talbot first used spark flash in 1851"}
+{"qid": "dev_query475", "did": "candidate_dev_query475_00023", "judge": "A", "label": 0, "reason": "BATE fifth place 1975, no founding year"}
+{"qid": "dev_query276", "did": "candidate_dev_query276_00005", "judge": "A", "label": 1, "reason": "Arrests for trafficking people included MS-13 members"}
+{"qid": "dev_query953", "did": "candidate_dev_query953_00022", "judge": "A", "label": 0, "reason": "Crusader kingdom, no founding of Jerusalem"}
+{"qid": "dev_query449", "did": "candidate_dev_query449_00079", "judge": "A", "label": 0, "reason": "No serfdom at Kama source, not Suvorov"}
+{"qid": "dev_query989", "did": "candidate_dev_query989_00063", "judge": "A", "label": 0, "reason": "Brady small Texas town, not largest city"}
+{"qid": "dev_query59", "did": "candidate_dev_query59_00037", "judge": "A", "label": 1, "reason": "Retirement at 60/55 plus half year in 2019"}
+{"qid": "dev_query71", "did": "candidate_dev_query71_00096", "judge": "A", "label": 0, "reason": "Varnava schism in Cannes, not Photian schism"}
+{"qid": "dev_query117", "did": "candidate_dev_query117_00027", "judge": "A", "label": 0, "reason": "Parubiy and People's Front 2014, not 2019 count"}
+{"qid": "dev_query927", "did": "candidate_dev_query927_00090", "judge": "A", "label": 0, "reason": "Berlusconi court cases, no years in office"}
+{"qid": "dev_query552", "did": "candidate_dev_query552_00029", "judge": "A", "label": 0, "reason": "Black Room cast list, no Brigada role"}
+{"qid": "dev_query1187", "did": "candidate_dev_query1187_00000", "judge": "A", "label": 1, "reason": "Some prerequisites formulated before WWI, Durnovo note"}
+{"qid": "dev_query1205", "did": "candidate_dev_query1205_00062", "judge": "A", "label": 0, "reason": "First World War dates, not Hundred Years War"}
+{"qid": "dev_query336", "did": "candidate_dev_query336_00095", "judge": "A", "label": 1, "reason": "Togliatti lies across the Volga from Zhigulyovsk"}
+{"qid": "dev_query668", "did": "candidate_dev_query668_00027", "judge": "A", "label": 0, "reason": "Alexy II death and council, no tenure length"}
+{"qid": "dev_query917", "did": "candidate_dev_query917_00043", "judge": "A", "label": 0, "reason": "Berdyansk uprising April 1918, not Izhevsk"}
+{"qid": "dev_query71", "did": "candidate_dev_query71_00034", "judge": "A", "label": 0, "reason": "Antioch church Arian schism, not Photian"}
+{"qid": "dev_query652", "did": "candidate_dev_query652_00099", "judge": "A", "label": 0, "reason": "Jean-Jacques Chatelain born 1736, not Rousseau"}
+{"qid": "dev_query124", "did": "candidate_dev_query124_00031", "judge": "A", "label": 1, "reason": "Universe expansion described as accelerating"}
+{"qid": "dev_query493", "did": "candidate_dev_query493_00008", "judge": "A", "label": 0, "reason": "Fictional wars between humans and duotts"}
+{"qid": "dev_query783", "did": "candidate_dev_query783_00004", "judge": "A", "label": 0, "reason": "Galileo role with telescope, no musical instrument"}
+{"qid": "dev_query841", "did": "candidate_dev_query841_00018", "judge": "A", "label": 0, "reason": "Admiral Whitcombe, not main hero"}
+{"qid": "dev_query988", "did": "candidate_dev_query988_00002", "judge": "A", "label": 0, "reason": "Ushosdorlag subunit, no Dalstroy main task"}
+{"qid": "dev_query916", "did": "candidate_dev_query916_00013", "judge": "A", "label": 1, "reason": "Discusses Livy's conservative or neutral political stance"}
+{"qid": "dev_query1061", "did": "candidate_dev_query1061_00047", "judge": "A", "label": 1, "reason": "Review says game set in variation of Wonderland"}
+{"qid": "dev_query346", "did": "candidate_dev_query346_00021", "judge": "A", "label": 0, "reason": "Tokareva mansion, not List mansion"}
+{"qid": "dev_query1023", "did": "candidate_dev_query1023_00016", "judge": "A", "label": 0, "reason": "Ridley mentioned as brother, no birth date"}
+{"qid": "dev_query910", "did": "candidate_dev_query910_00095", "judge": "A", "label": 0, "reason": "Qatar houses, not Mongolian nomad dwelling"}
+{"qid": "dev_query1243", "did": "candidate_dev_query1243_00072", "judge": "A", "label": 0, "reason": "PC HD edition 2014, not Japan original release"}
+{"qid": "dev_query984", "did": "candidate_dev_query984_00013", "judge": "A", "label": 0, "reason": "Nizhny Novgorod planetarium, not St Petersburg"}
+{"qid": "dev_query974", "did": "candidate_dev_query974_00014", "judge": "A", "label": 1, "reason": "Constitution names Republic of South Ossetia"}
+{"qid": "dev_query273", "did": "candidate_dev_query273_00044", "judge": "A", "label": 0, "reason": "Bokassa coronation, not Reims"}
+{"qid": "dev_query530", "did": "candidate_dev_query530_00005", "judge": "A", "label": 0, "reason": "Nobel physics rules, nothing on Kapitsa"}
+{"qid": "dev_query346", "did": "candidate_dev_query346_00019", "judge": "A", "label": 0, "reason": "Shekhtel's Morozova mansion, not List mansion"}
+{"qid": "dev_query697", "did": "candidate_dev_query697_00027", "judge": "A", "label": 0, "reason": "Castro baptism and Church, no birthplace"}
+{"qid": "dev_query73", "did": "candidate_dev_query73_00006", "judge": "A", "label": 0, "reason": "Agapit born under Diocletian, no birth date"}
+{"qid": "dev_query1189", "did": "candidate_dev_query1189_00038", "judge": "A", "label": 1, "reason": "Nizhny Novgorod metro station near street"}
+{"qid": "dev_query917", "did": "candidate_dev_query917_00082", "judge": "A", "label": 0, "reason": "Novgorod 1071 uprising, not Izhevsk-Votkinsk"}
+{"qid": "dev_query336", "did": "candidate_dev_query336_00018", "judge": "A", "label": 1, "reason": "Togliatti street runs along Volga river"}
+{"qid": "dev_query438", "did": "candidate_dev_query438_00072", "judge": "A", "label": 0, "reason": "Hahnemann coined allopathy, no date"}
+{"qid": "dev_query99", "did": "candidate_dev_query99_00078", "judge": "A", "label": 0, "reason": "Generic military ration list, not blockade bread"}
+{"qid": "dev_query631", "did": "candidate_dev_query631_00049", "judge": "A", "label": 0, "reason": "Kremenchug rail links, no location stated"}
+{"qid": "dev_query117", "did": "candidate_dev_query117_00004", "judge": "A", "label": 0, "reason": "Muraev bio, no 2019 party count"}
+{"qid": "dev_query1218", "did": "candidate_dev_query1218_00021", "judge": "A", "label": 0, "reason": "Supernova observation history, no definition"}
+{"qid": "dev_query649", "did": "candidate_dev_query649_00079", "judge": "A", "label": 0, "reason": "Panfilov division film, no Moscow founding"}
+{"qid": "dev_query1220", "did": "candidate_dev_query1220_00024", "judge": "A", "label": 1, "reason": "Plato named Aristotle's direct teacher"}
+{"qid": "dev_query157", "did": "candidate_dev_query157_00017", "judge": "A", "label": 0, "reason": "Prostitution in USSR, not Byzantium"}
+{"qid": "dev_query92", "did": "candidate_dev_query92_00010", "judge": "A", "label": 0, "reason": "Insect egg sizes, not Hymenoptera size"}
+{"qid": "dev_query9", "did": "candidate_dev_query9_00067", "judge": "A", "label": 0, "reason": "Bukhara economy, no river named"}
+{"qid": "dev_query312", "did": "candidate_dev_query312_00072", "judge": "A", "label": 0, "reason": "Kalmyk newspaper, no language endangerment info"}
+{"qid": "dev_query917", "did": "candidate_dev_query917_00096", "judge": "A", "label": 0, "reason": "Ainu Shakushain revolt, not Izhevsk-Votkinsk"}
+{"qid": "dev_query499", "did": "candidate_dev_query499_00057", "judge": "A", "label": 0, "reason": "School No. 18 stub, not Columbine"}
+{"qid": "dev_query820", "did": "candidate_dev_query820_00042", "judge": "A", "label": 0, "reason": "Makhachkala Soviet growth, no first capital"}
+{"qid": "dev_query909", "did": "candidate_dev_query909_00069", "judge": "A", "label": 1, "reason": "Stadion Narodowy is Warsaw metro station"}
+{"qid": "dev_query635", "did": "candidate_dev_query635_00039", "judge": "A", "label": 0, "reason": "Jesus ethnicity, Herod died 4 BC, no birth year"}
+{"qid": "dev_query432", "did": "candidate_dev_query432_00005", "judge": "A", "label": 1, "reason": "Nuruddin first successor of founder Ghulam Ahmad"}
+{"qid": "dev_query730", "did": "candidate_dev_query730_00045", "judge": "A", "label": 0, "reason": "Antifeminism, nothing about Sanders"}
+{"qid": "dev_query758", "did": "candidate_dev_query758_00006", "judge": "A", "label": 1, "reason": "Kremlin has 13 towers"}
+{"qid": "dev_query1034", "did": "candidate_dev_query1034_00081", "judge": "A", "label": 0, "reason": "Roman cultural legacy, no founding date"}
+{"qid": "dev_query165", "did": "candidate_dev_query165_00016", "judge": "A", "label": 1, "reason": "Djindjic Serbian PM 2001-2003"}
+{"qid": "dev_query385", "did": "candidate_dev_query385_00051", "judge": "A", "label": 0, "reason": "Louis XIV main residence, not stated first"}
+{"qid": "dev_query475", "did": "candidate_dev_query475_00072", "judge": "A", "label": 1, "reason": "BATE founded in 1996"}
+{"qid": "dev_query1009", "did": "candidate_dev_query1009_00056", "judge": "A", "label": 0, "reason": "1902 novel only, century not settled"}
+{"qid": "dev_query730", "did": "candidate_dev_query730_00081", "judge": "A", "label": 0, "reason": "Rankism movement, nothing about Sanders"}
+{"qid": "dev_query468", "did": "candidate_dev_query468_00008", "judge": "A", "label": 0, "reason": "Film's 125 grams mention, only a hint"}
+{"qid": "dev_query655", "did": "candidate_dev_query655_00022", "judge": "A", "label": 0, "reason": "Babylon history, no year of conquest"}
+{"qid": "dev_query936", "did": "candidate_dev_query936_00005", "judge": "A", "label": 1, "reason": "Arrival of train at La Ciotat station"}
